@@ -1,0 +1,9 @@
+Firminus Caron
+data/res_dict_leuven_chansonnier/b-af-ms-1_134_61v.pickle
+data/res_dict_leuven_chansonnier/b-af-ms-1_135_62r.pickle
+data/res_dict_leuven_chansonnier/b-af-ms-1_136_62v.pickle
+data/res_dict_leuven_chansonnier/b-af-ms-1_137_63r.pickle
+data/source_images/lc_134_61v.jpeg
+data/source_images/lc_135_62r.jpeg
+data/source_images/lc_136_62v.jpeg
+data/source_images/lc_137_63r.jpeg

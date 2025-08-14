@@ -1,0 +1,9 @@
+Firminus Caron / Antoine Busnoys
+data/res_dict_leuven_chansonnier/b-af-ms-1_058_23v.pickle
+data/res_dict_leuven_chansonnier/b-af-ms-1_059_24r.pickle
+data/res_dict_leuven_chansonnier/b-af-ms-1_060_24v.pickle
+data/res_dict_leuven_chansonnier/b-af-ms-1_061_25r.pickle
+data/source_images/lc_058_23v.jpeg
+data/source_images/lc_059_24r.jpeg
+data/source_images/lc_060_24v.jpeg
+data/source_images/lc_061_25r.jpeg

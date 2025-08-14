@@ -1,0 +1,9 @@
+Johannes Ockeghem
+data/res_dict_leuven_chansonnier/b-af-ms-1_086_37v.pickle
+data/res_dict_leuven_chansonnier/b-af-ms-1_087_38r.pickle
+data/res_dict_leuven_chansonnier/b-af-ms-1_088_38v.pickle
+data/res_dict_leuven_chansonnier/b-af-ms-1_089_39r.pickle
+data/source_images/lc_086_37v.jpeg
+data/source_images/lc_087_38r.jpeg
+data/source_images/lc_088_38v.jpeg
+data/source_images/lc_089_39r.jpeg

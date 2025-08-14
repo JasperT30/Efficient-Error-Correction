@@ -1,0 +1,5 @@
+Gilles  Binchois / Guillaume Du Fay
+data/res_dict_leuven_chansonnier/b-af-ms-1_042_15v.pickle
+data/res_dict_leuven_chansonnier/b-af-ms-1_043_16r.pickle
+data/source_images/lc_042_15v.jpeg
+data/source_images/lc_043_16r.jpeg

@@ -1,0 +1,324 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.1+basic">
+	<meiHead>
+		<fileDesc>
+			<titleStmt>
+				<title type="main">Helas mon coeur</title>
+				<respStmt>
+					<persName role="composer">anon</persName>
+				</respStmt>
+			</titleStmt>
+			<sourceDesc>Leuven Chansonnier N°13</sourceDesc>
+			<pubStmt>
+				<date isodate="2025-08-14T12:11:06.281094" />
+			</pubStmt>
+		</fileDesc>
+	</meiHead>
+	<music>
+		<body>
+			<mdiv>
+				<score>
+					<scoreDef>
+						<pgHead func="first">
+							<rend halign="center" valign="top">
+								<rend type="title" fontsize="x-large">Helas mon coeur</rend>
+							</rend>
+							<rend halign="right" valign="bottom">
+								<rend type="composer">anon</rend>
+							</rend>
+							<rend halign="left" valign="bottom">
+								<rend type="file_desc">Leuven Chansonnier N°13</rend>
+							</rend>
+						</pgHead>
+						<staffGrp symbol="bracket">
+							<staffDef n="1" lines="5" label="Discantus" keysig="0" clef.shape="C" clef.line="2" notationtype="mensural.white">
+								<mensur sign="C" slash="0" dot="false" modusmaior="2" modusminor="2" tempus="2" prolatio="2" />
+								<instrDef midi.instrnum="0" />
+							</staffDef>
+							<staffDef n="2" lines="5" label="Tenor" keysig="2f" clef.shape="C" clef.line="2" notationtype="mensural.white">
+								<mensur sign="C" slash="0" dot="false" modusmaior="2" modusminor="2" tempus="2" prolatio="2" />
+								<instrDef midi.instrnum="0" />
+							</staffDef>
+							<staffDef n="3" lines="5" label="Contratenor" keysig="1f" clef.shape="F" clef.line="4" notationtype="mensural.white">
+								<mensur sign="C" slash="0" dot="false" modusmaior="2" modusminor="2" tempus="2" prolatio="2" />
+								<instrDef midi.instrnum="0" />
+							</staffDef>
+						</staffGrp>
+					</scoreDef>
+					<section xml:id="s1">
+						<staff n="1">
+							<layer n="1">
+								<mensur id="sym_0_1" prolatio="2" tempus="2" modusminor="2" modusmaior="2" />
+								<mensur id="sym_0_2" prolatio="2" tempus="2" modusminor="2" modusmaior="2" />
+								<note id="sym_0_3" color="red" oct="4" dur="brevis" pname="g" />
+								<note id="sym_0_4" oct="4" dur="semibrevis" pname="f" />
+								<note id="sym_0_5" oct="4" dur="semibrevis" pname="e" />
+								<note id="sym_0_6" color="red" oct="4" dur="semibrevis" pname="d" />
+								<note id="sym_0_7" oct="4" dur="semibrevis" pname="g" />
+								<note id="sym_0_8" oct="4" dur="semibrevis" pname="f" />
+								<note id="sym_0_9" oct="4" dur="semibrevis" pname="e" />
+								<ligature form="recta">
+									<note id="sym_0_10" color="red" oct="4" dur="semibrevis" pname="d" lig="recta" />
+									<note id="sym_0_11" color="red" oct="4" dur="semibrevis" pname="g" lig="recta" num="2" numbase="3" is_dotted="true" />
+								</ligature>
+								<dot id="sym_0_12" />
+								<note id="sym_0_13" color="blue" oct="4" dur="minima" pname="f" />
+								<note id="sym_0_14" color="blue" oct="4" dur="minima" pname="f" />
+								<note id="sym_0_15" color="blue" oct="4" dur="minima" pname="e" />
+								<note id="sym_0_16" color="blue" oct="4" dur="brevis" pname="g" />
+								<rest id="sym_0_17" dur="brevis" />
+								<note id="sym_0_18" color="red" oct="4" dur="brevis" pname="d" />
+								<note id="sym_0_19" color="red" oct="4" dur="brevis" pname="c" />
+								<custos id="sym_0_20" oct="3" pname="b" />
+								<note id="sym_1_3" color="red" oct="3" dur="brevis" pname="b" accid="f" />
+								<note id="sym_1_4" color="blue" oct="3" dur="brevis" pname="a" />
+								<note id="sym_1_5" color="red" oct="3" dur="semibrevis" pname="b" />
+								<note id="sym_1_6" color="red" oct="3" dur="semibrevis" pname="g" />
+								<note id="sym_1_7" color="red" oct="3" dur="brevis" pname="a" />
+								<note id="sym_1_8" color="red" oct="3" dur="brevis" pname="g" />
+								<rest id="sym_1_9" dur="semibrevis" />
+								<note id="sym_1_10" color="blue" oct="4" dur="semibrevis" pname="d" />
+								<note id="sym_1_11" color="red" oct="4" dur="semibrevis" pname="e" />
+								<note id="sym_1_12" color="red" oct="4" dur="semibrevis" pname="f" />
+								<note id="sym_1_13" oct="4" dur="semibrevis" pname="g" />
+								<note id="sym_1_14" oct="4" dur="semibrevis" pname="a" />
+								<note id="sym_1_15" oct="4" dur="semibrevis" pname="b" num="2" numbase="3" is_dotted="true" />
+								<dot id="sym_1_16" />
+								<note id="sym_1_17" color="blue" oct="4" dur="semiminima" pname="a" />
+								<note id="sym_1_18" oct="4" dur="semiminima" pname="g" />
+								<note id="sym_1_19" color="red" oct="4" dur="semibrevis" pname="f" />
+								<note id="sym_1_20" oct="4" dur="brevis" pname="b" />
+								<ligature form="obliqua">
+									<note id="sym_1_21" color="blue" oct="4" dur="semibrevis" pname="a" lig="obliqua" />
+									<note id="sym_1_22" color="blue" oct="4" dur="semibrevis" pname="a" lig="obliqua" num="2" numbase="3" is_dotted="true" />
+								</ligature>
+								<dot id="sym_1_23" />
+								<note id="sym_1_24" color="blue" oct="4" dur="semibrevis" pname="f" />
+								<fermata />
+								<note id="sym_1_26" color="blue" oct="4" dur="longa" pname="a" fermata="above" />
+								<custos id="sym_1_27" oct="4" pname="b" />
+								<note id="sym_2_3" oct="4" dur="brevis" pname="b" accid="f" />
+								<note id="sym_2_4" oct="4" dur="semibrevis" pname="a" />
+								<note id="sym_2_5" color="blue" oct="4" dur="brevis" pname="g" />
+								<note id="sym_2_6" oct="4" dur="semibrevis" pname="f" />
+								<note id="sym_2_7" color="blue" oct="4" dur="semibrevis" pname="g" num="2" numbase="3" is_dotted="true" />
+								<dot id="sym_2_8" />
+								<note id="sym_2_9" oct="4" dur="minima" pname="f" />
+								<note id="sym_2_10" oct="4" dur="semibrevis" pname="d" />
+								<ligature form="obliqua">
+									<note id="sym_2_11" color="blue" oct="4" dur="semibrevis" pname="g" lig="obliqua" />
+									<note id="sym_2_12" color="blue" oct="4" dur="semibrevis" pname="f" lig="obliqua" />
+								</ligature>
+								<note id="sym_2_13" color="blue" oct="4" dur="semibrevis" pname="e" num="2" numbase="3" is_dotted="true" />
+								<dot id="sym_2_14" />
+								<note id="sym_2_15" color="red" oct="4" dur="minima" pname="d" />
+								<note id="sym_2_16" color="blue" oct="4" dur="brevis" pname="d" />
+								<note id="sym_2_17" color="blue" oct="4" dur="semibrevis" pname="c" />
+								<note id="sym_2_18" oct="4" dur="brevis" pname="d" />
+								<note id="sym_2_19" oct="3" dur="semibrevis" pname="g" />
+								<note id="sym_2_20" oct="3" dur="semibrevis" pname="b" />
+								<note id="sym_2_21" color="blue" oct="4" dur="semibrevis" pname="c" />
+								<custos id="sym_2_22" oct="4" pname="d" />
+								<note id="sym_3_2" oct="4" dur="semibrevis" pname="d" />
+								<note id="sym_3_3" color="red" oct="3" dur="semibrevis" pname="b" />
+								<note id="sym_3_4" color="blue" oct="3" dur="semibrevis" pname="a" />
+								<note id="sym_3_5" oct="4" dur="brevis" pname="d" />
+								<note id="sym_3_6" color="blue" oct="4" dur="semibrevis" pname="c" />
+								<ligature form="recta">
+									<note id="sym_3_7" oct="3" dur="semibrevis" pname="g" lig="recta" />
+									<note id="sym_3_8" oct="3" dur="semibrevis" pname="b" lig="recta" />
+									<note id="sym_3_9" color="blue" oct="3" dur="brevis" pname="a" lig="recta" />
+									<note id="sym_3_10" oct="3" dur="longa" pname="g" lig="recta" />
+								</ligature>
+								<barLine id="sym_3_11" />
+							</layer>
+						</staff>
+						<staff n="2">
+							<layer n="1">
+								<note id="sym_4_3" color="red" oct="4" dur="brevis" pname="g" accid="f" />
+								<note id="sym_4_4" oct="4" dur="semibrevis" pname="a" />
+								<note id="sym_4_5" oct="4" dur="semibrevis" pname="g" />
+								<note id="sym_4_6" oct="4" dur="semibrevis" pname="f" />
+								<note id="sym_4_7" color="red" oct="4" dur="semibrevis" pname="e" />
+								<note id="sym_4_8" oct="4" dur="semibrevis" pname="d" />
+								<note id="sym_4_9" oct="4" dur="semibrevis" pname="c" />
+								<ligature form="obliqua">
+									<note id="sym_4_10" color="red" oct="3" dur="semibrevis" pname="b" lig="obliqua" />
+									<note id="sym_4_11" color="red" oct="3" dur="semibrevis" pname="a" lig="recta" />
+									<note id="sym_4_12" color="red" oct="3" dur="longa" pname="g" lig="recta" />
+								</ligature>
+								<note id="sym_4_13" color="blue" oct="3" dur="brevis" pname="b" />
+								<note id="sym_4_15" color="red" oct="4" dur="semibrevis" pname="e" accid="f" />
+								<note id="sym_4_16" color="red" oct="4" dur="semibrevis" pname="e" />
+								<ligature form="recta">
+									<note id="sym_4_17" color="red" oct="4" dur="semibrevis" pname="d" lig="recta" />
+									<note id="sym_4_18" color="red" oct="4" dur="semibrevis" pname="g" lig="recta" />
+								</ligature>
+								<note id="sym_4_19" color="red" oct="4" dur="semibrevis" pname="f" />
+								<note id="sym_4_20" color="blue" oct="4" dur="semibrevis" pname="a" />
+								<note id="sym_4_21" oct="4" dur="semibrevis" pname="d" />
+								<note id="sym_4_22" color="blue" oct="4" dur="brevis" pname="g" />
+								<note id="sym_4_23" color="red" oct="4" dur="semibrevis" pname="f" />
+								<ligature form="recta">
+									<note id="sym_4_24" color="red" oct="4" dur="semibrevis" pname="g" lig="recta" />
+									<note id="sym_4_25" color="red" oct="4" dur="semibrevis" pname="b" lig="obliqua" />
+									<note id="sym_4_26" color="red" oct="4" dur="brevis" pname="a" lig="obliqua" />
+								</ligature>
+								<note id="sym_4_27" color="red" oct="4" dur="semibrevis" pname="g" />
+								<note id="sym_4_28" color="blue" oct="4" dur="semibrevis" pname="d" />
+								<custos id="sym_4_29" oct="4" pname="e" />
+								<note id="sym_5_3" color="red" oct="4" dur="semibrevis" pname="e" accid="f" />
+								<note id="sym_5_4" color="red" oct="4" dur="semibrevis" pname="f" />
+								<note id="sym_5_5" oct="4" dur="semibrevis" pname="g" />
+								<note id="sym_5_6" oct="4" dur="brevis" pname="d" num="2" numbase="3" is_dotted="true" />
+								<dot id="sym_5_7" />
+								<ligature form="obliqua">
+									<note id="sym_5_8" color="red" oct="4" dur="semibrevis" pname="g" lig="obliqua" />
+									<note id="sym_5_9" color="blue" oct="4" dur="semibrevis" pname="f" lig="obliqua" />
+									<note id="sym_5_10" color="blue" oct="4" dur="brevis" pname="b" lig="recta" />
+								</ligature>
+								<note id="sym_5_11" oct="4" dur="semiminima" pname="a" />
+								<note id="sym_5_12" color="blue" oct="4" dur="semiminima" pname="g" />
+								<fermata />
+								<note id="sym_5_14" color="blue" oct="4" dur="longa" pname="f" fermata="above" />
+								<note id="sym_5_15" color="blue" oct="4" dur="brevis" pname="g" />
+								<ligature form="recta">
+									<note id="sym_5_16" color="blue" oct="4" dur="semibrevis" pname="f" lig="recta" />
+									<note id="sym_5_17" oct="4" dur="semibrevis" pname="b" lig="recta" />
+									<note id="sym_5_18" color="blue" oct="4" dur="brevis" pname="a" lig="obliqua" />
+									<note id="sym_5_19" color="blue" oct="4" dur="brevis" pname="a" lig="obliqua" />
+									<note id="sym_5_20" color="blue" oct="4" dur="brevis" pname="b" lig="recta" />
+								</ligature>
+								<ligature form="recta">
+									<note id="sym_5_21" oct="4" dur="semibrevis" pname="a" lig="recta" />
+									<note id="sym_5_22" color="blue" oct="4" dur="semibrevis" pname="g" lig="recta" />
+									<note id="sym_5_23" color="blue" oct="4" dur="brevis" pname="f" lig="recta" />
+									<note id="sym_5_24" color="blue" oct="4" dur="brevis" pname="e" lig="recta" />
+									<note id="sym_5_25" color="blue" oct="4" dur="longa" pname="d" lig="recta" />
+								</ligature>
+								<ligature form="recta">
+									<note id="sym_5_26" oct="4" dur="semibrevis" pname="d" lig="recta" />
+									<note id="sym_5_27" oct="4" dur="semibrevis" pname="e" lig="recta" />
+								</ligature>
+								<ligature form="recta">
+									<note id="sym_5_28" color="blue" oct="4" dur="semibrevis" pname="f" lig="recta" />
+									<note id="sym_5_29" oct="4" dur="semibrevis" pname="g" lig="recta" />
+								</ligature>
+								<ligature form="obliqua">
+									<note id="sym_5_30" color="red" oct="4" dur="semibrevis" pname="a" lig="obliqua" />
+									<note id="sym_5_31" color="blue" oct="4" dur="semibrevis" pname="f" lig="obliqua" />
+								</ligature>
+								<custos id="sym_5_32" oct="4" pname="b" />
+								<ligature form="obliqua">
+									<note id="sym_6_3" oct="4" dur="semibrevis" pname="b" accid="f" lig="obliqua" />
+									<note id="sym_6_4" color="blue" oct="4" dur="semibrevis" pname="a" lig="obliqua" num="2" numbase="3" is_dotted="true" />
+								</ligature>
+								<dot id="sym_6_5" />
+								<note id="sym_6_6" oct="4" dur="minima" pname="g" />
+								<note id="sym_6_7" oct="4" dur="semibrevis" pname="g" />
+								<note id="sym_6_8" color="blue" oct="4" dur="minima" pname="f" />
+								<note id="sym_6_9" color="blue" oct="4" dur="minima" pname="f" />
+								<note id="sym_6_10" oct="4" dur="minima" pname="e" />
+								<note id="sym_6_11" color="blue" oct="4" dur="longa" pname="g" />
+								<barLine id="sym_6_12" />
+							</layer>
+						</staff>
+						<staff n="3">
+							<layer n="1">
+								<mensur id="sym_7_0" prolatio="2" tempus="2" modusminor="2" modusmaior="2" />
+								<mensur id="sym_7_1" prolatio="3" tempus="2" modusminor="2" modusmaior="2" />
+								<note id="sym_7_3" color="red" oct="2" dur="brevis" pname="f" />
+								<ligature form="obliqua">
+									<note id="sym_7_4" oct="3" dur="semibrevis" pname="d" lig="obliqua" />
+									<note id="sym_7_5" oct="2" dur="semibrevis" pname="g" lig="obliqua" />
+								</ligature>
+								<ligature form="recta">
+									<note id="sym_7_6" color="red" oct="2" dur="semibrevis" pname="a" lig="recta" />
+									<note id="sym_7_7" color="red" oct="2" dur="semibrevis" pname="b" lig="recta" />
+								</ligature>
+								<ligature form="obliqua">
+									<note id="sym_7_8" oct="3" dur="semibrevis" pname="d" lig="obliqua" />
+									<note id="sym_7_9" oct="2" dur="semibrevis" pname="a" lig="obliqua" />
+								</ligature>
+								<ligature form="recta">
+									<note id="sym_7_10" color="red" oct="2" dur="semibrevis" pname="a" lig="recta" />
+									<note id="sym_7_11" color="red" oct="3" dur="semibrevis" pname="d" lig="recta" />
+									<note id="sym_7_12" color="red" oct="2" dur="longa" pname="f" lig="recta" num="2" numbase="3" is_dotted="true" />
+								</ligature>
+								<dot id="sym_7_13" />
+								<rest id="sym_7_14" dur="semibrevis" />
+								<note id="sym_7_15" color="red" oct="2" dur="semibrevis" pname="b" />
+								<note id="sym_7_16" oct="3" dur="semibrevis" pname="f" />
+								<note id="sym_7_17" color="red" oct="3" dur="semibrevis" pname="f" />
+								<note id="sym_7_18" color="red" oct="3" dur="brevis" pname="c" />
+								<note id="sym_7_19" color="blue" oct="2" dur="brevis" pname="f" />
+								<ligature form="recta">
+									<note id="sym_7_20" color="red" oct="3" dur="semibrevis" pname="c" lig="recta" />
+									<note id="sym_7_21" color="red" oct="3" dur="semibrevis" pname="e" lig="recta" />
+								</ligature>
+								<ligature form="obliqua">
+									<note id="sym_7_22" color="red" oct="2" dur="semibrevis" pname="b" lig="obliqua" />
+									<note id="sym_7_23" color="red" oct="2" dur="semibrevis" pname="a" lig="obliqua" />
+								</ligature>
+								<custos id="sym_7_24" oct="2" pname="f" />
+								<ligature form="recta">
+									<note id="sym_8_2" color="red" oct="2" dur="semibrevis" pname="g" lig="recta" />
+									<note id="sym_8_3" color="blue" oct="3" dur="semibrevis" pname="d" lig="obliqua" />
+									<note id="sym_8_4" color="red" oct="2" dur="brevis" pname="a" lig="obliqua" />
+								</ligature>
+								<note id="sym_8_5" color="red" oct="2" dur="semibrevis" pname="b" />
+								<note id="sym_8_6" color="red" oct="2" dur="brevis" pname="g" />
+								<note id="sym_8_7" oct="3" dur="semibrevis" pname="d" />
+								<note id="sym_8_8" color="blue" oct="3" dur="longa" pname="g" />
+								<fermata />
+								<note id="sym_8_10" color="blue" oct="2" dur="brevis" pname="g" fermata="above" />
+								<ligature form="recta">
+									<note id="sym_8_11" color="blue" oct="3" dur="semibrevis" pname="d" lig="recta" />
+									<note id="sym_8_12" color="blue" oct="3" dur="semibrevis" pname="g" lig="recta" />
+									<note id="sym_8_13" oct="3" dur="brevis" pname="d" lig="recta" />
+									<note id="sym_8_14" color="blue" oct="2" dur="longa" pname="g" lig="recta" />
+								</ligature>
+								<ligature form="obliqua">
+									<note id="sym_8_15" oct="3" dur="semibrevis" pname="d" lig="obliqua" />
+									<note id="sym_8_16" color="blue" oct="2" dur="semibrevis" pname="a" lig="obliqua" />
+								</ligature>
+								<ligature form="recta">
+									<note id="sym_8_17" color="blue" oct="3" dur="brevis" pname="d" lig="recta" />
+									<note id="sym_8_18" color="blue" oct="3" dur="brevis" pname="a" lig="obliqua" />
+									<note id="sym_8_19" color="blue" oct="3" dur="brevis" pname="d" lig="obliqua" />
+								</ligature>
+								<ligature form="obliqua">
+									<note id="sym_8_20" color="blue" oct="3" dur="semibrevis" pname="e" lig="obliqua" />
+									<note id="sym_8_21" color="blue" oct="3" dur="semibrevis" pname="c" lig="obliqua" />
+								</ligature>
+								<ligature form="obliqua">
+									<note id="sym_8_22" color="blue" oct="3" dur="semibrevis" pname="d" lig="obliqua" />
+									<note id="sym_8_23" color="red" oct="3" dur="semibrevis" pname="c" lig="obliqua" />
+								</ligature>
+								<custos id="sym_8_24" oct="2" pname="b" />
+								<ligature form="obliqua">
+									<note id="sym_9_2" color="blue" oct="2" dur="semibrevis" pname="b" lig="obliqua" />
+									<note id="sym_9_3" color="blue" oct="2" dur="semibrevis" pname="g" lig="obliqua" />
+								</ligature>
+								<ligature form="recta">
+									<note id="sym_9_4" oct="2" dur="semibrevis" pname="f" lig="recta" />
+									<note id="sym_9_5" oct="2" dur="semibrevis" pname="b" lig="recta" />
+								</ligature>
+								<ligature form="recta">
+									<note id="sym_9_6" oct="2" dur="semibrevis" pname="g" lig="recta" />
+									<note id="sym_9_7" oct="3" dur="semibrevis" pname="g" lig="recta" />
+								</ligature>
+								<ligature form="recta">
+									<note id="sym_9_8" color="blue" oct="3" dur="semibrevis" pname="e" lig="recta" />
+									<note id="sym_9_9" color="blue" oct="3" dur="semibrevis" pname="g" lig="obliqua" />
+								</ligature>
+								<note id="sym_9_10" color="blue" oct="2" dur="longa" pname="g" />
+								<barLine id="sym_9_11" />
+							</layer>
+						</staff>
+					</section>
+				</score>
+			</mdiv>
+		</body>
+	</music>
+</mei>

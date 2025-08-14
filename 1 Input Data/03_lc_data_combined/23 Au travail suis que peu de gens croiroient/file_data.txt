@@ -1,0 +1,5 @@
+Barbingant / Johannes Ockeghem
+data/res_dict_leuven_chansonnier/b-af-ms-1_074_31v.pickle
+data/res_dict_leuven_chansonnier/b-af-ms-1_075_32r.pickle
+data/source_images/lc_074_31v.jpeg
+data/source_images/lc_075_32r.jpeg

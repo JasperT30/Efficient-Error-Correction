@@ -1,0 +1,9 @@
+Barbingant
+data/res_dict_leuven_chansonnier/b-af-ms-1_094_41v.pickle
+data/res_dict_leuven_chansonnier/b-af-ms-1_095_42r.pickle
+data/res_dict_leuven_chansonnier/b-af-ms-1_096_42v.pickle
+data/res_dict_leuven_chansonnier/b-af-ms-1_097_43r.pickle
+data/source_images/lc_094_41v.jpeg
+data/source_images/lc_095_42r.jpeg
+data/source_images/lc_096_42v.jpeg
+data/source_images/lc_097_43r.jpeg

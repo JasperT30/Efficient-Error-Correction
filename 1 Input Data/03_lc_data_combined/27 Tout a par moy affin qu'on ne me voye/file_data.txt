@@ -1,0 +1,9 @@
+Gilles  Binchois / Walter Frye
+data/res_dict_leuven_chansonnier/b-af-ms-1_090_39v.pickle
+data/res_dict_leuven_chansonnier/b-af-ms-1_091_40r.pickle
+data/res_dict_leuven_chansonnier/b-af-ms-1_092_40v.pickle
+data/res_dict_leuven_chansonnier/b-af-ms-1_093_41r.pickle
+data/source_images/lc_090_39v.jpeg
+data/source_images/lc_091_40r.jpeg
+data/source_images/lc_092_40v.jpeg
+data/source_images/lc_093_41r.jpeg

@@ -1,0 +1,5 @@
+Hayne van Ghizeghem
+data/res_dict_leuven_chansonnier/b-af-ms-1_052_20v.pickle
+data/res_dict_leuven_chansonnier/b-af-ms-1_053_21r.pickle
+data/source_images/lc_052_20v.jpeg
+data/source_images/lc_053_21r.jpeg

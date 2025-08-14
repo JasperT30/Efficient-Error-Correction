@@ -1,0 +1,9 @@
+Gilles  Binchois
+data/res_dict_leuven_chansonnier/b-af-ms-1_062_25v.pickle
+data/res_dict_leuven_chansonnier/b-af-ms-1_063_26r.pickle
+data/res_dict_leuven_chansonnier/b-af-ms-1_064_26v.pickle
+data/res_dict_leuven_chansonnier/b-af-ms-1_065_27r.pickle
+data/source_images/lc_062_25v.jpeg
+data/source_images/lc_063_26r.jpeg
+data/source_images/lc_064_26v.jpeg
+data/source_images/lc_065_27r.jpeg

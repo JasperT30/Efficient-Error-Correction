@@ -1,0 +1,9 @@
+Antoine Busnoys
+data/res_dict_leuven_chansonnier/b-af-ms-1_098_43v.pickle
+data/res_dict_leuven_chansonnier/b-af-ms-1_099_44r.pickle
+data/res_dict_leuven_chansonnier/b-af-ms-1_100_44v.pickle
+data/res_dict_leuven_chansonnier/b-af-ms-1_101_45r.pickle
+data/source_images/lc_098_43v.jpeg
+data/source_images/lc_099_44r.jpeg
+data/source_images/lc_100_44v.jpeg
+data/source_images/lc_101_45r.jpeg

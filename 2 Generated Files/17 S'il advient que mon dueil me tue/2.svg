@@ -1,0 +1,1224 @@
+<ns0:svg xmlns="http://www.w3.org/1999/xlink" xmlns:ns0="http://www.w3.org/2000/svg" width="825" height="400" version="1.1" overflow="visible" id="dgdg22r" viewBox="0 0 27500 13330">
+   <ns0:desc>Engraved by Verovio 5.1.0[undefined]</ns0:desc>
+   <ns0:defs>
+      <ns0:symbol id="E003-dgdg22r" viewBox="0 0 1000 1000" overflow="visible">
+         <ns0:path transform="scale(0.75,-0.75)" d="M0 -0v111c0 0 62 1 63 1c70 0 233 16 321 170c1 1 15 -5 15 -6c-5 -7 -57 -176 -263 -271c-24 -4 -53 -5 -83 -5h-53z" stroke="black" />
+      </ns0:symbol>
+      <ns0:symbol id="E004-dgdg22r" viewBox="0 0 1000 1000" overflow="visible">
+         <ns0:path transform="scale(0.75,-0.75)" d="M0 0h53c30 0 59 -1 83 -5c206 -95 258 -264 263 -271c0 -1 -14 -7 -15 -6c-88 154 -251 170 -321 170c-1 0 -63 1 -63 1v111z" stroke="black" />
+      </ns0:symbol>
+      <ns0:symbol id="E93C-dgdg22r" viewBox="0 0 1000 1000" overflow="visible">
+         <ns0:path transform="scale(0.75,-0.75)" d="M156 195l156 -195l-156 -195l-156 195zM127 110l-57 -71l115 -149l57 71z" stroke="black" />
+      </ns0:symbol>
+      <ns0:symbol id="E909-dgdg22r" viewBox="0 0 1000 1000" overflow="visible">
+         <ns0:path transform="scale(0.75,-0.75)" d="M2 206l2 431c0 12 7 17 14 17c8 0 17 -7 17 -17l3 -204l2 -315h79h8c11 0 30 1 35 6c8 8 8 69 8 122v27l4 222s-1 20 19 20s12 -20 12 -20v-244s-1 -130 -1 -176c-1 -8 -1 -12 -4 -19c-7 -7 -8 -7 -16 -7c-45 0 -71 3 -71 3l-69 -3v-49v-48l64 -3l82 -5s5 0 8 -3 s5 -7 5 -7l1 -262v-154s0 -20 -13 -20c-10 0 -14 5 -16 14l-7 138l-2 219s0 4 -3 7s-9 2 -9 2h-40h-70l-3 -378l-3 -132s0 -20 -15 -20c-17 0 -19 17 -19 17c-1 22 -3 446 -3 686c0 49 1 100 1 155z" stroke="black" />
+      </ns0:symbol>
+      <ns0:symbol id="E9F3-dgdg22r" viewBox="0 0 1000 1000" overflow="visible">
+         <ns0:path transform="scale(0.75,-0.75)" d="M0 250h40v-250h-40v250z" stroke="black" />
+      </ns0:symbol>
+      <ns0:symbol id="E93F-dgdg22r" viewBox="0 0 1000 1000" overflow="visible">
+         <ns0:path transform="scale(0.75,-0.75)" d="M0 -760v760h30v-760h-30z" stroke="black" />
+      </ns0:symbol>
+      <ns0:symbol id="E9F4-dgdg22r" viewBox="0 0 1000 1000" overflow="visible">
+         <ns0:path transform="scale(0.75,-0.75)" d="M0 250h40v-140h-40v140z" stroke="black" />
+      </ns0:symbol>
+      <ns0:symbol id="E93E-dgdg22r" viewBox="0 0 1000 1000" overflow="visible">
+         <ns0:path transform="scale(0.75,-0.75)" d="M0 760h30v-760h-30v760z" stroke="black" />
+      </ns0:symbol>
+      <ns0:symbol id="E907-dgdg22r" viewBox="0 0 1000 1000" overflow="visible">
+         <ns0:path transform="scale(0.75,-0.75)" d="M2 206l2 431c0 12 7 17 14 17c8 0 17 -7 17 -17l3 -204l2 -315h79h8c11 0 30 1 35 6c8 8 8 139 8 192v27l4 222s-1 20 19 20s12 -20 12 -20v-244s-1 -200 -1 -246c-1 -8 -1 -12 -4 -19c-7 -7 -8 -7 -16 -7c-45 0 -71 3 -71 3l-69 -3v-49v-48l64 -3l82 -5s5 0 8 -3 s5 -7 5 -7l1 -62v-154s0 -20 -13 -20c-10 0 -14 5 -16 14l-7 138l-2 19s0 4 -3 7s-9 2 -9 2h-40h-70l-3 -28l-3 -132s0 -20 -15 -20c-17 0 -19 17 -19 17c-1 22 -3 96 -3 336c0 49 1 100 1 155z" stroke="black" />
+      </ns0:symbol>
+      <ns0:symbol id="EA02-dgdg22r" viewBox="0 0 1000 1000" overflow="visible">
+         <ns0:path transform="scale(0.75,-0.75)" d="M98 240c7 0 10 -4 12 -6l106 -93l17 -10l11 6l80 93l18 10h1c5 0 9 -2 12 -6l105 -93c5 -4 10 -8 16 -12c199 199 268 265 284 265c4 0 12 -6 12 -10c0 -16 -93 -126 -337 -369l-6 -7c-9 -7 -16 -10 -20 -10h-1c-3 0 -7 2 -10 6l-105 94c-6 5 -12 7 -19 7 c-4 0 -7 -1 -9 -3l-81 -94c-7 -7 -14 -10 -19 -10h-1c-3 0 -7 2 -10 6v1l-104 93c-6 6 -33 29 -50 39c0 16 98 103 98 103z" stroke="black" />
+      </ns0:symbol>
+   </ns0:defs>
+   <ns0:style type="text/css">#dgdg22r g.page-margin {font-family:Times,serif;} #dgdg22r g.ending, #dgdg22r g.fing, #dgdg22r g.reh, #dgdg22r g.tempo {font-weight:bold;} #dgdg22r g.dir, #dgdg22r g.dynam, #dgdg22r g.mNum {font-style:italic;} #dgdg22r g.label {font-weight:normal;} #dgdg22r path {stroke:currentColor}</ns0:style>
+   <ns0:g class="page-margin" transform="translate(500, 500)">
+         <ns0:g id="s1say5zq" class="system">
+            <ns0:path d="M13 540 L13 5940" stroke-width="27" stroke="black" />
+            <ns0:g id="g1fr7ghz" class="grpSym">
+               <ns0:use href="#E003-dgdg22r" x="-180" y="489" height="720" width="720" />
+               <ns0:use href="#E004-dgdg22r" x="-180" y="5991" height="720" width="720" />
+               <ns0:rect stroke-opacity="1" fill-opacity="1" x="-180" y="483" height="5514" width="90" />
+            </ns0:g>
+            <ns0:g id="suwfegn" class="staff">
+               <ns0:path d="M0 540 L26500 540" stroke-width="13" stroke="black" />
+               <ns0:path d="M0 720 L26500 720" stroke-width="13" stroke="black" />
+               <ns0:path d="M0 900 L26500 900" stroke-width="13" stroke="black" />
+               <ns0:path d="M0 1080 L26500 1080" stroke-width="13" stroke="black" />
+               <ns0:path d="M0 1260 L26500 1260" stroke-width="13" stroke="black" />
+               <ns0:g id="c1350ihr" class="clef">
+                  <ns0:use href="#E907-dgdg22r" x="117" y="1260" height="720" width="720" />
+               </ns0:g>
+               <ns0:g id="k17oe939" class="keySig" />
+               <ns0:g id="l13awhnk" class="layer">
+                  <ns0:g id="n1vgk4d9" class="note">
+                     <ns0:g class="notehead">
+                        <ns0:use href="#E93C-dgdg22r" x="374" y="720" height="720" width="720" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="n18qf7f7" class="note" color="red" fill="red">
+                     <ns0:g class="notehead">
+                        <ns0:use href="#E93C-dgdg22r" x="644" y="630" height="720" width="720" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="nnq7ql5" class="note" color="red" fill="red">
+                     <ns0:g class="notehead">
+                        <ns0:use href="#E93C-dgdg22r" x="989" y="720" height="720" width="720" />
+                     </ns0:g>
+                     <ns0:g id="sttu235" class="stem">
+                        <ns0:use href="#E93F-dgdg22r" x="1091" y="800" height="720" width="720" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="np3k69o" class="note">
+                     <ns0:g class="notehead">
+                        <ns0:use href="#E93C-dgdg22r" x="1168" y="810" height="720" width="720" />
+                     </ns0:g>
+                     <ns0:g id="s19p9pjt" class="stem">
+                        <ns0:use href="#E93F-dgdg22r" x="1270" y="890" height="720" width="720" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="n173rbz4" class="note" color="blue" fill="blue">
+                     <ns0:g class="notehead">
+                        <ns0:use href="#E93C-dgdg22r" x="1402" y="900" height="720" width="720" />
+                     </ns0:g>
+                     <ns0:g id="s19gvvl4" class="stem">
+                        <ns0:use href="#E93E-dgdg22r" x="1504" y="820" height="720" width="720" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="nlrbvsv" class="note" color="blue" fill="blue">
+                     <ns0:g class="notehead">
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="1599,810 1795,810 1795,860 1599,860" />
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="1599,990 1795,990 1795,940 1599,940" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="1581" y="780" height="240" width="18" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="1795" y="780" height="240" width="18" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="n1qzxnaf" class="note" color="blue" fill="blue">
+                     <ns0:g class="notehead">
+                        <ns0:use href="#E93C-dgdg22r" x="2118" y="990" height="720" width="720" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="n5ikt3h" class="note">
+                     <ns0:g class="notehead">
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="2481,810 2677,810 2677,860 2481,860" />
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="2481,990 2677,990 2677,940 2481,940" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="2463" y="780" height="240" width="18" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="2677" y="780" height="240" width="18" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="nqduivg" class="note">
+                     <ns0:g class="notehead">
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="3223,450 3419,450 3419,500 3223,500" />
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="3223,630 3419,630 3419,580 3223,580" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="3205" y="420" height="240" width="18" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="3419" y="420" height="240" width="18" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="n2hjbrh" class="note">
+                     <ns0:g class="notehead">
+                        <ns0:use href="#E93C-dgdg22r" x="3731" y="540" height="720" width="720" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="n1d9t2ls" class="note" color="blue" fill="blue">
+                     <ns0:g class="notehead">
+                        <ns0:use href="#E93C-dgdg22r" x="4088" y="540" height="720" width="720" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="npsighy" class="note">
+                     <ns0:g class="notehead">
+                        <ns0:use href="#E93C-dgdg22r" x="4638" y="450" height="720" width="720" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="nizc4bh" class="note" color="blue" fill="blue">
+                     <ns0:g class="notehead">
+                        <ns0:use href="#E93C-dgdg22r" x="4908" y="540" height="720" width="720" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="nro6cbb" class="note" color="blue" fill="blue">
+                     <ns0:g class="notehead">
+                        <ns0:use href="#E93C-dgdg22r" x="5178" y="630" height="720" width="720" />
+                     </ns0:g>
+                     <ns0:g id="sxb69cq" class="stem">
+                        <ns0:use href="#E93F-dgdg22r" x="5280" y="710" height="720" width="720" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="n1kgtx7d" class="note">
+                     <ns0:g class="notehead">
+                        <ns0:use href="#E93C-dgdg22r" x="5357" y="720" height="720" width="720" />
+                     </ns0:g>
+                     <ns0:g id="s11z9881" class="stem">
+                        <ns0:use href="#E93F-dgdg22r" x="5459" y="800" height="720" width="720" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="n1ocy5f7" class="note" color="blue" fill="blue">
+                     <ns0:g class="notehead">
+                        <ns0:use href="#E93C-dgdg22r" x="5535" y="810" height="720" width="720" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="n1kuqby1" class="note" color="blue" fill="blue">
+                     <ns0:g class="notehead">
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="5898,810 6094,810 6094,860 5898,860" />
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="5898,990 6094,990 6094,940 5898,940" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="5880" y="780" height="240" width="18" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="6094" y="780" height="240" width="18" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="nmwxd3d" class="note" color="blue" fill="blue">
+                     <ns0:g class="notehead">
+                        <ns0:use href="#E93C-dgdg22r" x="6292" y="810" height="720" width="720" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="n11gys87" class="note" color="blue" fill="blue">
+                     <ns0:g class="notehead">
+                        <ns0:use href="#E93C-dgdg22r" x="6562" y="720" height="720" width="720" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="c1vqxm90" class="custos">
+                     <ns0:use href="#EA02-dgdg22r" x="6907" y="720" height="720" width="720" />
+                  </ns0:g>
+                  <ns0:g id="n117yezi" class="note" color="blue" fill="blue">
+                     <ns0:g class="notehead">
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="7062,540 7258,540 7258,590 7062,590" />
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="7062,720 7258,720 7258,670 7062,670" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="7044" y="510" height="240" width="18" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="7258" y="510" height="240" width="18" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="dcz4xle" class="dot">
+                     <ns0:polygon stroke-opacity="1" fill-opacity="1" points="7459,630 7504,585 7549,630 7504,675" />
+                  </ns0:g>
+                  <ns0:g id="nea0wzg" class="note" color="blue" fill="blue">
+                     <ns0:g class="notehead">
+                        <ns0:use href="#E93C-dgdg22r" x="7733" y="720" height="720" width="720" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="ln7x9vp" class="ligature">
+                     <ns0:g id="n1t61nqr" class="note" color="blue" fill="blue">
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="8078,540 8302,540 8302,590 8078,590" />
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="8078,720 8302,720 8302,670 8078,670" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="8078" y="510" height="240" width="18" rx="6" />
+                     </ns0:g>
+                     <ns0:g id="nfmi9dx" class="note" color="blue" fill="blue">
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="8301,540 8524,540 8524,590 8301,590" />
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="8301,720 8524,720 8524,670 8301,670" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="8506" y="510" height="240" width="18" rx="6" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="nqdn94g" class="note">
+                     <ns0:g class="notehead">
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="9572,540 9768,540 9768,590 9572,590" />
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="9572,720 9768,720 9768,670 9572,670" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="9554" y="510" height="240" width="18" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="9768" y="510" height="240" width="18" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="n1fc9x0h" class="note" color="blue" fill="blue">
+                     <ns0:g class="notehead">
+                        <ns0:use href="#E93C-dgdg22r" x="10159" y="630" height="720" width="720" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="n28o9x9" class="note" color="blue" fill="blue">
+                     <ns0:g class="notehead">
+                        <ns0:use href="#E93C-dgdg22r" x="10516" y="630" height="720" width="720" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="n1yz1rzo" class="note" color="blue" fill="blue">
+                     <ns0:g class="notehead">
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="10891,540 11087,540 11087,590 10891,590" />
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="10891,720 11087,720 11087,670 10891,670" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="10873" y="510" height="240" width="18" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="11087" y="510" height="240" width="18" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="n1nay3qk" class="note" color="blue" fill="blue">
+                     <ns0:g class="notehead">
+                        <ns0:use href="#E93C-dgdg22r" x="11398" y="810" height="720" width="720" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="n2uwaju" class="note" color="blue" fill="blue">
+                     <ns0:g class="notehead">
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="11761,810 11957,810 11957,860 11761,860" />
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="11761,990 11957,990 11957,940 11761,940" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="11743" y="780" height="240" width="18" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="11957" y="780" height="240" width="18" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="npqbc4c" class="note" color="blue" fill="blue">
+                     <ns0:g class="notehead">
+                        <ns0:use href="#E93C-dgdg22r" x="12155" y="990" height="720" width="720" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="l1a6ggtb" class="ligature">
+                     <ns0:g id="n1wog5rz" class="note" color="blue" fill="blue">
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="12425,987 12649,1035 12649,1085 12425,1037" />
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="12425,1167 12649,1215 12649,1165 12425,1117" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="12425" y="450" height="750" width="18" rx="6" />
+                     </ns0:g>
+                     <ns0:g id="n1ec5uh2" class="note" color="blue" fill="blue">
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="12648,1035 12871,1083 12871,1133 12648,1085" />
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="12648,1215 12871,1263 12871,1213 12648,1165" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="12853" y="1050" height="240" width="18" rx="6" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="d1coasc8" class="dot">
+                     <ns0:polygon stroke-opacity="1" fill-opacity="1" points="12942,1170 12987,1125 13032,1170 12987,1215" />
+                  </ns0:g>
+                  <ns0:g id="n6od05k" class="note">
+                     <ns0:g class="notehead">
+                        <ns0:use href="#E93C-dgdg22r" x="13122" y="1260" height="720" width="720" />
+                     </ns0:g>
+                     <ns0:g id="sxvgxbw" class="stem">
+                        <ns0:use href="#E93E-dgdg22r" x="13224" y="1180" height="720" width="720" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="n8a28rc" class="note" color="blue" fill="blue">
+                     <ns0:g class="notehead">
+                        <ns0:use href="#E93C-dgdg22r" x="13301" y="1350" height="720" width="720" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="ncyj230" class="note" color="blue" fill="blue">
+                     <ns0:g class="notehead">
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="13589,1170 13785,1170 13785,1220 13589,1220" />
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="13589,1350 13785,1350 13785,1300 13589,1300" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="13571" y="1140" height="240" width="18" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="13785" y="1140" height="240" width="18" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="r13hxr51" class="rest">
+                     <ns0:use href="#E9F3-dgdg22r" x="14067" y="900" height="720" width="720" />
+                     <ns0:g class="ledgerLines" />
+                  </ns0:g>
+                  <ns0:g id="cyp7vc2" class="custos">
+                     <ns0:use href="#EA02-dgdg22r" x="14564" y="720" height="720" width="720" />
+                  </ns0:g>
+                  <ns0:g id="n77b1qd" class="note" color="blue" fill="blue">
+                     <ns0:g class="notehead">
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="14719,540 14915,540 14915,590 14719,590" />
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="14719,720 14915,720 14915,670 14719,670" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="14701" y="510" height="240" width="18" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="14915" y="510" height="240" width="18" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="n381b63" class="note" color="blue" fill="blue">
+                     <ns0:g class="notehead">
+                        <ns0:use href="#E93C-dgdg22r" x="15197" y="720" height="720" width="720" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="n3amoo0" class="note" color="blue" fill="blue">
+                     <ns0:g class="notehead">
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="15628,720 15824,720 15824,770 15628,770" />
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="15628,900 15824,900 15824,850 15628,850" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="15610" y="690" height="240" width="18" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="15824" y="690" height="240" width="18" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="n17l8348" class="note" color="blue" fill="blue">
+                     <ns0:g class="notehead">
+                        <ns0:use href="#E93C-dgdg22r" x="16136" y="900" height="720" width="720" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="nr6x95q" class="note" color="blue" fill="blue">
+                     <ns0:g class="notehead">
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="16424,720 16620,720 16620,770 16424,770" />
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="16424,900 16620,900 16620,850 16424,850" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="16406" y="690" height="240" width="18" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="16620" y="690" height="240" width="18" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="n1olz6hw" class="note" color="blue" fill="blue">
+                     <ns0:g class="notehead">
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="17039,720 17235,720 17235,770 17039,770" />
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="17039,900 17235,900 17235,850 17039,850" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="17021" y="690" height="240" width="18" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="17235" y="690" height="240" width="18" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="n3x5flf" class="note" color="blue" fill="blue">
+                     <ns0:g class="notehead">
+                        <ns0:use href="#E93C-dgdg22r" x="17433" y="720" height="720" width="720" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="n1a92b4i" class="note" color="blue" fill="blue">
+                     <ns0:g class="notehead">
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="17721,540 17917,540 17917,590 17721,590" />
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="17721,720 17917,720 17917,670 17721,670" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="17703" y="510" height="240" width="18" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="17917" y="510" height="240" width="18" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="lzgyxbk" class="ligature">
+                     <ns0:g id="ng55mgt" class="note" color="blue" fill="blue">
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="18598,630 18830,630 18830,680 18598,680" />
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="18598,810 18830,810 18830,760 18598,760" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="18598" y="90" height="750" width="18" rx="6" />
+                     </ns0:g>
+                     <ns0:g id="n1mcm4vv" class="note" color="blue" fill="blue">
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="18812,450 19044,450 19044,500 18812,500" />
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="18812,630 19044,630 19044,580 18812,580" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="18812" y="420" height="420" width="18" rx="6" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="19026" y="420" height="240" width="18" rx="6" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="n83rsyn" class="note" color="blue" fill="blue">
+                     <ns0:g class="notehead">
+                        <ns0:use href="#E93C-dgdg22r" x="19397" y="630" height="720" width="720" />
+                     </ns0:g>
+                     <ns0:g id="s1vp5r8m" class="stem">
+                        <ns0:use href="#E93F-dgdg22r" x="19499" y="710" height="720" width="720" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="nt0ssl0" class="note" color="blue" fill="blue">
+                     <ns0:g class="notehead">
+                        <ns0:use href="#E93C-dgdg22r" x="19631" y="720" height="720" width="720" />
+                     </ns0:g>
+                     <ns0:g id="s1k2w9mq" class="stem">
+                        <ns0:use href="#E93F-dgdg22r" x="19733" y="800" height="720" width="720" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="n1ex95q6" class="note">
+                     <ns0:g class="notehead">
+                        <ns0:use href="#E93C-dgdg22r" x="19810" y="810" height="720" width="720" />
+                     </ns0:g>
+                     <ns0:g id="s1ds0orw" class="stem">
+                        <ns0:use href="#E93F-dgdg22r" x="19912" y="890" height="720" width="720" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="l19fc5uu" class="ligature">
+                     <ns0:g id="n1snnal" class="note" color="blue" fill="blue">
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="19988,803 20212,900 20212,950 19988,853" />
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="19988,983 20212,1080 20212,1030 19988,933" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="19988" y="270" height="750" width="18" rx="6" />
+                     </ns0:g>
+                     <ns0:g id="n1wc96ub" class="note">
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="20211,900 20434,997 20434,1047 20211,950" />
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="20211,1080 20434,1177 20434,1127 20211,1030" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="20416" y="960" height="240" width="18" rx="6" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="l9dq5xv" class="ligature">
+                     <ns0:g id="n3oouiq" class="note">
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="20604,900 20836,900 20836,950 20604,950" />
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="20604,1080 20836,1080 20836,1030 20604,1030" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="20604" y="360" height="750" width="18" rx="6" />
+                     </ns0:g>
+                     <ns0:g id="n1bpqf1w" class="note" color="blue" fill="blue">
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="20818,983 21042,1080 21042,1130 20818,1033" />
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="20818,1163 21042,1260 21042,1210 20818,1113" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="20818" y="870" height="330" width="18" rx="6" />
+                     </ns0:g>
+                     <ns0:g id="n1ef8nz2" class="note" color="blue" fill="blue">
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="21041,1080 21264,1177 21264,1227 21041,1130" />
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="21041,1260 21264,1357 21264,1307 21041,1210" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="21246" y="1140" height="240" width="18" rx="6" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="n7ce1kb" class="note" color="blue" fill="blue">
+                     <ns0:g class="notehead">
+                        <ns0:use href="#E93C-dgdg22r" x="21835" y="630" height="720" width="720" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="d15kvpxb" class="dot">
+                     <ns0:polygon stroke-opacity="1" fill-opacity="1" points="22129,630 22174,585 22219,630 22174,675" />
+                  </ns0:g>
+                  <ns0:g id="nr2kv1v" class="note" color="blue" fill="blue">
+                     <ns0:g class="notehead">
+                        <ns0:use href="#E93C-dgdg22r" x="22290" y="720" height="720" width="720" />
+                     </ns0:g>
+                     <ns0:g id="s195fxxv" class="stem">
+                        <ns0:use href="#E93F-dgdg22r" x="22392" y="800" height="720" width="720" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="ldwaugj" class="ligature">
+                     <ns0:g id="n8jfvsx" class="note">
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="22469,540 22701,540 22701,590 22469,590" />
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="22469,720 22701,720 22701,670 22469,670" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="22469" y="0" height="750" width="18" rx="6" />
+                     </ns0:g>
+                     <ns0:g id="n15d6slz" class="note" color="blue" fill="blue">
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="22683,450 22915,450 22915,500 22683,500" />
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="22683,630 22915,630 22915,580 22683,580" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="22683" y="420" height="330" width="18" rx="6" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="22897" y="420" height="240" width="18" rx="6" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="nna8p13" class="note">
+                     <ns0:g class="notehead">
+                        <ns0:use href="#E93C-dgdg22r" x="23159" y="450" height="720" width="720" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="d1d66b6" class="dot">
+                     <ns0:polygon stroke-opacity="1" fill-opacity="1" points="23399,450 23444,405 23489,450 23444,495" />
+                  </ns0:g>
+                  <ns0:g id="n1sxwf1l" class="note">
+                     <ns0:g class="notehead">
+                        <ns0:use href="#E93C-dgdg22r" x="23506" y="630" height="720" width="720" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="n1a1z6jz" class="note">
+                     <ns0:g class="notehead">
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="23869,540 24065,540 24065,590 23869,590" />
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="23869,720 24065,720 24065,670 23869,670" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="23851" y="510" height="240" width="18" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="24065" y="510" height="240" width="18" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="n7ggoeb" class="note" color="blue" fill="blue">
+                     <ns0:g class="notehead">
+                        <ns0:use href="#E93C-dgdg22r" x="24376" y="720" height="720" width="720" />
+                     </ns0:g>
+                  </ns0:g>
+               </ns0:g>
+            </ns0:g>
+            <ns0:g id="svl6fz6" class="staff">
+               <ns0:path d="M0 2880 L26500 2880" stroke-width="13" stroke="black" />
+               <ns0:path d="M0 3060 L26500 3060" stroke-width="13" stroke="black" />
+               <ns0:path d="M0 3240 L26500 3240" stroke-width="13" stroke="black" />
+               <ns0:path d="M0 3420 L26500 3420" stroke-width="13" stroke="black" />
+               <ns0:path d="M0 3600 L26500 3600" stroke-width="13" stroke="black" />
+               <ns0:g id="c1vuvzqa" class="clef">
+                  <ns0:use href="#E909-dgdg22r" x="117" y="3240" height="720" width="720" />
+               </ns0:g>
+               <ns0:g id="kajpta3" class="keySig" />
+               <ns0:g id="l1mzzc1r" class="layer">
+                  <ns0:g id="l4ijn" class="ligature">
+                     <ns0:g id="n1lqbbw2" class="note">
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="374,3420 606,3420 606,3470 374,3470" />
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="374,3600 606,3600 606,3550 374,3550" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="374" y="2880" height="750" width="18" rx="6" />
+                     </ns0:g>
+                     <ns0:g id="n17tqzc3" class="note" color="red" fill="red">
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="588,3237 812,3285 812,3335 588,3287" />
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="588,3417 812,3465 812,3415 588,3367" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="588" y="3210" height="420" width="18" rx="6" />
+                     </ns0:g>
+                     <ns0:g id="nkd2xo3" class="note" color="red" fill="red">
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="811,3285 1034,3333 1034,3383 811,3335" />
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="811,3465 1034,3513 1034,3463 811,3415" />
+                     </ns0:g>
+                     <ns0:g id="n17nyk00" class="note" color="blue" fill="blue">
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="1016,3420 1248,3420 1248,3470 1016,3470" />
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="1016,3600 1248,3600 1248,3550 1016,3550" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="1016" y="3300" height="330" width="18" rx="6" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="1230" y="3390" height="240" width="18" rx="6" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="c131gaak" class="custos">
+                     <ns0:use href="#EA02-dgdg22r" x="2890" y="3420" height="720" width="720" />
+                  </ns0:g>
+                  <ns0:g id="n1tdsz8b" class="note">
+                     <ns0:g class="notehead">
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="3045,3240 3241,3240 3241,3290 3045,3290" />
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="3045,3420 3241,3420 3241,3370 3045,3370" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="3027" y="3210" height="240" width="18" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="3241" y="3210" height="240" width="18" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="n8c2oaa" class="note">
+                     <ns0:g class="notehead">
+                        <ns0:use href="#E93C-dgdg22r" x="3552" y="3330" height="720" width="720" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="n1z0dfvo" class="note">
+                     <ns0:g class="notehead">
+                        <ns0:use href="#E93C-dgdg22r" x="3909" y="3330" height="720" width="720" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="l12reser" class="ligature">
+                     <ns0:g id="nqry659" class="note" color="blue" fill="blue">
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="4459,3150 4691,3150 4691,3200 4459,3200" />
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="4459,3330 4691,3330 4691,3280 4459,3280" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="4459" y="3120" height="240" width="18" rx="6" />
+                     </ns0:g>
+                     <ns0:g id="n1vid2c5" class="note" color="blue" fill="blue">
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="4673,2790 4905,2790 4905,2840 4673,2840" />
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="4673,2970 4905,2970 4905,2920 4673,2920" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="4673" y="2760" height="600" width="18" rx="6" />
+                     </ns0:g>
+                     <ns0:g id="ng486l2" class="note" color="blue" fill="blue">
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="4887,2880 5119,2880 5119,2930 4887,2930" />
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="4887,3060 5119,3060 5119,3010 4887,3010" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="4887" y="2760" height="330" width="18" rx="6" />
+                     </ns0:g>
+                     <ns0:g id="n18jaqa5" class="note" color="blue" fill="blue">
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="5101,2970 5333,2970 5333,3020 5101,3020" />
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="5101,3150 5333,3150 5333,3100 5101,3100" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="5101" y="2850" height="330" width="18" rx="6" />
+                     </ns0:g>
+                     <ns0:g id="n14vmdvj" class="note" color="blue" fill="blue">
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="5315,3060 5539,3060 5539,3110 5315,3110" />
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="5315,3240 5539,3240 5539,3190 5315,3190" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="5315" y="2940" height="330" width="18" rx="6" />
+                     </ns0:g>
+                     <ns0:g id="njvkgsc" class="note" color="blue" fill="blue">
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="5538,3060 5761,3060 5761,3110 5538,3110" />
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="5538,3240 5761,3240 5761,3190 5538,3190" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="5743" y="3030" height="240" width="18" rx="6" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="d2c400p" class="dot">
+                     <ns0:polygon stroke-opacity="1" fill-opacity="1" points="5832,3150 5877,3105 5922,3150 5877,3195" />
+                  </ns0:g>
+                  <ns0:g id="na4saxs" class="note" color="blue" fill="blue">
+                     <ns0:g class="notehead">
+                        <ns0:use href="#E93C-dgdg22r" x="8313" y="3150" height="720" width="720" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="ljg94qc" class="ligature">
+                     <ns0:g id="n1x642f7" class="note">
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="8658,2970 8890,2970 8890,3020 8658,3020" />
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="8658,3150 8890,3150 8890,3100 8658,3100" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="8658" y="2430" height="750" width="18" rx="6" />
+                     </ns0:g>
+                     <ns0:g id="nklzzqp" class="note" color="blue" fill="blue">
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="8872,2880 9104,2880 9104,2930 8872,2930" />
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="8872,3060 9104,3060 9104,3010 8872,3010" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="8872" y="2850" height="330" width="18" rx="6" />
+                     </ns0:g>
+                     <ns0:g id="n5sksh3" class="note" color="blue" fill="blue">
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="9086,2790 9318,2790 9318,2840 9086,2840" />
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="9086,2970 9318,2970 9318,2920 9086,2920" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="9086" y="2760" height="330" width="18" rx="6" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="9300" y="2760" height="240" width="18" rx="6" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="n1gajbdf" class="note" color="blue" fill="blue">
+                     <ns0:g class="notehead">
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="9393,2700 9589,2700 9589,2750 9393,2750" />
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="9393,2880 9589,2880 9589,2830 9393,2830" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="9375" y="2670" height="240" width="18" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="9589" y="2670" height="240" width="18" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="n4vjqi9" class="note" color="blue" fill="blue">
+                     <ns0:g class="notehead">
+                        <ns0:use href="#E93C-dgdg22r" x="9980" y="2790" height="720" width="720" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="niwa3lt" class="note" color="blue" fill="blue">
+                     <ns0:g class="notehead">
+                        <ns0:use href="#E93C-dgdg22r" x="10337" y="2790" height="720" width="720" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="nsdd78s" class="note">
+                     <ns0:g class="notehead">
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="10712,2790 10908,2790 10908,2840 10712,2840" />
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="10712,2970 10908,2970 10908,2920 10712,2920" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="10694" y="2760" height="240" width="18" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="10908" y="2760" height="240" width="18" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="lxmca40" class="ligature">
+                     <ns0:g id="n16kjfka" class="note" color="blue" fill="blue">
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="11220,2880 11452,2880 11452,2930 11220,2930" />
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="11220,3060 11452,3060 11452,3010 11220,3010" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="11220" y="2340" height="750" width="18" rx="6" />
+                     </ns0:g>
+                     <ns0:g id="niavsbw" class="note" color="blue" fill="blue">
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="11434,2970 11666,2970 11666,3020 11434,3020" />
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="11434,3150 11666,3150 11666,3100 11434,3100" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="11434" y="2850" height="330" width="18" rx="6" />
+                     </ns0:g>
+                     <ns0:g id="n1yzc0cf" class="note">
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="11648,3070 11943,2925 11943,2975 11648,3120" />
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="11648,3250 11943,3105 11943,3055 11648,3200" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="11648" y="2940" height="330" width="18" rx="6" />
+                     </ns0:g>
+                     <ns0:g id="nmikq1k" class="note" color="blue" fill="blue">
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="11942,2925 12236,2780 12236,2830 11942,2975" />
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="11942,3105 12236,2960 12236,2910 11942,3055" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="12218" y="2760" height="240" width="18" rx="6" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="l12123t2" class="ligature">
+                     <ns0:g id="n1d4htk8" class="note" color="blue" fill="blue">
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="12852,2880 13084,2880 13084,2930 12852,2930" />
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="12852,3060 13084,3060 13084,3010 12852,3010" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="12852" y="2340" height="750" width="18" rx="6" />
+                     </ns0:g>
+                     <ns0:g id="n1k541pc" class="note" color="blue" fill="blue">
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="13066,2967 13290,3015 13290,3065 13066,3017" />
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="13066,3147 13290,3195 13290,3145 13066,3097" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="13066" y="2850" height="330" width="18" rx="6" />
+                     </ns0:g>
+                     <ns0:g id="najhpdt" class="note" color="blue" fill="blue">
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="13289,3015 13512,3063 13512,3113 13289,3065" />
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="13289,3195 13512,3243 13512,3193 13289,3145" />
+                     </ns0:g>
+                     <ns0:g id="n7loapr" class="note" color="blue" fill="blue">
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="13494,3147 13718,3195 13718,3245 13494,3197" />
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="13494,3327 13718,3375 13718,3325 13494,3277" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="13494" y="3030" height="330" width="18" rx="6" />
+                     </ns0:g>
+                     <ns0:g id="n1uzsdp4" class="note" color="blue" fill="blue">
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="13717,3195 13940,3243 13940,3293 13717,3245" />
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="13717,3375 13940,3423 13940,3373 13717,3325" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="13922" y="3210" height="240" width="18" rx="6" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="d14qdp21" class="dot">
+                     <ns0:polygon stroke-opacity="1" fill-opacity="1" points="14011,3330 14056,3285 14101,3330 14056,3375" />
+                  </ns0:g>
+                  <ns0:g id="n176exly" class="note" color="blue" fill="blue">
+                     <ns0:g class="notehead">
+                        <ns0:use href="#E93C-dgdg22r" x="15432" y="3510" height="720" width="720" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="lev9u42" class="ligature">
+                     <ns0:g id="n17vqrqy" class="note">
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="15789,3330 16021,3330 16021,3380 15789,3380" />
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="15789,3510 16021,3510 16021,3460 15789,3460" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="15789" y="2790" height="750" width="18" rx="6" />
+                     </ns0:g>
+                     <ns0:g id="nqjludq" class="note">
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="16003,3147 16227,3195 16227,3245 16003,3197" />
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="16003,3327 16227,3375 16227,3325 16003,3277" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="16003" y="3120" height="420" width="18" rx="6" />
+                     </ns0:g>
+                     <ns0:g id="n3aggya" class="note" color="blue" fill="blue">
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="16226,3195 16449,3243 16449,3293 16226,3245" />
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="16226,3375 16449,3423 16449,3373 16226,3325" />
+                     </ns0:g>
+                     <ns0:g id="n1q71r9d" class="note" color="blue" fill="blue">
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="16431,3330 16663,3330 16663,3380 16431,3380" />
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="16431,3510 16663,3510 16663,3460 16431,3460" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="16431" y="3210" height="330" width="18" rx="6" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="16645" y="3300" height="240" width="18" rx="6" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="cltuyo0" class="custos">
+                     <ns0:use href="#EA02-dgdg22r" x="17938" y="3330" height="720" width="720" />
+                  </ns0:g>
+                  <ns0:g id="n1okww3x" class="note">
+                     <ns0:g class="notehead">
+                        <ns0:use href="#E93C-dgdg22r" x="18075" y="3240" height="720" width="720" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="ncakv3e" class="note" color="blue" fill="blue">
+                     <ns0:g class="notehead">
+                        <ns0:use href="#E93C-dgdg22r" x="18420" y="3150" height="720" width="720" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="nt17o7c" class="note" color="blue" fill="blue">
+                     <ns0:g class="notehead">
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="18988,2970 19184,2970 19184,3020 18988,3020" />
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="18988,3150 19184,3150 19184,3100 18988,3100" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="18970" y="2940" height="240" width="18" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="19184" y="2940" height="240" width="18" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="n1kchyvm" class="note" color="blue" fill="blue">
+                     <ns0:g class="notehead">
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="19649,3060 19845,3060 19845,3110 19649,3110" />
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="19649,3240 19845,3240 19845,3190 19649,3190" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="19631" y="3030" height="240" width="18" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="19845" y="3030" height="240" width="18" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="r1cbgeig" class="rest">
+                     <ns0:use href="#E9F4-dgdg22r" x="20333" y="3240" height="720" width="720" />
+                     <ns0:g class="ledgerLines" />
+                  </ns0:g>
+                  <ns0:g id="nvnpidf" class="note">
+                     <ns0:g class="notehead">
+                        <ns0:use href="#E93C-dgdg22r" x="20604" y="2970" height="720" width="720" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="n1xlk43e" class="note">
+                     <ns0:g class="notehead">
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="20967,2790 21163,2790 21163,2840 20967,2840" />
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="20967,2970 21163,2970 21163,2920 20967,2920" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="20949" y="2760" height="240" width="18" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="21163" y="2760" height="240" width="18" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="n1krmuf1" class="note">
+                     <ns0:g class="notehead">
+                        <ns0:use href="#E93C-dgdg22r" x="21564" y="2790" height="720" width="720" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="n11h0mtb" class="note" color="blue" fill="blue">
+                     <ns0:g class="notehead">
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="21853,2790 22049,2790 22049,2840 21853,2840" />
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="21853,2970 22049,2970 22049,2920 21853,2920" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="21835" y="2760" height="240" width="18" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="22049" y="2760" height="240" width="18" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="nhdm4js" class="note">
+                     <ns0:g class="notehead">
+                        <ns0:use href="#E93C-dgdg22r" x="22469" y="3060" height="720" width="720" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="l17dh60c" class="ligature">
+                     <ns0:g id="n1d6j8sv" class="note" color="blue" fill="blue">
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="22814,2880 23046,2880 23046,2930 22814,2930" />
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="22814,3060 23046,3060 23046,3010 22814,3010" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="22814" y="2340" height="750" width="18" rx="6" />
+                     </ns0:g>
+                     <ns0:g id="n16z6ysf" class="note">
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="23028,2963 23252,3060 23252,3110 23028,3013" />
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="23028,3143 23252,3240 23252,3190 23028,3093" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="23028" y="2850" height="330" width="18" rx="6" />
+                     </ns0:g>
+                     <ns0:g id="n8vwaz5" class="note">
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="23251,3060 23474,3157 23474,3207 23251,3110" />
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="23251,3240 23474,3337 23474,3287 23251,3190" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="23456" y="3120" height="240" width="18" rx="6" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="l133ff5i" class="ligature">
+                     <ns0:g id="n18gx59f" class="note" color="blue" fill="blue">
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="24029,2877 24253,2925 24253,2975 24029,2927" />
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="24029,3057 24253,3105 24253,3055 24029,3007" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="24029" y="2340" height="750" width="18" rx="6" />
+                     </ns0:g>
+                     <ns0:g id="n1b9q42c" class="note">
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="24252,2925 24475,2973 24475,3023 24252,2975" />
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="24252,3105 24475,3153 24475,3103 24252,3055" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="24457" y="2940" height="240" width="18" rx="6" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="lqx2fn" class="ligature">
+                     <ns0:g id="nb3jcgq" class="note" color="blue" fill="blue">
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="24555,3150 24787,3150 24787,3200 24555,3200" />
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="24555,3330 24787,3330 24787,3280 24555,3280" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="24555" y="2610" height="750" width="18" rx="6" />
+                     </ns0:g>
+                     <ns0:g id="n1clyjyx" class="note" color="blue" fill="blue">
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="24769,2967 24993,3015 24993,3065 24769,3017" />
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="24769,3147 24993,3195 24993,3145 24769,3097" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="24769" y="2940" height="420" width="18" rx="6" />
+                     </ns0:g>
+                     <ns0:g id="n1w1qzyy" class="note" color="blue" fill="blue">
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="24992,3015 25215,3063 25215,3113 24992,3065" />
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="24992,3195 25215,3243 25215,3193 24992,3145" />
+                     </ns0:g>
+                     <ns0:g id="nu5gktf" class="note" color="blue" fill="blue">
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="25197,3150 25429,3150 25429,3200 25197,3200" />
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="25197,3330 25429,3330 25429,3280 25197,3280" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="25197" y="3030" height="330" width="18" rx="6" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="25411" y="3120" height="240" width="18" rx="6" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="b96mnkm" class="barLine">
+                     <ns0:path d="M26119 2880 L26119 3600" stroke-width="27" stroke="black" />
+                  </ns0:g>
+               </ns0:g>
+            </ns0:g>
+            <ns0:g id="sc2woal" class="staff">
+               <ns0:path d="M0 5220 L26500 5220" stroke-width="13" stroke="black" />
+               <ns0:path d="M0 5400 L26500 5400" stroke-width="13" stroke="black" />
+               <ns0:path d="M0 5580 L26500 5580" stroke-width="13" stroke="black" />
+               <ns0:path d="M0 5760 L26500 5760" stroke-width="13" stroke="black" />
+               <ns0:path d="M0 5940 L26500 5940" stroke-width="13" stroke="black" />
+               <ns0:g id="c3wuyp0" class="clef">
+                  <ns0:use href="#E909-dgdg22r" x="117" y="5580" height="720" width="720" />
+               </ns0:g>
+               <ns0:g id="kn5jrxn" class="keySig" />
+               <ns0:g class="ledgerLines below">
+                  <ns0:path d="M19680 6120 L20000 6120" stroke-width="22" stroke="black" />
+               </ns0:g>
+               <ns0:g id="lltpiew" class="layer">
+                  <ns0:g id="l1a3axf3" class="ligature">
+                     <ns0:g id="n4f0xfp" class="note">
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="374,5760 606,5760 606,5810 374,5810" />
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="374,5940 606,5940 606,5890 374,5890" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="374" y="5220" height="750" width="18" rx="6" />
+                     </ns0:g>
+                     <ns0:g id="n1mmcfzl" class="note" color="red" fill="red">
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="588,5580 820,5580 820,5760 588,5760" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="588" y="5550" height="420" width="18" rx="6" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="802" y="5550" height="240" width="18" rx="6" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="ndnl6tg" class="note" color="blue" fill="blue">
+                     <ns0:g class="notehead">
+                        <ns0:use href="#E93C-dgdg22r" x="872" y="5490" height="720" width="720" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="n1cy6wl" class="note" color="blue" fill="blue">
+                     <ns0:g class="notehead">
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="1303,5400 1499,5400 1499,5450 1303,5450" />
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="1303,5580 1499,5580 1499,5530 1303,5530" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="1285" y="5370" height="240" width="18" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="1499" y="5370" height="240" width="18" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="n1pwwmw3" class="note" color="blue" fill="blue">
+                     <ns0:g class="notehead">
+                        <ns0:use href="#E93C-dgdg22r" x="1890" y="5580" height="720" width="720" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="nctvmam" class="note">
+                     <ns0:g class="notehead">
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="2253,5400 2449,5400 2449,5450 2253,5450" />
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="2253,5580 2449,5580 2449,5530 2253,5530" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="2235" y="5370" height="240" width="18" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="2449" y="5370" height="240" width="18" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="ldtvjwk" class="ligature">
+                     <ns0:g id="n18dikac" class="note">
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="2772,5573 2996,5670 2996,5720 2772,5623" />
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="2772,5753 2996,5850 2996,5800 2772,5703" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="2772" y="5550" height="750" width="18" rx="6" />
+                     </ns0:g>
+                     <ns0:g id="n17w80ny" class="note">
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="2995,5670 3218,5767 3218,5817 2995,5720" />
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="2995,5850 3218,5947 3218,5897 2995,5800" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="3200" y="5730" height="240" width="18" rx="6" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="c1oemvms" class="custos">
+                     <ns0:use href="#EA02-dgdg22r" x="4205" y="5940" height="720" width="720" />
+                  </ns0:g>
+                  <ns0:g id="n1epn31w" class="note" color="blue" fill="blue">
+                     <ns0:g class="notehead">
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="4360,5760 4556,5760 4556,5810 4360,5810" />
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="4360,5940 4556,5940 4556,5890 4360,5890" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="4342" y="5730" height="240" width="18" />
+                     </ns0:g>
+                     <ns0:g class="stem">
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="4556" y="5220" height="750" width="18" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="n1k4bqna" class="note" color="blue" fill="blue">
+                     <ns0:g class="notehead">
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="5671,5130 5867,5130 5867,5180 5671,5180" />
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="5671,5310 5867,5310 5867,5260 5671,5260" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="5653" y="5100" height="240" width="18" />
+                     </ns0:g>
+                     <ns0:g class="stem">
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="5867" y="5100" height="750" width="18" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="l13yi7gg" class="ligature">
+                     <ns0:g id="n1526hmo" class="note" color="blue" fill="blue">
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="6680,5493 6904,5445 6904,5495 6680,5543" />
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="6680,5673 6904,5625 6904,5575 6680,5623" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="6680" y="4950" height="750" width="18" rx="6" />
+                     </ns0:g>
+                     <ns0:g id="ndamwjd" class="note" color="blue" fill="blue">
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="6903,5445 7126,5397 7126,5447 6903,5495" />
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="6903,5625 7126,5577 7126,5527 6903,5575" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="7108" y="5370" height="240" width="18" rx="6" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="lkni87w" class="ligature">
+                     <ns0:g id="n1pwebb7" class="note" color="blue" fill="blue">
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="7354,5303 7578,5400 7578,5450 7354,5353" />
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="7354,5483 7578,5580 7578,5530 7354,5433" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="7354" y="4770" height="750" width="18" rx="6" />
+                     </ns0:g>
+                     <ns0:g id="n13y8p2m" class="note" color="blue" fill="blue">
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="7577,5400 7800,5497 7800,5547 7577,5450" />
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="7577,5580 7800,5677 7800,5627 7577,5530" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="7782" y="5460" height="240" width="18" rx="6" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="rah43c5" class="rest">
+                     <ns0:use href="#E9F4-dgdg22r" x="7850" y="5580" height="720" width="720" />
+                     <ns0:g class="ledgerLines" />
+                  </ns0:g>
+                  <ns0:g id="nrf8kqg" class="note" color="blue" fill="blue">
+                     <ns0:g class="notehead">
+                        <ns0:use href="#E93C-dgdg22r" x="8195" y="5580" height="720" width="720" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="lv7ht77" class="ligature">
+                     <ns0:g id="n1db17r9" class="note" color="blue" fill="blue">
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="8540,5760 8772,5760 8772,5810 8540,5810" />
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="8540,5940 8772,5940 8772,5890 8540,5890" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="8540" y="5730" height="240" width="18" rx="6" />
+                     </ns0:g>
+                     <ns0:g id="ny0nbv0" class="note" color="blue" fill="blue">
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="8754,5130 8986,5130 8986,5180 8754,5180" />
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="8754,5310 8986,5310 8986,5260 8754,5260" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="8754" y="5100" height="870" width="18" rx="6" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="8968" y="5100" height="240" width="18" rx="6" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="l19hp654" class="ligature">
+                     <ns0:g id="n17v45f9" class="note" color="blue" fill="blue">
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="9258,5310 9490,5310 9490,5360 9258,5360" />
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="9258,5490 9490,5490 9490,5440 9258,5440" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="9258" y="4770" height="750" width="18" rx="6" />
+                     </ns0:g>
+                     <ns0:g id="n171jvmm" class="note">
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="9472,5220 9704,5220 9704,5270 9472,5270" />
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="9472,5400 9704,5400 9704,5350 9472,5350" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="9472" y="5190" height="330" width="18" rx="6" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="9686" y="5190" height="240" width="18" rx="6" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="lmid8ur" class="ligature">
+                     <ns0:g id="n1o2da79" class="note">
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="9863,5490 10095,5490 10095,5540 9863,5540" />
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="9863,5670 10095,5670 10095,5620 9863,5620" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="9863" y="4950" height="750" width="18" rx="6" />
+                     </ns0:g>
+                     <ns0:g id="nbfj6jm" class="note" color="blue" fill="blue">
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="10077,5573 10301,5670 10301,5720 10077,5623" />
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="10077,5753 10301,5850 10301,5800 10077,5703" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="10077" y="5460" height="330" width="18" rx="6" />
+                     </ns0:g>
+                     <ns0:g id="nnndaox" class="note" color="blue" fill="blue">
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="10300,5670 10523,5767 10523,5817 10300,5720" />
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="10300,5850 10523,5947 10523,5897 10300,5800" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="10505" y="5730" height="240" width="18" rx="6" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="d5o7258" class="dot">
+                     <ns0:polygon stroke-opacity="1" fill-opacity="1" points="10594,5850 10639,5805 10684,5850 10639,5895" />
+                  </ns0:g>
+                  <ns0:g id="nqfvfse" class="note" color="blue" fill="blue">
+                     <ns0:g class="notehead">
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="11533,5850 11729,5850 11729,5900 11533,5900" />
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="11533,6030 11729,6030 11729,5980 11533,5980" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="11515" y="5820" height="240" width="18" />
+                     </ns0:g>
+                     <ns0:g class="stem">
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="11729" y="5310" height="750" width="18" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="lp0l6jf" class="ligature">
+                     <ns0:g id="ntr3ziz" class="note">
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="12542,5760 12774,5760 12774,5810 12542,5810" />
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="12542,5940 12774,5940 12774,5890 12542,5890" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="12542" y="5220" height="750" width="18" rx="6" />
+                     </ns0:g>
+                     <ns0:g id="n1364ajh" class="note" color="blue" fill="blue">
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="12756,5670 12988,5670 12988,5720 12756,5720" />
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="12756,5850 12988,5850 12988,5800 12756,5800" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="12756" y="5640" height="330" width="18" rx="6" />
+                     </ns0:g>
+                     <ns0:g id="ncqr36q" class="note" color="blue" fill="blue">
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="12970,5490 13202,5490 13202,5540 12970,5540" />
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="12970,5670 13202,5670 13202,5620 12970,5620" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="12970" y="5460" height="420" width="18" rx="6" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="13184" y="5460" height="240" width="18" rx="6" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="lp79bd8" class="ligature">
+                     <ns0:g id="na89fm1" class="note" color="blue" fill="blue">
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="13688,5940 13920,5940 13920,5990 13688,5990" />
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="13688,6120 13920,6120 13920,6070 13688,6070" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="13688" y="5400" height="750" width="18" rx="6" />
+                     </ns0:g>
+                     <ns0:g id="n1q9hwy7" class="note">
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="13902,5850 14134,5850 14134,5900 13902,5900" />
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="13902,6030 14134,6030 14134,5980 13902,5980" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="13902" y="5820" height="330" width="18" rx="6" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="14116" y="5820" height="240" width="18" rx="6" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="ljrc8co" class="ligature">
+                     <ns0:g id="nyh5e0g" class="note" color="blue" fill="blue">
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="14185,5760 14417,5760 14417,5810 14185,5810" />
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="14185,5940 14417,5940 14417,5890 14185,5890" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="14185" y="5220" height="750" width="18" rx="6" />
+                     </ns0:g>
+                     <ns0:g id="nte2mo0" class="note" color="blue" fill="blue">
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="14399,5670 14631,5670 14631,5720 14399,5720" />
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="14399,5850 14631,5850 14631,5800 14399,5800" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="14399" y="5640" height="330" width="18" rx="6" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="14613" y="5640" height="240" width="18" rx="6" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="llc2f29" class="ligature">
+                     <ns0:g id="n1s5qhv0" class="note" color="blue" fill="blue">
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="14818,5566 15184,5760 15184,5810 14818,5616" />
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="14818,5746 15184,5940 15184,5890 14818,5696" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="14818" y="5040" height="750" width="18" rx="6" />
+                     </ns0:g>
+                     <ns0:g id="nm5a88" class="note">
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="15183,5759 15549,5954 15549,6004 15183,5809" />
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="15183,5939 15549,6134 15549,6084 15183,5889" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="15531" y="5910" height="240" width="18" rx="6" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="n17uckj" class="note" color="blue" fill="blue">
+                     <ns0:g class="notehead">
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="15332,5670 15528,5670 15528,5720 15332,5720" />
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="15332,5850 15528,5850 15528,5800 15332,5800" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="15314" y="5640" height="240" width="18" />
+                     </ns0:g>
+                     <ns0:g class="stem">
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="15528" y="5130" height="750" width="18" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="n1e9dqej" class="note" color="blue" fill="blue">
+                     <ns0:g class="notehead">
+                        <ns0:use href="#E93C-dgdg22r" x="16523" y="5670" height="720" width="720" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="lzwvt8o" class="ligature">
+                     <ns0:g id="na3b947" class="note" color="blue" fill="blue">
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="16793,5670 17025,5670 17025,5720 16793,5720" />
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="16793,5850 17025,5850 17025,5800 16793,5800" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="16793" y="5130" height="750" width="18" rx="6" />
+                     </ns0:g>
+                     <ns0:g id="nk9hs0m" class="note">
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="17007,5860 17302,5715 17302,5765 17007,5910" />
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="17007,6040 17302,5895 17302,5845 17007,5990" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="17007" y="5640" height="420" width="18" rx="6" />
+                     </ns0:g>
+                     <ns0:g id="n43t344" class="note" color="blue" fill="blue">
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="17301,5715 17595,5570 17595,5620 17301,5765" />
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="17301,5895 17595,5750 17595,5700 17301,5845" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="17577" y="5550" height="240" width="18" rx="6" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="r19x2ho7" class="rest">
+                     <ns0:use href="#E9F4-dgdg22r" x="17820" y="5580" height="720" width="720" />
+                     <ns0:g class="ledgerLines" />
+                  </ns0:g>
+                  <ns0:g id="n1destz6" class="note" color="blue" fill="blue">
+                     <ns0:g class="notehead">
+                        <ns0:use href="#E93C-dgdg22r" x="18302" y="5940" height="720" width="720" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="c17etlao" class="custos">
+                     <ns0:use href="#EA02-dgdg22r" x="18716" y="5850" height="720" width="720" />
+                  </ns0:g>
+                  <ns0:g id="n1udwdkg" class="note" color="blue" fill="blue">
+                     <ns0:g class="notehead">
+                        <ns0:use href="#E93C-dgdg22r" x="18853" y="5940" height="720" width="720" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="d381n91" class="dot">
+                     <ns0:polygon stroke-opacity="1" fill-opacity="1" points="19133,5850 19178,5805 19223,5850 19178,5895" />
+                  </ns0:g>
+                  <ns0:g id="n1yftf2h" class="note" color="blue" fill="blue">
+                     <ns0:g class="notehead">
+                        <ns0:use href="#E93C-dgdg22r" x="19279" y="5850" height="720" width="720" />
+                     </ns0:g>
+                     <ns0:g id="s2lsvjl" class="stem">
+                        <ns0:use href="#E93E-dgdg22r" x="19381" y="5770" height="720" width="720" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="l149iup6" class="ligature">
+                     <ns0:g id="n14tt82d" class="note" color="blue" fill="blue">
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="19514,5843 19738,5940 19738,5990 19514,5893" />
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="19514,6023 19738,6120 19738,6070 19514,5973" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="19514" y="5310" height="750" width="18" rx="6" />
+                     </ns0:g>
+                     <ns0:g id="n1lzapbq" class="note" color="blue" fill="blue">
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="19737,5940 19960,6037 19960,6087 19737,5990" />
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="19737,6120 19960,6217 19960,6167 19737,6070" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="19942" y="6000" height="240" width="18" rx="6" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="ntxcdo2" class="note" color="blue" fill="blue">
+                     <ns0:g class="notehead">
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="20234,5670 20430,5670 20430,5720 20234,5720" />
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="20234,5850 20430,5850 20430,5800 20234,5800" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="20216" y="5640" height="240" width="18" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="20430" y="5640" height="240" width="18" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="r1byeuqz" class="rest">
+                     <ns0:use href="#E9F4-dgdg22r" x="20831" y="5580" height="720" width="720" />
+                     <ns0:g class="ledgerLines" />
+                  </ns0:g>
+                  <ns0:g id="nv35swf" class="note" color="blue" fill="blue">
+                     <ns0:g class="notehead">
+                        <ns0:use href="#E93C-dgdg22r" x="21177" y="5670" height="720" width="720" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="n170yuze" class="note" color="blue" fill="blue">
+                     <ns0:g class="notehead">
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="21465,5400 21661,5400 21661,5450 21465,5450" />
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="21465,5580 21661,5580 21661,5530 21465,5530" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="21447" y="5370" height="240" width="18" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="21661" y="5370" height="240" width="18" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="l15syro5" class="ligature">
+                     <ns0:g id="n12tpy86" class="note">
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="22062,5303 22286,5400 22286,5450 22062,5353" />
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="22062,5483 22286,5580 22286,5530 22062,5433" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="22062" y="4770" height="750" width="18" rx="6" />
+                     </ns0:g>
+                     <ns0:g id="nluvw14" class="note" color="blue" fill="blue">
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="22285,5400 22508,5497 22508,5547 22285,5450" />
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="22285,5580 22508,5677 22508,5627 22285,5530" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="22490" y="5460" height="240" width="18" rx="6" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="r16fuiuv" class="rest">
+                     <ns0:use href="#E9F4-dgdg22r" x="22696" y="5580" height="720" width="720" />
+                     <ns0:g class="ledgerLines" />
+                  </ns0:g>
+                  <ns0:g id="n1ke4anx" class="note" color="blue" fill="blue">
+                     <ns0:g class="notehead">
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="23060,5490 23256,5490 23256,5540 23060,5540" />
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="23060,5670 23256,5670 23256,5620 23060,5620" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="23042" y="5460" height="240" width="18" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="23256" y="5460" height="240" width="18" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="l1o1rclp" class="ligature">
+                     <ns0:g id="ngrdttk" class="note">
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="23623,5310 23855,5310 23855,5360 23623,5360" />
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="23623,5490 23855,5490 23855,5440 23623,5440" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="23623" y="4770" height="750" width="18" rx="6" />
+                     </ns0:g>
+                     <ns0:g id="n179lzf2" class="note" color="blue" fill="blue">
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="23837,5123 24061,5220 24061,5270 23837,5173" />
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="23837,5303 24061,5400 24061,5350 23837,5253" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="23837" y="5100" height="420" width="18" rx="6" />
+                     </ns0:g>
+                     <ns0:g id="n1tyqlo3" class="note" color="blue" fill="blue">
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="24060,5220 24283,5317 24283,5367 24060,5270" />
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="24060,5400 24283,5497 24283,5447 24060,5350" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="24265" y="5280" height="240" width="18" rx="6" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="lst3aqe" class="ligature">
+                     <ns0:g id="ntpcn7w" class="note" color="blue" fill="blue">
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="24782,5490 25014,5490 25014,5540 24782,5540" />
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="24782,5670 25014,5670 25014,5620 24782,5620" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="24782" y="4950" height="750" width="18" rx="6" />
+                     </ns0:g>
+                     <ns0:g id="nwoobxb" class="note" color="blue" fill="blue">
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="24996,5577 25220,5625 25220,5675 24996,5627" />
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="24996,5757 25220,5805 25220,5755 24996,5707" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="24996" y="5460" height="330" width="18" rx="6" />
+                     </ns0:g>
+                     <ns0:g id="nx55ltw" class="note" color="blue" fill="blue">
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="25219,5625 25442,5673 25442,5723 25219,5675" />
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="25219,5805 25442,5853 25442,5803 25219,5755" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="25424" y="5640" height="240" width="18" rx="6" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="n67ovdz" class="note" color="blue" fill="blue">
+                     <ns0:g class="notehead">
+                        <ns0:use href="#E93C-dgdg22r" x="25406" y="5760" height="720" width="720" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="n1jmrljg" class="note">
+                     <ns0:g class="notehead">
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="25695,5940 25891,5940 25891,5990 25695,5990" />
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="25695,6120 25891,6120 25891,6070 25695,6070" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="25677" y="5910" height="240" width="18" />
+                     </ns0:g>
+                     <ns0:g class="stem">
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="25891" y="5400" height="750" width="18" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="bfx1qas" class="barLine">
+                     <ns0:path d="M26498 5220 L26498 5940" stroke-width="27" stroke="black" />
+                  </ns0:g>
+                  <ns0:g id="b74m9l9" class="barLine">
+                     <ns0:path d="M26498 5220 L26498 5940" stroke-width="27" stroke="black" />
+                  </ns0:g>
+               </ns0:g>
+            </ns0:g>
+            <ns0:g id="s5dljx1" class="systemMilestoneEnd s1" />
+         </ns0:g>
+         <ns0:g id="p1oldjkh" class="pageMilestoneEnd s1v6v6jq" />
+         <ns0:g id="p4ovbvn" class="pageMilestoneEnd m1gyxdft" />
+      </ns0:g>
+   </ns0:svg>

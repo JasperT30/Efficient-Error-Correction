@@ -1,0 +1,5 @@
+Michelet
+data/res_dict_leuven_chansonnier/b-af-ms-1_054_21v.pickle
+data/res_dict_leuven_chansonnier/b-af-ms-1_055_22r.pickle
+data/source_images/lc_054_21v.jpeg
+data/source_images/lc_055_22r.jpeg

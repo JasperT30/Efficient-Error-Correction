@@ -1,0 +1,5 @@
+anon
+data/res_dict_leuven_chansonnier/b-af-ms-1_046_17v.pickle
+data/res_dict_leuven_chansonnier/b-af-ms-1_047_18r.pickle
+data/source_images/lc_046_17v.jpeg
+data/source_images/lc_047_18r.jpeg

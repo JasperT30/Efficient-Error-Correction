@@ -1,0 +1,415 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.1+basic">
+	<meiHead>
+		<fileDesc>
+			<titleStmt>
+				<title type="main">Les desleaulx ont la saison</title>
+				<respStmt>
+					<persName role="composer">Johannes Ockeghem</persName>
+				</respStmt>
+			</titleStmt>
+			<sourceDesc>Leuven Chansonnier N°09</sourceDesc>
+			<pubStmt>
+				<date isodate="2025-08-14T12:09:48.888991" />
+			</pubStmt>
+		</fileDesc>
+	</meiHead>
+	<music>
+		<body>
+			<mdiv>
+				<score>
+					<scoreDef>
+						<pgHead func="first">
+							<rend halign="center" valign="top">
+								<rend type="title" fontsize="x-large">Les desleaulx ont la saison</rend>
+							</rend>
+							<rend halign="right" valign="bottom">
+								<rend type="composer">Johannes Ockeghem</rend>
+							</rend>
+							<rend halign="left" valign="bottom">
+								<rend type="file_desc">Leuven Chansonnier N°09</rend>
+							</rend>
+						</pgHead>
+						<staffGrp symbol="bracket">
+							<staffDef n="1" lines="5" label="Discantus" keysig="0" clef.shape="C" clef.line="2" notationtype="mensural.white">
+								<mensur sign="C" slash="0" dot="false" modusmaior="2" modusminor="2" tempus="2" prolatio="2" />
+								<instrDef midi.instrnum="0" />
+							</staffDef>
+							<staffDef n="2" lines="5" label="Tenor" keysig="0" clef.shape="C" clef.line="4" notationtype="mensural.white">
+								<mensur sign="C" slash="0" dot="false" modusmaior="2" modusminor="2" tempus="2" prolatio="2" />
+								<instrDef midi.instrnum="0" />
+							</staffDef>
+							<staffDef n="3" lines="5" label="Contratenor" keysig="0" clef.shape="C" clef.line="5" notationtype="mensural.white">
+								<mensur sign="C" slash="0" dot="false" modusmaior="2" modusminor="2" tempus="2" prolatio="2" />
+								<instrDef midi.instrnum="0" />
+							</staffDef>
+						</staffGrp>
+					</scoreDef>
+					<section xml:id="s1">
+						<staff n="1">
+							<layer n="1">
+								<mensur id="sym_0_1" modusmaior="2" tempus="2" modusminor="2" prolatio="2" />
+								<note id="sym_0_2" oct="4" pname="d" dur="semibrevis" />
+								<note id="sym_0_3" oct="4" pname="c" dur="minima" />
+								<note id="sym_0_4" oct="4" pname="d" dur="minima" />
+								<note id="sym_0_5" oct="3" pname="b" dur="minima" />
+								<note id="sym_0_6" oct="4" pname="c" dur="minima" />
+								<note id="sym_0_7" color="red" oct="4" pname="d" dur="minima" />
+								<note id="sym_0_8" oct="4" pname="f" dur="minima" />
+								<note id="sym_0_9" color="blue" oct="4" pname="e" dur="minima" />
+								<note id="sym_0_10" color="blue" oct="4" pname="a" dur="minima" num="2" numbase="3" is_dotted="true" />
+								<dot id="sym_0_11" />
+								<note id="sym_0_12" color="blue" oct="4" pname="g" dur="semiminima" />
+								<note id="sym_0_13" oct="4" pname="e" dur="minima" />
+								<note id="sym_0_14" oct="4" pname="f" dur="minima" />
+								<note id="sym_0_15" oct="4" pname="d" dur="minima" />
+								<note id="sym_0_16" color="blue" oct="4" pname="g" dur="minima" num="2" numbase="3" is_dotted="true" />
+								<dot id="sym_0_17" />
+								<note id="sym_0_18" color="blue" oct="4" pname="f" dur="semiminima" />
+								<note id="sym_0_19" oct="4" pname="e" dur="semiminima" />
+								<note id="sym_0_20" color="blue" oct="4" pname="d" dur="semiminima" />
+								<note id="sym_0_21" color="red" oct="4" pname="d" dur="semibrevis" />
+								<note id="sym_0_22" color="red" oct="4" pname="c" dur="minima" />
+								<note id="sym_0_23" color="red" oct="4" pname="d" dur="semibrevis" />
+								<custos id="sym_0_24" pname="d" oct="4" />
+								<rest id="sym_1_1" dur="minima" />
+								<note id="sym_1_2" oct="4" pname="d" dur="minima" />
+								<note id="sym_1_3" oct="4" pname="e" dur="minima" />
+								<note id="sym_1_4" color="red" oct="4" pname="e" dur="minima" />
+								<note id="sym_1_5" color="red" oct="4" pname="f" dur="minima" />
+								<note id="sym_1_6" oct="4" pname="f" dur="minima" />
+								<note id="sym_1_7" color="red" oct="4" pname="e" dur="minima" />
+								<note id="sym_1_8" oct="4" pname="c" dur="semibrevis" />
+								<note id="sym_1_9" oct="4" pname="d" dur="minima" />
+								<note id="sym_1_10" color="red" oct="4" pname="e" dur="minima" num="2" numbase="3" is_dotted="true" />
+								<dot id="sym_1_11" />
+								<note id="sym_1_12" color="blue" oct="4" pname="f" dur="fusa" />
+								<note id="sym_1_13" color="blue" oct="4" pname="g" dur="fusa" />
+								<note id="sym_1_14" color="blue" oct="4" pname="a" dur="minima" num="2" numbase="3" is_dotted="true" />
+								<dot id="sym_1_15" />
+								<note id="sym_1_16" oct="4" pname="g" dur="semiminima" />
+								<note id="sym_1_17" oct="4" pname="a" dur="semiminima" />
+								<note id="sym_1_18" color="blue" oct="4" pname="g" dur="minima" />
+								<note id="sym_1_19" color="blue" oct="4" pname="e" dur="minima" />
+								<note id="sym_1_20" color="blue" oct="4" pname="f" dur="minima" />
+								<note id="sym_1_21" color="blue" oct="4" pname="d" dur="minima" />
+								<note id="sym_1_22" color="blue" oct="4" pname="c" dur="minima" />
+								<note id="sym_1_23" color="blue" oct="4" pname="d" dur="minima" />
+								<note id="sym_1_24" oct="4" pname="f" dur="minima" num="2" numbase="3" is_dotted="true" />
+								<dot id="sym_1_25" />
+								<note id="sym_1_26" oct="4" pname="e" dur="semiminima" />
+								<note id="sym_1_27" oct="4" pname="f" dur="minima" />
+								<note id="sym_1_28" color="blue" oct="4" pname="e" dur="semibrevis" />
+								<note id="sym_1_29" color="blue" oct="4" pname="d" dur="minima" />
+								<fermata />
+								<note id="sym_1_31" color="blue" oct="4" pname="e" dur="brevis" fermata="above" />
+								<custos id="sym_1_32" pname="f" oct="4" />
+								<rest id="sym_2_1" dur="semibrevis" />
+								<note id="sym_2_2" color="blue" oct="4" pname="f" dur="semibrevis" />
+								<note id="sym_2_3" oct="4" pname="e" dur="minima" />
+								<note id="sym_2_4" color="blue" oct="4" pname="e" dur="minima" />
+								<note id="sym_2_5" color="blue" oct="4" pname="d" dur="minima" />
+								<note id="sym_2_6" oct="4" pname="f" dur="minima" />
+								<note id="sym_2_7" color="blue" oct="4" pname="e" dur="minima" />
+								<note id="sym_2_8" color="blue" oct="4" pname="c" dur="minima" />
+								<note id="sym_2_9" color="blue" oct="4" pname="d" dur="minima" />
+								<note id="sym_2_10" oct="4" pname="f" dur="minima" />
+								<note id="sym_2_11" color="blue" oct="4" pname="e" dur="minima" />
+								<note id="sym_2_12" color="blue" oct="4" pname="a" dur="semibrevis" />
+								<note id="sym_2_13" color="blue" oct="4" pname="g" dur="minima" />
+								<note id="sym_2_14" color="blue" colored="true" oct="4" pname="a" dur="semibrevis" num="4" numbase="3" />
+								<note id="sym_2_15" color="blue" oct="4" pname="f" dur="semiminima" />
+								<note id="sym_2_16" color="blue" oct="4" pname="g" dur="minima" />
+								<note id="sym_2_17" color="blue" oct="4" pname="e" dur="minima" />
+								<note id="sym_2_18" color="blue" oct="4" pname="d" dur="minima" />
+								<note id="sym_2_19" oct="4" pname="f" dur="minima" />
+								<note id="sym_2_20" oct="4" pname="e" dur="minima" />
+								<note id="sym_2_21" color="blue" oct="4" pname="g" dur="minima" num="2" numbase="3" is_dotted="true" />
+								<dot id="sym_2_22" />
+								<note id="sym_2_23" oct="4" pname="f" dur="semiminima" />
+								<note id="sym_2_24" color="blue" oct="4" pname="e" dur="semiminima" />
+								<note id="sym_2_25" oct="4" pname="d" dur="semiminima" />
+								<note id="sym_2_26" oct="4" pname="f" dur="minima" />
+								<note id="sym_2_27" oct="4" pname="e" dur="minima" />
+								<custos id="sym_2_28" pname="c" oct="4" />
+								<rest id="sym_3_1" dur="minima" />
+								<note id="sym_3_2" color="red" oct="4" pname="c" dur="minima" />
+								<note id="sym_3_3" color="blue" oct="4" pname="d" dur="minima" />
+								<note id="sym_3_4" oct="4" pname="c" dur="semiminima" />
+								<note id="sym_3_5" color="blue" oct="4" pname="d" dur="semiminima" />
+								<note id="sym_3_6" oct="4" pname="e" dur="minima" />
+								<note id="sym_3_7" color="blue" oct="4" pname="d" dur="semiminima" />
+								<note id="sym_3_8" color="red" oct="4" pname="e" dur="semiminima" />
+								<note id="sym_3_9" oct="4" pname="f" dur="minima" />
+								<note id="sym_3_10" color="blue" oct="4" pname="d" dur="minima" />
+								<rest id="sym_3_11" dur="minima" />
+								<note id="sym_3_12" oct="4" pname="c" dur="minima" />
+								<note id="sym_3_13" color="blue" oct="4" pname="d" dur="minima" />
+								<note id="sym_3_14" oct="3" pname="b" dur="minima" />
+								<note id="sym_3_15" color="red" oct="4" pname="c" dur="minima" />
+								<note id="sym_3_16" oct="3" pname="b" dur="semiminima" />
+								<note id="sym_3_17" oct="4" pname="c" dur="semiminima" />
+								<note id="sym_3_18" color="blue" oct="4" pname="d" dur="minima" />
+								<note id="sym_3_19" oct="4" pname="f" dur="minima" />
+								<note id="sym_3_20" color="blue" oct="4" pname="e" dur="minima" />
+								<note id="sym_3_21" oct="4" pname="c" dur="minima" />
+								<note id="sym_3_22" color="blue" oct="4" pname="d" dur="minima" />
+								<note id="sym_3_23" oct="4" pname="c" dur="semiminima" />
+								<note id="sym_3_24" color="red" oct="4" pname="d" dur="semiminima" />
+								<note id="sym_3_25" color="blue" oct="4" pname="e" dur="minima" />
+								<note id="sym_3_26" color="blue" oct="3" pname="a" dur="minima" />
+								<note id="sym_3_27" color="blue" oct="3" pname="b" dur="minima" />
+								<note id="sym_3_28" color="blue" oct="4" pname="c" dur="minima" />
+								<note id="sym_3_29" color="blue" oct="4" pname="d" dur="minima" />
+								<note id="sym_3_30" oct="4" pname="f" dur="minima" />
+								<note id="sym_3_31" oct="4" pname="e" dur="minima" />
+								<note id="sym_3_32" color="blue" colored="true" oct="4" pname="a" dur="semibrevis" num="4" numbase="3" />
+								<note id="sym_3_33" color="red" oct="4" pname="g" dur="semiminima" />
+								<note id="sym_3_34" color="blue" oct="4" pname="e" dur="minima" />
+								<note id="sym_3_35" color="blue" oct="4" pname="f" dur="minima" />
+								<note id="sym_3_36" color="blue" oct="4" pname="d" dur="minima" />
+								<note id="sym_3_37" color="blue" oct="4" pname="c" dur="semibrevis" />
+								<custos id="sym_3_38" pname="g" oct="4" />
+								<note id="sym_4_1" color="blue" oct="4" pname="g" dur="minima" num="2" numbase="3" is_dotted="true" />
+								<dot id="sym_4_2" />
+								<note id="sym_4_3" oct="4" pname="f" dur="semiminima" />
+								<note id="sym_4_4" color="blue" oct="4" pname="e" dur="semiminima" />
+								<note id="sym_4_5" oct="4" pname="d" dur="semiminima" />
+								<note id="sym_4_6" color="blue" oct="4" pname="d" dur="semibrevis" />
+								<note id="sym_4_7" color="blue" oct="4" pname="c" dur="minima" />
+								<note id="sym_4_8" color="blue" oct="4" pname="d" dur="longa" />
+								<barLine id="sym_4_9" />
+							</layer>
+						</staff>
+						<staff n="2">
+							<layer n="1">
+								<mensur id="sym_5_1" modusmaior="2" tempus="2" modusminor="2" prolatio="2" />
+								<note id="sym_5_2" oct="3" pname="d" dur="semibrevis" />
+								<note id="sym_5_3" oct="3" pname="f" dur="minima" />
+								<note id="sym_5_4" oct="3" pname="d" dur="minima" />
+								<note id="sym_5_5" oct="3" pname="e" dur="semibrevis" />
+								<note id="sym_5_6" color="red" oct="3" pname="d" dur="semibrevis" />
+								<note id="sym_5_7" colored="true" oct="3" pname="a" dur="semibrevis" num="4" numbase="3" />
+								<note id="sym_5_8" color="blue" oct="3" pname="b" dur="semiminima" />
+								<note id="sym_5_9" oct="4" pname="c" dur="semibrevis" />
+								<note id="sym_5_10" color="blue" oct="4" pname="d" dur="semibrevis" />
+								<note id="sym_5_11" oct="3" pname="b" dur="minima" />
+								<note id="sym_5_12" color="blue" oct="3" pname="g" dur="minima" />
+								<note id="sym_5_13" color="blue" oct="3" pname="a" dur="minima" />
+								<note id="sym_5_14" color="red" oct="3" pname="f" dur="minima" />
+								<note id="sym_5_15" color="blue" oct="3" pname="e" dur="semibrevis" />
+								<note id="sym_5_16" color="red" oct="3" pname="d" dur="semibrevis" />
+								<note id="sym_5_17" oct="3" pname="d" dur="semibrevis" />
+								<rest id="sym_5_18" dur="semibrevis" />
+								<note id="sym_5_19" color="red" oct="3" pname="c" dur="minima" />
+								<note id="sym_5_20" color="red" oct="3" pname="d" dur="minima" />
+								<note id="sym_5_21" color="red" oct="3" pname="d" dur="minima" />
+								<note id="sym_5_22" color="red" oct="3" pname="e" dur="minima" />
+								<note id="sym_5_23" color="blue" oct="3" pname="e" dur="minima" />
+								<note id="sym_5_24" oct="3" pname="f" dur="minima" />
+								<note id="sym_5_25" color="red" oct="3" pname="f" dur="minima" />
+								<note id="sym_5_26" color="red" oct="3" pname="e" dur="minima" />
+								<note id="sym_5_27" color="blue" oct="3" pname="c" dur="semibrevis" />
+								<note id="sym_5_28" color="red" oct="3" pname="d" dur="minima" />
+								<note id="sym_5_29" color="red" oct="3" pname="e" dur="semibrevis" />
+								<note id="sym_5_30" color="blue" oct="3" pname="d" dur="semibrevis" />
+								<note id="sym_5_31" color="red" oct="3" pname="a" dur="minima" />
+								<note id="sym_5_32" oct="3" pname="b" dur="minima" />
+								<custos id="sym_5_33" pname="a" oct="3" />
+								<note id="sym_6_1" oct="3" pname="a" dur="semibrevis" num="2" numbase="3" is_dotted="true" />
+								<dot id="sym_6_2" />
+								<note id="sym_6_3" color="blue" oct="3" pname="g" dur="minima" />
+								<note id="sym_6_4" color="blue" oct="3" pname="f" dur="semibrevis" />
+								<fermata />
+								<note id="sym_6_6" color="red" oct="3" pname="e" dur="minima" fermata="above" />
+								<note id="sym_6_7" color="blue" oct="4" pname="c" dur="semibrevis" />
+								<note id="sym_6_8" oct="3" pname="b" dur="minima" />
+								<note id="sym_6_9" color="red" oct="3" pname="b" dur="minima" />
+								<note id="sym_6_10" oct="3" pname="a" dur="minima" />
+								<note id="sym_6_11" color="red" colored="true" oct="4" pname="d" dur="semibrevis" num="4" numbase="3" />
+								<note id="sym_6_12" oct="3" pname="b" dur="semiminima" />
+								<note id="sym_6_13" oct="4" pname="c" dur="minima" />
+								<note id="sym_6_14" color="blue" colored="true" oct="4" pname="d" dur="semibrevis" num="4" numbase="3" />
+								<note id="sym_6_15" color="blue" oct="3" pname="b" dur="semiminima" />
+								<note id="sym_6_16" color="blue" oct="4" pname="c" dur="minima" num="2" numbase="3" is_dotted="true" />
+								<dot id="sym_6_17" />
+								<note id="sym_6_18" oct="3" pname="a" dur="semiminima" />
+								<note id="sym_6_19" color="blue" oct="3" pname="b" dur="minima" />
+								<note id="sym_6_20" color="blue" oct="3" pname="a" dur="minima" />
+								<note id="sym_6_21" oct="4" pname="c" dur="minima" />
+								<note id="sym_6_22" oct="3" pname="a" dur="minima" />
+								<note id="sym_6_23" color="blue" oct="3" pname="b" dur="semibrevis" />
+								<rest id="sym_6_24" dur="semibrevis" />
+								<note id="sym_6_25" color="blue" oct="4" pname="f" dur="minima" />
+								<note id="sym_6_26" color="red" oct="4" pname="e" dur="minima" />
+								<note id="sym_6_27" color="blue" oct="4" pname="c" dur="minima" />
+								<note id="sym_6_28" colored="true" oct="4" pname="d" dur="semibrevis" num="4" numbase="3" />
+								<note id="sym_6_29" oct="4" pname="c" dur="semiminima" />
+								<note id="sym_6_30" color="blue" oct="3" pname="a" dur="minima" />
+								<note id="sym_6_31" color="red" oct="3" pname="g" dur="minima" />
+								<note id="sym_6_32" oct="3" pname="b" dur="semibrevis" />
+								<note id="sym_6_33" color="blue" oct="3" pname="a" dur="minima" num="2" numbase="3" is_dotted="true" />
+								<dot id="sym_6_34" />
+								<note id="sym_6_35" oct="3" pname="g" dur="semiminima" />
+								<note id="sym_6_36" color="blue" oct="3" pname="f" dur="semiminima" />
+								<note id="sym_6_37" color="red" oct="3" pname="d" dur="semiminima" />
+								<note id="sym_6_38" color="blue" oct="3" pname="e" dur="minima" />
+								<custos id="sym_6_39" pname="b" oct="3" />
+								<rest id="sym_7_1" dur="minima" />
+								<note id="sym_7_2" color="blue" oct="3" pname="b" dur="minima" />
+								<note id="sym_7_3" color="blue" oct="4" pname="c" dur="minima" />
+								<note id="sym_7_4" oct="3" pname="b" dur="semiminima" />
+								<note id="sym_7_5" color="blue" oct="4" pname="c" dur="semiminima" />
+								<note id="sym_7_6" oct="4" pname="d" dur="minima" />
+								<note id="sym_7_7" oct="4" pname="f" dur="minima" />
+								<note id="sym_7_8" color="blue" oct="4" pname="e" dur="semibrevis" />
+								<note id="sym_7_9" colored="true" oct="4" pname="f" dur="semibrevis" num="4" numbase="3" />
+								<note id="sym_7_10" color="red" oct="4" pname="d" dur="semiminima" />
+								<note id="sym_7_11" color="blue" oct="4" pname="e" dur="semibrevis" />
+								<note id="sym_7_12" oct="3" pname="a" dur="minima" num="2" numbase="3" is_dotted="true" />
+								<dot id="sym_7_13" />
+								<note id="sym_7_14" color="blue" oct="3" pname="g" dur="semiminima" />
+								<note id="sym_7_15" oct="3" pname="e" dur="minima" />
+								<note id="sym_7_16" color="red" oct="3" pname="f" dur="minima" num="2" numbase="3" is_dotted="true" />
+								<dot id="sym_7_17" />
+								<note id="sym_7_18" color="blue" oct="3" pname="e" dur="fusa" />
+								<note id="sym_7_19" oct="4" pname="c" dur="fusa" />
+								<note id="sym_7_20" color="red" oct="3" pname="c" dur="semibrevis" />
+								<note id="sym_7_21" color="blue" oct="3" pname="b" dur="minima" />
+								<note id="sym_7_22" color="blue" oct="3" pname="a" dur="minima" />
+								<note id="sym_7_23" color="blue" oct="3" pname="b" dur="minima" />
+								<note id="sym_7_24" color="blue" oct="3" pname="a" dur="semiminima" />
+								<note id="sym_7_25" color="blue" oct="3" pname="b" dur="semiminima" />
+								<note id="sym_7_26" color="blue" oct="4" pname="c" dur="minima" num="2" numbase="3" is_dotted="true" />
+								<dot id="sym_7_27" />
+								<note id="sym_7_28" color="blue" oct="3" pname="a" dur="semiminima" />
+								<note id="sym_7_29" color="blue" oct="3" pname="b" dur="minima" />
+								<note id="sym_7_30" oct="4" pname="c" dur="minima" />
+								<note id="sym_7_31" color="blue" oct="4" pname="d" dur="minima" />
+								<note id="sym_7_32" color="blue" oct="3" pname="g" dur="minima" />
+								<note id="sym_7_33" oct="3" pname="a" dur="minima" num="2" numbase="3" is_dotted="true" />
+								<dot id="sym_7_34" />
+								<note id="sym_7_35" oct="3" pname="g" dur="semiminima" />
+								<note id="sym_7_36" color="red" oct="3" pname="e" dur="minima" />
+								<note id="sym_7_37" oct="3" pname="c" dur="minima" />
+								<note id="sym_7_38" color="blue" oct="3" pname="f" dur="minima" />
+								<note id="sym_7_39" oct="3" pname="d" dur="minima" />
+								<note id="sym_7_40" color="blue" oct="3" pname="e" dur="semibrevis" />
+								<note id="sym_7_41" color="blue" oct="3" pname="d" dur="longa" />
+								<barLine id="sym_7_42" />
+							</layer>
+						</staff>
+						<staff n="3">
+							<layer n="1">
+								<note id="sym_8_1" oct="3" pname="a" dur="brevis" />
+								<rest id="sym_8_2" dur="semibrevis" />
+								<note id="sym_8_3" color="red" oct="2" pname="a" dur="minima" />
+								<note id="sym_8_4" oct="2" pname="b" dur="minima" />
+								<note id="sym_8_5" oct="3" pname="c" dur="semiminima" />
+								<note id="sym_8_6" color="blue" oct="3" pname="d" dur="semiminima" />
+								<ligature form="recta">
+									<note id="sym_8_7" color="blue" oct="2" pname="a" dur="semibrevis" lig="recta" />
+									<note id="sym_8_8" color="blue" oct="3" pname="a" dur="semibrevis" lig="recta" />
+								</ligature>
+								<note id="sym_8_9" color="blue" oct="3" pname="d" dur="semibrevis" />
+								<rest id="sym_8_10" dur="semibrevis" />
+								<note id="sym_8_11" color="red" oct="3" pname="c" dur="semibrevis" />
+								<note id="sym_8_12" color="red" oct="3" pname="d" dur="minima" />
+								<note id="sym_8_13" color="red" oct="2" pname="a" dur="semibrevis" />
+								<rest id="sym_8_14" dur="semibrevis" />
+								<note id="sym_8_15" oct="3" pname="a" dur="minima" />
+								<note id="sym_8_16" color="red" oct="3" pname="b" dur="minima" />
+								<note id="sym_8_17" color="red" oct="3" pname="b" dur="minima" />
+								<note id="sym_8_18" color="red" oct="4" pname="c" dur="minima" />
+								<note id="sym_8_19" color="red" oct="4" pname="c" dur="minima" />
+								<note id="sym_8_20" color="red" oct="3" pname="a" dur="semibrevis" />
+								<rest id="sym_8_21" dur="minima" />
+								<note id="sym_8_22" color="red" oct="3" pname="g" dur="minima" />
+								<note id="sym_8_23" color="red" oct="3" pname="a" dur="minima" />
+								<note id="sym_8_24" oct="3" pname="a" dur="minima" />
+								<note id="sym_8_25" color="blue" oct="3" pname="b" dur="minima" />
+								<note id="sym_8_26" color="red" oct="4" pname="c" dur="semiminima" />
+								<note id="sym_8_27" oct="4" pname="d" dur="semiminima" />
+								<note id="sym_8_28" color="red" oct="4" pname="d" dur="minima" />
+								<note id="sym_8_29" color="blue" oct="4" pname="d" dur="minima" />
+								<rest id="sym_8_30" dur="minima" />
+								<note id="sym_8_31" color="blue" oct="4" pname="c" dur="minima" />
+								<custos id="sym_8_32" pname="d" oct="4" />
+								<note id="sym_9_1" color="red" oct="4" pname="d" dur="semibrevis" />
+								<rest id="sym_9_2" dur="semibrevis" />
+								<note id="sym_9_3" color="blue" oct="4" pname="c" dur="semibrevis" num="2" numbase="3" is_dotted="true" />
+								<dot id="sym_9_4" />
+								<note id="sym_9_5" color="blue" oct="3" pname="b" dur="minima" />
+								<note id="sym_9_6" color="red" oct="3" pname="a" dur="minima" num="2" numbase="3" is_dotted="true" />
+								<dot id="sym_9_7" />
+								<note id="sym_9_8" color="blue" oct="3" pname="g" dur="semiminima" />
+								<note id="sym_9_9" color="blue" oct="3" pname="g" dur="semibrevis" />
+								<note id="sym_9_10" color="red" oct="3" pname="a" dur="semibrevis" />
+								<note id="sym_9_11" color="red" oct="3" pname="e" dur="minima" />
+								<note id="sym_9_12" color="blue" oct="3" pname="e" dur="minima" />
+								<rest id="sym_9_13" dur="minima" />
+								<note id="sym_9_14" color="blue" oct="3" pname="d" dur="minima" />
+								<note id="sym_9_15" color="blue" oct="3" pname="a" dur="semibrevis" />
+								<note id="sym_9_16" color="blue" oct="3" pname="d" dur="semibrevis" />
+								<rest id="sym_9_17" dur="minima" />
+								<note id="sym_9_18" oct="2" pname="a" dur="minima" />
+								<ligature form="recta">
+									<note id="sym_9_19" color="blue" oct="3" pname="d" dur="semibrevis" lig="recta" />
+									<note id="sym_9_20" color="blue" oct="3" pname="a" dur="semibrevis" lig="recta" />
+								</ligature>
+								<ligature form="obliqua">
+									<note id="sym_9_21" color="blue" oct="3" pname="e" dur="semibrevis" lig="obliqua" />
+									<note id="sym_9_22" color="red" oct="3" pname="d" dur="semibrevis" lig="obliqua" />
+								</ligature>
+								<rest id="sym_9_23" dur="semibrevis" />
+								<note id="sym_9_24" color="blue" oct="2" pname="a" dur="minima" />
+								<note id="sym_9_25" color="red" oct="3" pname="d" dur="semibrevis" />
+								<rest id="sym_9_26" dur="semibrevis" />
+								<note id="sym_9_27" color="blue" oct="2" pname="g" dur="semibrevis" />
+								<note id="sym_9_28" color="blue" oct="2" pname="a" dur="brevis" />
+								<ligature form="recta">
+									<note id="sym_9_29" color="red" oct="3" pname="d" dur="semibrevis" lig="recta" />
+									<note id="sym_9_30" color="blue" oct="3" pname="a" dur="semibrevis" lig="recta" />
+								</ligature>
+								<rest id="sym_9_31" dur="semibrevis" />
+								<note id="sym_9_32" color="blue" oct="3" pname="b" dur="minima" num="2" numbase="3" is_dotted="true" />
+								<dot id="sym_9_33" />
+								<note id="sym_9_34" oct="3" pname="g" dur="semiminima" />
+								<note id="sym_9_35" color="blue" oct="3" pname="a" dur="minima" />
+								<custos id="sym_9_36" pname="d" oct="3" />
+								<note id="sym_10_2" color="blue" oct="3" pname="d" dur="semibrevis" />
+								<rest id="sym_10_3" dur="minima" />
+								<note id="sym_10_4" color="red" oct="3" pname="e" dur="minima" />
+								<note id="sym_10_5" color="blue" oct="3" pname="f" dur="minima" />
+								<note id="sym_10_6" color="red" oct="3" pname="d" dur="minima" />
+								<note id="sym_10_7" color="blue" oct="3" pname="c" dur="semibrevis" />
+								<rest id="sym_10_8" dur="semibrevis" />
+								<note id="sym_10_9" color="blue" colored="true" oct="3" pname="a" dur="semibrevis" num="4" numbase="3" />
+								<note id="sym_10_10" color="blue" oct="3" pname="g" dur="semiminima" />
+								<note id="sym_10_11" color="blue" oct="3" pname="e" dur="minima" />
+								<note id="sym_10_12" color="blue" oct="3" pname="g" dur="minima" />
+								<note id="sym_10_13" color="red" oct="3" pname="f" dur="minima" />
+								<note id="sym_10_14" color="blue" oct="3" pname="d" dur="semibrevis" />
+								<note id="sym_10_15" color="blue" oct="3" pname="c" dur="semibrevis" />
+								<note id="sym_10_16" color="red" oct="3" pname="d" dur="minima" />
+								<note id="sym_10_17" oct="3" pname="e" dur="minima" />
+								<note id="sym_10_18" color="blue" oct="3" pname="d" dur="minima" />
+								<note id="sym_10_19" oct="2" pname="b" dur="minima" />
+								<note id="sym_10_20" color="blue" oct="2" pname="a" dur="minima" />
+								<note id="sym_10_21" color="blue" oct="3" pname="c" dur="minima" num="2" numbase="3" is_dotted="true" />
+								<dot id="sym_10_22" />
+								<note id="sym_10_23" oct="3" pname="d" dur="semiminima" />
+								<note id="sym_10_24" color="blue" oct="3" pname="e" dur="minima" />
+								<note id="sym_10_25" color="blue" oct="2" pname="a" dur="minima" />
+								<note id="sym_10_26" oct="2" pname="b" dur="minima" />
+								<note id="sym_10_27" color="blue" oct="2" pname="a" dur="semibrevis" />
+								<note id="sym_10_28" oct="3" pname="a" dur="longa" />
+								<barLine id="sym_10_29" />
+							</layer>
+						</staff>
+					</section>
+				</score>
+			</mdiv>
+		</body>
+	</music>
+</mei>

@@ -1,0 +1,9 @@
+Antoine Busnoys / Johannes Ockeghem
+data/res_dict_leuven_chansonnier/b-af-ms-1_150_70v.pickle
+data/res_dict_leuven_chansonnier/b-af-ms-1_151_71r.pickle
+data/res_dict_leuven_chansonnier/b-af-ms-1_152_71v.pickle
+data/res_dict_leuven_chansonnier/b-af-ms-1_153_72r.pickle
+data/source_images/lc_150_70v.jpeg
+data/source_images/lc_151_71r.jpeg
+data/source_images/lc_152_71v.jpeg
+data/source_images/lc_153_72r.jpeg

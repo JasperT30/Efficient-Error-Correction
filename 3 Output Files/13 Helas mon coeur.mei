@@ -1,0 +1,326 @@
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.1+basic">
+	<meiHead>
+		<fileDesc>
+			<titleStmt>
+				<title type="main">Helas mon coeur</title>
+				<respStmt>
+					<persName role="composer">anon</persName>
+				</respStmt>
+			</titleStmt>
+			<sourceDesc>Leuven Chansonnier N°13</sourceDesc>
+			<pubStmt>
+				<date isodate="2025-07-12T18:24:20.910337" />
+			</pubStmt>
+		</fileDesc>
+	</meiHead>
+	<music>
+		<body>
+			<mdiv>
+				<score>
+					<scoreDef>
+						<pgHead func="first">
+							<rend halign="center" valign="top">
+								<rend type="title" fontsize="x-large">Helas mon coeur</rend>
+							</rend>
+							<rend halign="right" valign="bottom">
+								<rend type="composer">anon</rend>
+							</rend>
+							<rend halign="left" valign="bottom">
+								<rend type="file_desc">Leuven Chansonnier N°13</rend>
+							</rend>
+						</pgHead>
+						<staffGrp symbol="bracket">
+							<staffDef n="1" lines="5" label="Discantus" keysig="0" clef.shape="C" clef.line="2" notationtype="mensural.white">
+								<mensur sign="C" slash="0" dot="false" modusmaior="2" modusminor="2" tempus="2" prolatio="2" />
+								<instrDef midi.instrnum="0" />
+							</staffDef>
+							<staffDef n="2" lines="5" label="Tenor" keysig="1f" clef.shape="C" clef.line="2" notationtype="mensural.white">
+								<mensur sign="C" slash="0" dot="false" modusmaior="2" modusminor="2" tempus="2" prolatio="2" />
+								<instrDef midi.instrnum="0" />
+							</staffDef>
+							<staffDef n="3" lines="5" label="Contratenor" keysig="1f" clef.shape="F" clef.line="4" notationtype="mensural.white">
+								<mensur sign="C" slash="0" dot="false" modusmaior="2" modusminor="2" tempus="2" prolatio="2" />
+								<instrDef midi.instrnum="0" />
+							</staffDef>
+						</staffGrp>
+					</scoreDef>
+					<section xml:id="s1">
+						<staff n="1">
+							<layer n="1">
+								<mensur num="2" />
+								<mensur modusmaior="2" modusminor="2" tempus="2" prolatio="2" />
+								<note dur="brevis" oct="4" pname="g" />
+								<note dur="semibrevis" oct="4" pname="f" />
+								<note dur="semibrevis" oct="4" pname="e" />
+								<note dur="semibrevis" oct="4" pname="d" />
+								<note dur="semibrevis" oct="4" pname="g" />
+								<note dur="semibrevis" oct="4" pname="f" />
+								<note dur="semibrevis" oct="4" pname="e" />
+								<ligature form="recta">
+									<note dur="semibrevis" oct="4" pname="d" lig="recta" />
+									<note dur="semibrevis" oct="4" pname="g" lig="recta" num="2" numbase="3" />
+								</ligature>
+								<dot />
+								<note dur="minima" oct="4" pname="f" />
+								<note dur="minima" oct="4" pname="f" />
+								<note dur="minima" oct="4" pname="e" />
+								<note dur="brevis" oct="4" pname="g" />
+								<rest dur="brevis" />
+								<note dur="brevis" oct="4" pname="d" />
+								<note dur="brevis" oct="4" pname="c" />
+								<keySig sig="1f" />
+								<note dur="brevis" oct="3" pname="b" />
+								<note dur="brevis" oct="3" pname="a" />
+								<note dur="semibrevis" oct="3" pname="b" />
+								<note dur="semibrevis" oct="3" pname="g" />
+								<note dur="brevis" oct="3" pname="a" />
+								<note dur="brevis" oct="3" pname="g" />
+								<rest dur="semibrevis" />
+								<note dur="semibrevis" oct="4" pname="d" />
+								<note dur="semibrevis" oct="4" pname="e" />
+								<note dur="semibrevis" oct="4" pname="f" />
+								<note dur="semibrevis" oct="4" pname="g" />
+								<note dur="semibrevis" oct="4" pname="a" />
+								<note dur="semibrevis" oct="4" pname="b" num="2" numbase="3" />
+								<dot />
+								<note dur="semiminima" oct="4" pname="a" />
+								<note dur="semiminima" oct="4" pname="g" />
+								<note dur="semibrevis" oct="4" pname="f" />
+								<note dur="brevis" oct="4" pname="b" />
+								<ligature form="obliqua">
+									<note dur="semibrevis" oct="4" pname="a" lig="obliqua" />
+									<note dur="semibrevis" oct="4" pname="g" lig="obliqua" num="2" numbase="3" />
+								</ligature>
+								<dot />
+								<note dur="minima" oct="4" pname="f" />
+								<note dur="longa" oct="4" pname="a" fermata="above" />
+								<note dur="brevis" oct="4" pname="b" accid="f" />
+								<note dur="semibrevis" oct="4" pname="a" />
+								<note dur="brevis" oct="4" pname="g" />
+								<note dur="semibrevis" oct="4" pname="f" />
+								<note dur="semibrevis" oct="4" pname="g" num="2" numbase="3" />
+								<dot />
+								<note dur="minima" oct="4" pname="f" />
+								<note dur="semibrevis" oct="4" pname="d" />
+								<ligature form="obliqua">
+									<note dur="semibrevis" oct="4" pname="g" lig="obliqua" />
+									<note dur="semibrevis" oct="4" pname="f" lig="obliqua" />
+								</ligature>
+								<note dur="semibrevis" oct="4" pname="e" num="2" numbase="3" />
+								<dot />
+								<note dur="minima" oct="4" pname="d" />
+								<note dur="brevis" oct="4" pname="d" />
+								<note dur="semibrevis" oct="4" pname="c" />
+								<note dur="brevis" oct="4" pname="d" />
+								<rest dur="semibrevis" />
+								<note dur="semibrevis" oct="3" pname="g" />
+								<note dur="semibrevis" oct="3" pname="b" />
+								<note dur="semibrevis" oct="4" pname="c" />
+								<note dur="semibrevis" oct="4" pname="d" />
+								<note dur="semibrevis" oct="3" pname="b" />
+								<note dur="semibrevis" oct="3" pname="a" />
+								<note dur="brevis" oct="4" pname="d" />
+								<note dur="semibrevis" oct="4" pname="c" />
+								<ligature form="recta">
+									<note dur="semibrevis" oct="3" pname="g" lig="recta" />
+									<note dur="semibrevis" oct="3" pname="b" lig="recta" />
+									<note dur="brevis" oct="3" pname="a" lig="recta" />
+									<note dur="longa" oct="3" pname="g" lig="recta" />
+								</ligature>
+								<barLine />
+							</layer>
+						</staff>
+						<staff n="2">
+							<layer n="1">
+								<mensur num="2" />
+								<mensur modusmaior="2" modusminor="2" tempus="2" prolatio="2" />
+								<note dur="brevis" oct="4" pname="g" />
+								<note dur="semibrevis" oct="4" pname="a" />
+								<note dur="semibrevis" oct="4" pname="g" />
+								<note dur="semibrevis" oct="4" pname="f" />
+								<note dur="semibrevis" oct="4" pname="e" />
+								<note dur="semibrevis" oct="4" pname="d" />
+								<note dur="semibrevis" oct="4" pname="c" />
+								<ligature form="obliqua">
+									<note dur="semibrevis" oct="3" pname="b" lig="obliqua" />
+									<note dur="semibrevis" oct="3" pname="g" lig="recta" />
+									<note dur="brevis" oct="3" pname="a" lig="recta" />
+									<note dur="longa" oct="3" pname="g" lig="recta" />
+								</ligature>
+								<note dur="brevis" oct="3" pname="b" />
+								<note dur="semibrevis" oct="4" pname="e" accid="f" />
+								<note dur="semibrevis" oct="4" pname="e" />
+								<ligature form="recta">
+									<note dur="semibrevis" oct="4" pname="d" lig="recta" />
+									<note dur="semibrevis" oct="4" pname="g" lig="recta" />
+								</ligature>
+								<note dur="semibrevis" oct="4" pname="f" />
+								<note dur="semibrevis" oct="4" pname="a" />
+								<note dur="semibrevis" oct="4" pname="d" />
+								<note dur="brevis" oct="4" pname="g" />
+								<note dur="semibrevis" oct="4" pname="f" />
+								<ligature form="recta">
+									<note dur="semibrevis" oct="4" pname="g" lig="recta" />
+									<note dur="semibrevis" oct="4" pname="b" lig="obliqua" />
+									<note dur="brevis" oct="4" pname="a" lig="obliqua" />
+								</ligature>
+								<note dur="semibrevis" oct="4" pname="g" />
+								<note dur="semibrevis" oct="4" pname="d" />
+								<note dur="semibrevis" oct="4" pname="e" />
+								<note dur="semibrevis" oct="4" pname="f" />
+								<note dur="semibrevis" oct="4" pname="g" />
+								<note dur="brevis" oct="4" pname="d" num="2" numbase="3" />
+								<dot />
+								<ligature form="obliqua">
+									<note dur="semibrevis" oct="4" pname="g" lig="obliqua" />
+									<note dur="semibrevis" oct="4" pname="f" lig="recta" />
+									<note dur="brevis" oct="4" pname="b" lig="recta" colored="true" color="green" num="4" numbase="3" />
+								</ligature>
+								<note dur="semiminima" oct="4" pname="a" />
+								<note dur="semiminima" oct="4" pname="g" />
+								<fermata />
+								<note dur="longa" oct="4" pname="f" fermata="above" />
+								<note dur="brevis" oct="4" pname="g" />
+								<ligature form="recta">
+									<note dur="semibrevis" oct="4" pname="f" lig="recta" />
+									<note dur="semibrevis" oct="4" pname="b" lig="recta" />
+									<note dur="brevis" oct="4" pname="a" lig="obliqua" />
+									<note dur="brevis" oct="4" pname="g" lig="recta" />
+									<note dur="brevis" oct="4" pname="b" lig="recta" />
+								</ligature>
+								<ligature form="recta">
+									<note dur="semibrevis" oct="4" pname="a" lig="recta" />
+									<note dur="semibrevis" oct="4" pname="g" lig="recta" />
+									<note dur="brevis" oct="4" pname="f" lig="recta" />
+									<note dur="brevis" oct="4" pname="e" lig="recta" />
+									<note dur="longa" oct="4" pname="d" lig="recta" />
+								</ligature>
+								<ligature form="recta">
+									<note dur="semibrevis" oct="4" pname="d" lig="recta" />
+									<note dur="semibrevis" oct="4" pname="e" lig="recta" />
+								</ligature>
+								<ligature form="recta">
+									<note dur="semibrevis" oct="4" pname="f" lig="recta" />
+									<note dur="semibrevis" oct="4" pname="g" lig="recta" />
+								</ligature>
+								<ligature form="obliqua">
+									<note dur="semibrevis" oct="4" pname="a" lig="obliqua" />
+									<note dur="semibrevis" oct="4" pname="f" lig="obliqua" />
+								</ligature>
+								<ligature form="obliqua">
+									<note dur="semibrevis" oct="4" pname="b" accid="f" lig="obliqua" />
+									<note dur="semibrevis" oct="4" pname="a" lig="obliqua" num="2" numbase="3" />
+								</ligature>
+								<dot />
+								<note dur="minima" oct="4" pname="g" />
+								<note dur="semibrevis" oct="4" pname="g" num="2" numbase="3" />
+								<dot />
+								<note dur="minima" oct="4" pname="f" />
+								<note dur="minima" oct="4" pname="f" />
+								<note dur="minima" oct="4" pname="e" />
+								<note dur="longa" oct="4" pname="g" />
+								<barLine />
+							</layer>
+						</staff>
+						<staff n="3">
+							<layer n="1">
+								<mensur num="2" />
+								<mensur modusmaior="2" modusminor="2" tempus="2" prolatio="2" />
+								<note dur="brevis" oct="2" pname="g" />
+								<ligature form="obliqua">
+									<note dur="semibrevis" oct="3" pname="d" lig="obliqua" />
+									<note dur="semibrevis" oct="2" pname="g" lig="obliqua" />
+								</ligature>
+								<ligature form="recta">
+									<note dur="semibrevis" oct="2" pname="b" lig="recta" />
+									<note dur="semibrevis" oct="3" pname="c" lig="recta" />
+								</ligature>
+								<ligature form="obliqua">
+									<note dur="semibrevis" oct="3" pname="d" lig="obliqua" />
+									<note dur="semibrevis" oct="2" pname="a" lig="obliqua" />
+								</ligature>
+								<ligature form="recta">
+									<note dur="semibrevis" oct="2" pname="b" lig="recta" />
+									<note dur="semibrevis" oct="3" pname="e" lig="recta" />
+									<note dur="brevis" oct="3" pname="d" lig="recta" />
+									<note dur="longa" oct="2" pname="g" lig="recta" num="2" numbase="3" />
+								</ligature>
+								<dot />
+								<rest dur="semibrevis" />
+								<note dur="semibrevis" oct="3" pname="c" />
+								<note dur="semibrevis" oct="3" pname="g" />
+								<note dur="semibrevis" oct="3" pname="g" />
+                                <rest dur="longa" color="green" />
+								<note dur="brevis" oct="3" pname="d" />
+								<note dur="brevis" oct="2" pname="g" />
+								<ligature form="recta">
+									<note dur="semibrevis" oct="3" pname="d" lig="recta" />
+									<note dur="semibrevis" oct="3" pname="f" lig="recta" />
+								</ligature>
+								<ligature form="obliqua">
+									<note dur="semibrevis" oct="3" pname="c" lig="obliqua" />
+									<note dur="semibrevis" oct="2" pname="b" lig="obliqua" />
+								</ligature>
+								<ligature form="recta">
+									<note dur="semibrevis" oct="2" pname="g" lig="recta" />
+									<note dur="semibrevis" oct="3" pname="d" lig="obliqua" />
+									<note dur="brevis" oct="2" pname="g" lig="obliqua" />
+								</ligature>
+								<note dur="semibrevis" oct="2" pname="b" />
+								<note dur="brevis" oct="2" pname="g" />
+								<note dur="semibrevis" oct="3" pname="d" />
+								<ligature form="recta">
+									<note dur="brevis" oct="3" pname="g" lig="recta" />
+									<note dur="longa" oct="3" pname="d" lig="recta" fermata="above" />
+								</ligature>
+								<note dur="brevis" oct="2" pname="g" />
+								<ligature form="recta">
+									<note dur="semibrevis" oct="3" pname="d" lig="recta" />
+									<note dur="semibrevis" oct="3" pname="g" lig="recta" />
+									<note dur="brevis" oct="3" pname="d" lig="recta" />
+									<note dur="longa" oct="2" pname="g" lig="recta" />
+								</ligature>
+								<ligature form="obliqua">
+									<note dur="semibrevis" oct="3" pname="d" lig="obliqua" />
+									<note dur="semibrevis" oct="2" pname="g" lig="obliqua" />
+								</ligature>
+								<ligature form="recta">
+									<note dur="brevis" oct="3" pname="d" lig="recta" />
+									<note dur="brevis" oct="3" pname="a" lig="obliqua" />
+									<note dur="brevis" oct="3" pname="d" lig="obliqua" />
+								</ligature>
+								<ligature form="obliqua">
+									<note dur="semibrevis" oct="3" pname="e" lig="obliqua" />
+									<note dur="semibrevis" oct="3" pname="c" lig="obliqua" />
+								</ligature>
+								<ligature form="obliqua">
+									<note dur="semibrevis" oct="3" pname="d" lig="obliqua" />
+									<note dur="semibrevis" oct="3" pname="c" lig="obliqua" />
+								</ligature>
+								<ligature form="obliqua">
+									<note dur="semibrevis" oct="2" pname="b" lig="obliqua" />
+									<note dur="semibrevis" oct="2" pname="g" lig="obliqua" />
+								</ligature>
+								<ligature form="recta">
+									<note dur="semibrevis" oct="2" pname="f" lig="recta" />
+									<note dur="semibrevis" oct="2" pname="b" lig="recta" />
+								</ligature>
+								<ligature form="recta">
+									<note dur="semibrevis" oct="2" pname="g" lig="recta" />
+									<note dur="semibrevis" oct="3" pname="g" lig="recta" />
+								</ligature>
+								<ligature form="recta">
+									<note dur="semibrevis" oct="3" pname="e" lig="recta" />
+									<note dur="semibrevis" oct="3" pname="g" lig="obliqua" />
+									<note dur="brevis" oct="3" pname="d" lig="obliqua" />
+								</ligature>
+								<note dur="longa" oct="2" pname="g" />
+								<barLine />
+							</layer>
+						</staff>
+					</section>
+				</score>
+			</mdiv>
+		</body>
+	</music>
+</mei>

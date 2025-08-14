@@ -1,0 +1,9 @@
+Walter Frye
+data/res_dict_leuven_chansonnier/b-af-ms-1_014_1v.pickle
+data/res_dict_leuven_chansonnier/b-af-ms-1_015_2r.pickle
+data/res_dict_leuven_chansonnier/b-af-ms-1_016_2v.pickle
+data/res_dict_leuven_chansonnier/b-af-ms-1_017_3r.pickle
+data/source_images/lc_014_1v.jpeg
+data/source_images/lc_015_2r.jpeg
+data/source_images/lc_016_2v.jpeg
+data/source_images/lc_017_3r.jpeg

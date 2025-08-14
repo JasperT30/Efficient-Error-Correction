@@ -1,0 +1,5 @@
+Robert Morton
+data/res_dict_leuven_chansonnier/b-af-ms-1_022_5v.pickle
+data/res_dict_leuven_chansonnier/b-af-ms-1_023_6r.pickle
+data/source_images/lc_022_5v.jpeg
+data/source_images/lc_023_6r.jpeg

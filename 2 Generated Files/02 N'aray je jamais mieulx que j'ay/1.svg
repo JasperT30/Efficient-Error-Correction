@@ -1,0 +1,859 @@
+<ns0:svg xmlns="http://www.w3.org/1999/xlink" xmlns:ns0="http://www.w3.org/2000/svg" width="825" height="400" version="1.1" overflow="visible" id="d145iykw" viewBox="0 0 27500 13330">
+   <ns0:desc>Engraved by Verovio 5.1.0[undefined]</ns0:desc>
+   <ns0:defs>
+      <ns0:symbol id="E004-d145iykw" viewBox="0 0 1000 1000" overflow="visible">
+         <ns0:path transform="scale(0.75,-0.75)" d="M0 0h53c30 0 59 -1 83 -5c206 -95 258 -264 263 -271c0 -1 -14 -7 -15 -6c-88 154 -251 170 -321 170c-1 0 -63 1 -63 1v111z" stroke="black" />
+      </ns0:symbol>
+      <ns0:symbol id="E003-d145iykw" viewBox="0 0 1000 1000" overflow="visible">
+         <ns0:path transform="scale(0.75,-0.75)" d="M0 -0v111c0 0 62 1 63 1c70 0 233 16 321 170c1 1 15 -5 15 -6c-5 -7 -57 -176 -263 -271c-24 -4 -53 -5 -83 -5h-53z" stroke="black" />
+      </ns0:symbol>
+      <ns0:symbol id="E93C-d145iykw" viewBox="0 0 1000 1000" overflow="visible">
+         <ns0:path transform="scale(0.75,-0.75)" d="M156 195l156 -195l-156 -195l-156 195zM127 110l-57 -71l115 -149l57 71z" stroke="black" />
+      </ns0:symbol>
+      <ns0:symbol id="E901-d145iykw" viewBox="0 0 1000 1000" overflow="visible">
+         <ns0:path transform="scale(0.75,-0.75)" d="M144 488c30 28 83 110 83 176c0 77 -39 150 -104 150c-15 0 -33 -6 -61 -34c-15 -15 -23 -44 -23 -79c0 -44 14 -96 43 -133c23 -29 44 -58 62 -80zM159 69c-57 0 -104 -31 -104 -98c0 -61 35 -63 51 -75c8 0 23 52 39 92l32 80c-6 1 -12 1 -18 1zM256 -25 c0 -76 -24 -122 -98 -122h-3c-28 0 -66 7 -84 15c-38 17 -71 55 -71 112c0 55 56 114 124 123c25 3 49 8 61 8c12 33 26 89 26 128c0 104 -55 180 -76 211c-51 -65 -79 -110 -90 -178c-1 -6 -4 -25 -4 -46c0 -18 2 -38 10 -50c5 -7 7 -16 7 -24c0 -13 -6 -24 -15 -24 c-5 0 -12 5 -19 17c-12 21 -24 38 -24 96c0 77 23 115 54 151c38 44 26 28 65 68l1 -1c0 3 -16 27 -60 79c-19 22 -58 58 -58 145c0 76 30 100 53 123c25 25 57 38 102 38c62 0 110 -83 110 -168c0 -13 -2 -26 -4 -39c-10 -52 -83 -130 -111 -163c24 -38 8 -3 55 -91 c34 -63 42 -84 42 -119c0 -10 -1 -22 -2 -37c-4 -63 -11 -76 -20 -116c7 0 12 1 21 -1c14 -4 20 -11 20 -19c0 -19 -30 -19 -52 -24c-6 -13 -67 -174 -67 -181c0 -2 9 -4 19 -4c25 0 41 21 56 73c8 28 14 39 22 39s10 -8 10 -19z" stroke="black" />
+      </ns0:symbol>
+      <ns0:symbol id="E93D-d145iykw" viewBox="0 0 1000 1000" overflow="visible">
+         <ns0:path transform="scale(0.75,-0.75)" d="M156 195l156 -195l-156 -195l-156 195z" stroke="black" />
+      </ns0:symbol>
+      <ns0:symbol id="E93E-d145iykw" viewBox="0 0 1000 1000" overflow="visible">
+         <ns0:path transform="scale(0.75,-0.75)" d="M0 760h30v-760h-30v760z" stroke="black" />
+      </ns0:symbol>
+      <ns0:symbol id="E93F-d145iykw" viewBox="0 0 1000 1000" overflow="visible">
+         <ns0:path transform="scale(0.75,-0.75)" d="M0 -760v760h30v-760h-30z" stroke="black" />
+      </ns0:symbol>
+      <ns0:symbol id="E9F3-d145iykw" viewBox="0 0 1000 1000" overflow="visible">
+         <ns0:path transform="scale(0.75,-0.75)" d="M0 250h40v-250h-40v250z" stroke="black" />
+      </ns0:symbol>
+      <ns0:symbol id="E9F4-d145iykw" viewBox="0 0 1000 1000" overflow="visible">
+         <ns0:path transform="scale(0.75,-0.75)" d="M0 250h40v-140h-40v140z" stroke="black" />
+      </ns0:symbol>
+      <ns0:symbol id="E9F5-d145iykw" viewBox="0 0 1000 1000" overflow="visible">
+         <ns0:path transform="scale(0.75,-0.75)" d="M0 140h40v-140h-40v140z" stroke="black" />
+      </ns0:symbol>
+      <ns0:symbol id="E911-d145iykw" viewBox="0 0 1000 1000" overflow="visible">
+         <ns0:path transform="scale(0.75,-0.75)" d="M36 0c0 -113 91 -204 204 -204s204 91 204 204s-91 204 -204 204s-204 -91 -204 -204zM0 0c0 132 108 240 240 240s240 -108 240 -240s-108 -240 -240 -240s-240 108 -240 240z" stroke="black" />
+      </ns0:symbol>
+      <ns0:symbol id="E908-d145iykw" viewBox="0 0 1000 1000" overflow="visible">
+         <ns0:path transform="scale(0.75,-0.75)" d="M2 206l2 431c0 12 7 17 14 17c8 0 17 -7 17 -17l3 -204l2 -315h79h8c11 0 30 1 35 6c8 8 8 119 8 172v27l4 222s-1 20 19 20s12 -20 12 -20v-244s-1 -180 -1 -226c-1 -8 -1 -12 -4 -19c-7 -7 -8 -7 -16 -7c-45 0 -71 3 -71 3l-69 -3v-49v-48l64 -3l82 -5s5 0 8 -3 s5 -7 5 -7l1 -152v-154s0 -20 -13 -20c-10 0 -14 5 -16 14l-7 138l-2 109s0 4 -3 7s-9 2 -9 2h-40h-70l-3 -118l-3 -132s0 -20 -15 -20c-17 0 -19 17 -19 17c-1 22 -3 186 -3 426c0 49 1 100 1 155z" stroke="black" />
+      </ns0:symbol>
+      <ns0:symbol id="EA02-d145iykw" viewBox="0 0 1000 1000" overflow="visible">
+         <ns0:path transform="scale(0.75,-0.75)" d="M98 240c7 0 10 -4 12 -6l106 -93l17 -10l11 6l80 93l18 10h1c5 0 9 -2 12 -6l105 -93c5 -4 10 -8 16 -12c199 199 268 265 284 265c4 0 12 -6 12 -10c0 -16 -93 -126 -337 -369l-6 -7c-9 -7 -16 -10 -20 -10h-1c-3 0 -7 2 -10 6l-105 94c-6 5 -12 7 -19 7 c-4 0 -7 -1 -9 -3l-81 -94c-7 -7 -14 -10 -19 -10h-1c-3 0 -7 2 -10 6v1l-104 93c-6 6 -33 29 -50 39c0 16 98 103 98 103z" stroke="black" />
+      </ns0:symbol>
+      <ns0:symbol id="E90A-d145iykw" viewBox="0 0 1000 1000" overflow="visible">
+         <ns0:path transform="scale(0.75,-0.75)" d="M2 -206c0 55 -1 106 -1 155c0 240 2 404 3 426c0 0 2 17 19 17c15 0 15 -20 15 -20l3 -132l3 -118h70h40s6 -1 9 2s3 7 3 7l2 109l7 138c2 9 6 14 16 14c13 0 13 -20 13 -20v-154l-1 -152s-2 -4 -5 -7s-8 -3 -8 -3l-82 -5l-64 -3v-48v-49l69 -3s26 3 71 3c8 0 9 0 16 -7 c3 -7 3 -11 4 -19c0 -46 1 -226 1 -226v-244s8 -20 -12 -20s-19 20 -19 20l-4 222v27c0 53 0 164 -8 172c-5 5 -24 6 -35 6h-8h-79l-2 -315l-3 -204c0 -10 -9 -17 -17 -17c-7 0 -14 5 -14 17z" stroke="black" />
+      </ns0:symbol>
+   </ns0:defs>
+   <ns0:style type="text/css">#d145iykw g.page-margin {font-family:Times,serif;} #d145iykw g.ending, #d145iykw g.fing, #d145iykw g.reh, #d145iykw g.tempo {font-weight:bold;} #d145iykw g.dir, #d145iykw g.dynam, #d145iykw g.mNum {font-style:italic;} #d145iykw g.label {font-weight:normal;} #d145iykw path {stroke:currentColor}</ns0:style>
+   <ns0:g class="page-margin" transform="translate(500, 500)">
+         <ns0:g id="mikbf6j" class="mdiv pageMilestone" />
+         <ns0:g id="s1tmj4k8" class="score pageMilestone" />
+         <ns0:g id="sz5zuro" class="system">
+            <ns0:path d="M13 540 L13 5328" stroke-width="27" stroke="black" />
+            <ns0:g id="gjtc40r" class="grpSym">
+               <ns0:use href="#E003-d145iykw" x="-180" y="489" height="720" width="720" />
+               <ns0:use href="#E004-d145iykw" x="-180" y="5379" height="720" width="720" />
+               <ns0:rect stroke-opacity="1" fill-opacity="1" x="-180" y="483" height="4902" width="90" />
+            </ns0:g>
+            <ns0:g id="s1" class="section systemMilestone" />
+            <ns0:g id="s1tnr70t" class="staff">
+               <ns0:path d="M0 540 L7831 540" stroke-width="13" stroke="black" />
+               <ns0:path d="M0 720 L7831 720" stroke-width="13" stroke="black" />
+               <ns0:path d="M0 900 L7831 900" stroke-width="13" stroke="black" />
+               <ns0:path d="M0 1080 L7831 1080" stroke-width="13" stroke="black" />
+               <ns0:path d="M0 1260 L7831 1260" stroke-width="13" stroke="black" />
+               <ns0:g id="c9ccx8t" class="clef">
+                  <ns0:use href="#E901-d145iykw" x="117" y="1080" height="720" width="720" />
+               </ns0:g>
+               <ns0:g id="ksp3jnn" class="keySig" />
+               <ns0:g id="m154ctf2" class="mensur">
+                  <ns0:use href="#E911-d145iykw" x="489" y="900" height="720" width="720" />
+               </ns0:g>
+               <ns0:g id="l1v8uw1t" class="layer">
+                  <ns0:g id="rt82nto" class="rest">
+                     <ns0:use href="#E9F3-d145iykw" x="1019" y="900" height="720" width="720" />
+                     <ns0:g class="ledgerLines" />
+                  </ns0:g>
+                  <ns0:g id="ny25z1t" class="note">
+                     <ns0:g class="notehead">
+                        <ns0:use href="#E93C-d145iykw" x="6021" y="1350" height="720" width="720" />
+                     </ns0:g>
+                  </ns0:g>
+               </ns0:g>
+            </ns0:g>
+            <ns0:g id="srtmzim" class="staff">
+               <ns0:path d="M0 2574 L7831 2574" stroke-width="13" stroke="black" />
+               <ns0:path d="M0 2754 L7831 2754" stroke-width="13" stroke="black" />
+               <ns0:path d="M0 2934 L7831 2934" stroke-width="13" stroke="black" />
+               <ns0:path d="M0 3114 L7831 3114" stroke-width="13" stroke="black" />
+               <ns0:path d="M0 3294 L7831 3294" stroke-width="13" stroke="black" />
+               <ns0:g id="cgknrvd" class="clef">
+                  <ns0:use href="#E908-d145iykw" x="117" y="3114" height="720" width="720" />
+               </ns0:g>
+               <ns0:g id="kvytedy" class="keySig" />
+               <ns0:g id="m1myd2db" class="mensur">
+                  <ns0:use href="#E911-d145iykw" x="489" y="2934" height="720" width="720" />
+               </ns0:g>
+               <ns0:g id="l6lf76i" class="layer">
+                  <ns0:g id="n1brjd4c" class="note">
+                     <ns0:g class="notehead">
+                        <ns0:use href="#E93C-d145iykw" x="1019" y="3024" height="720" width="720" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="n1fkypk5" class="note">
+                     <ns0:g class="notehead">
+                        <ns0:use href="#E93C-d145iykw" x="2400" y="3024" height="720" width="720" />
+                     </ns0:g>
+                     <ns0:g id="s80upio" class="stem">
+                        <ns0:use href="#E93E-d145iykw" x="2502" y="2944" height="720" width="720" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="nbiacgs" class="note">
+                     <ns0:g class="notehead">
+                        <ns0:use href="#E93C-d145iykw" x="3306" y="2844" height="720" width="720" />
+                     </ns0:g>
+                     <ns0:g id="s27nvac" class="stem">
+                        <ns0:use href="#E93F-d145iykw" x="3408" y="2924" height="720" width="720" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="n1y4w01t" class="note" color="red" fill="red">
+                     <ns0:g class="notehead">
+                        <ns0:use href="#E93C-d145iykw" x="4211" y="2754" height="720" width="720" />
+                     </ns0:g>
+                     <ns0:g id="s1yuy9e5" class="stem">
+                        <ns0:use href="#E93F-d145iykw" x="4313" y="2834" height="720" width="720" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="nz5abv4" class="note">
+                     <ns0:g class="notehead">
+                        <ns0:use href="#E93C-d145iykw" x="5116" y="2664" height="720" width="720" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="r1xuex4e" class="rest">
+                     <ns0:use href="#E9F5-d145iykw" x="6926" y="2934" height="720" width="720" />
+                     <ns0:g class="ledgerLines" />
+                  </ns0:g>
+               </ns0:g>
+            </ns0:g>
+            <ns0:g id="s5kpg4i" class="staff">
+               <ns0:path d="M0 4608 L7831 4608" stroke-width="13" stroke="black" />
+               <ns0:path d="M0 4788 L7831 4788" stroke-width="13" stroke="black" />
+               <ns0:path d="M0 4968 L7831 4968" stroke-width="13" stroke="black" />
+               <ns0:path d="M0 5148 L7831 5148" stroke-width="13" stroke="black" />
+               <ns0:path d="M0 5328 L7831 5328" stroke-width="13" stroke="black" />
+               <ns0:g id="cbxsnpr" class="clef">
+                  <ns0:use href="#E90A-d145iykw" x="117" y="4788" height="720" width="720" />
+               </ns0:g>
+               <ns0:g id="kr9cdr5" class="keySig" />
+               <ns0:g id="m1yqe93p" class="mensur">
+                  <ns0:use href="#E911-d145iykw" x="489" y="4968" height="720" width="720" />
+               </ns0:g>
+               <ns0:g id="l1g1p456" class="layer">
+                  <ns0:g id="n1ht48if" class="note">
+                     <ns0:g class="notehead">
+                        <ns0:use href="#E93C-d145iykw" x="1019" y="4698" height="720" width="720" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="d1ksohd5" class="dot">
+                     <ns0:polygon stroke-opacity="1" fill-opacity="1" points="2229,4698 2274,4653 2319,4698 2274,4743" />
+                  </ns0:g>
+                  <ns0:g id="nx0v6wx" class="note">
+                     <ns0:g class="notehead">
+                        <ns0:use href="#E93C-d145iykw" x="3306" y="4878" height="720" width="720" />
+                     </ns0:g>
+                     <ns0:g id="sjvohtj" class="stem">
+                        <ns0:use href="#E93F-d145iykw" x="3408" y="4958" height="720" width="720" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="n1unmrrk" class="note" color="red" fill="red">
+                     <ns0:g class="notehead">
+                        <ns0:use href="#E93C-d145iykw" x="4211" y="4968" height="720" width="720" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="nnynm23" class="note">
+                     <ns0:g class="notehead">
+                        <ns0:use href="#E93C-d145iykw" x="6021" y="5328" height="720" width="720" />
+                     </ns0:g>
+                  </ns0:g>
+               </ns0:g>
+            </ns0:g>
+            <ns0:g id="saqho1h" class="staff">
+               <ns0:path d="M7831 540 L8832 540" stroke-width="13" stroke="black" />
+               <ns0:path d="M7831 720 L8832 720" stroke-width="13" stroke="black" />
+               <ns0:path d="M7831 900 L8832 900" stroke-width="13" stroke="black" />
+               <ns0:path d="M7831 1080 L8832 1080" stroke-width="13" stroke="black" />
+               <ns0:path d="M7831 1260 L8832 1260" stroke-width="13" stroke="black" />
+               <ns0:g id="l1oz9q35" class="layer">
+                  <ns0:g id="n1neop37" class="note">
+                     <ns0:g class="notehead">
+                        <ns0:use href="#E93C-d145iykw" x="7926" y="1170" height="720" width="720" />
+                     </ns0:g>
+                     <ns0:g id="sl1pv9e" class="stem">
+                        <ns0:use href="#E93E-d145iykw" x="8028" y="1090" height="720" width="720" />
+                     </ns0:g>
+                  </ns0:g>
+               </ns0:g>
+            </ns0:g>
+            <ns0:g id="s2p9x4s" class="staff">
+               <ns0:path d="M7831 2574 L8832 2574" stroke-width="13" stroke="black" />
+               <ns0:path d="M7831 2754 L8832 2754" stroke-width="13" stroke="black" />
+               <ns0:path d="M7831 2934 L8832 2934" stroke-width="13" stroke="black" />
+               <ns0:path d="M7831 3114 L8832 3114" stroke-width="13" stroke="black" />
+               <ns0:path d="M7831 3294 L8832 3294" stroke-width="13" stroke="black" />
+               <ns0:g id="lbcmtfv" class="layer">
+                  <ns0:g id="nelq14a" class="note">
+                     <ns0:g class="notehead">
+                        <ns0:use href="#E93C-d145iykw" x="7926" y="2844" height="720" width="720" />
+                     </ns0:g>
+                     <ns0:g id="s782oma" class="stem">
+                        <ns0:use href="#E93F-d145iykw" x="8028" y="2924" height="720" width="720" />
+                     </ns0:g>
+                  </ns0:g>
+               </ns0:g>
+            </ns0:g>
+            <ns0:g id="ssgxf9b" class="staff">
+               <ns0:path d="M7831 4608 L8832 4608" stroke-width="13" stroke="black" />
+               <ns0:path d="M7831 4788 L8832 4788" stroke-width="13" stroke="black" />
+               <ns0:path d="M7831 4968 L8832 4968" stroke-width="13" stroke="black" />
+               <ns0:path d="M7831 5148 L8832 5148" stroke-width="13" stroke="black" />
+               <ns0:path d="M7831 5328 L8832 5328" stroke-width="13" stroke="black" />
+               <ns0:g id="lyjs9mf" class="layer">
+                  <ns0:g id="nwxfjy1" class="note">
+                     <ns0:g class="notehead">
+                        <ns0:use href="#E93C-d145iykw" x="7926" y="4698" height="720" width="720" />
+                     </ns0:g>
+                     <ns0:g id="saio0e3" class="stem">
+                        <ns0:use href="#E93F-d145iykw" x="8028" y="4778" height="720" width="720" />
+                     </ns0:g>
+                  </ns0:g>
+               </ns0:g>
+            </ns0:g>
+            <ns0:g id="s123yb61" class="staff">
+               <ns0:path d="M8832 540 L9833 540" stroke-width="13" stroke="black" />
+               <ns0:path d="M8832 720 L9833 720" stroke-width="13" stroke="black" />
+               <ns0:path d="M8832 900 L9833 900" stroke-width="13" stroke="black" />
+               <ns0:path d="M8832 1080 L9833 1080" stroke-width="13" stroke="black" />
+               <ns0:path d="M8832 1260 L9833 1260" stroke-width="13" stroke="black" />
+               <ns0:g id="l125c279" class="layer">
+                  <ns0:g id="n1giolpv" class="note">
+                     <ns0:g class="notehead">
+                        <ns0:use href="#E93C-d145iykw" x="8927" y="1080" height="720" width="720" />
+                     </ns0:g>
+                     <ns0:g id="srzu6wc" class="stem">
+                        <ns0:use href="#E93E-d145iykw" x="9029" y="1000" height="720" width="720" />
+                     </ns0:g>
+                  </ns0:g>
+               </ns0:g>
+            </ns0:g>
+            <ns0:g id="s1osb078" class="staff">
+               <ns0:path d="M8832 2574 L9833 2574" stroke-width="13" stroke="black" />
+               <ns0:path d="M8832 2754 L9833 2754" stroke-width="13" stroke="black" />
+               <ns0:path d="M8832 2934 L9833 2934" stroke-width="13" stroke="black" />
+               <ns0:path d="M8832 3114 L9833 3114" stroke-width="13" stroke="black" />
+               <ns0:path d="M8832 3294 L9833 3294" stroke-width="13" stroke="black" />
+               <ns0:g id="l119ox35" class="layer">
+                  <ns0:g id="n1e5fjk2" class="note" color="red" fill="red">
+                     <ns0:g class="notehead">
+                        <ns0:use href="#E93C-d145iykw" x="8927" y="3024" height="720" width="720" />
+                     </ns0:g>
+                     <ns0:g id="shp87r0" class="stem">
+                        <ns0:use href="#E93E-d145iykw" x="9029" y="2944" height="720" width="720" />
+                     </ns0:g>
+                  </ns0:g>
+               </ns0:g>
+            </ns0:g>
+            <ns0:g id="syuyxlb" class="staff">
+               <ns0:path d="M8832 4608 L9833 4608" stroke-width="13" stroke="black" />
+               <ns0:path d="M8832 4788 L9833 4788" stroke-width="13" stroke="black" />
+               <ns0:path d="M8832 4968 L9833 4968" stroke-width="13" stroke="black" />
+               <ns0:path d="M8832 5148 L9833 5148" stroke-width="13" stroke="black" />
+               <ns0:path d="M8832 5328 L9833 5328" stroke-width="13" stroke="black" />
+               <ns0:g id="l1nuqlwj" class="layer">
+                  <ns0:g id="nqg1ypi" class="note" color="red" fill="red">
+                     <ns0:g class="notehead">
+                        <ns0:use href="#E93C-d145iykw" x="8927" y="4788" height="720" width="720" />
+                     </ns0:g>
+                     <ns0:g id="shs177z" class="stem">
+                        <ns0:use href="#E93F-d145iykw" x="9029" y="4868" height="720" width="720" />
+                     </ns0:g>
+                  </ns0:g>
+               </ns0:g>
+            </ns0:g>
+            <ns0:g id="s1omta88" class="staff">
+               <ns0:path d="M9833 540 L12644 540" stroke-width="13" stroke="black" />
+               <ns0:path d="M9833 720 L12644 720" stroke-width="13" stroke="black" />
+               <ns0:path d="M9833 900 L12644 900" stroke-width="13" stroke="black" />
+               <ns0:path d="M9833 1080 L12644 1080" stroke-width="13" stroke="black" />
+               <ns0:path d="M9833 1260 L12644 1260" stroke-width="13" stroke="black" />
+               <ns0:g id="l1qmmmsf" class="layer">
+                  <ns0:g id="nhlki88" class="note">
+                     <ns0:g class="notehead">
+                        <ns0:use href="#E93C-d145iykw" x="9928" y="990" height="720" width="720" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="n1sx13kl" class="note">
+                     <ns0:g class="notehead">
+                        <ns0:use href="#E93C-d145iykw" x="11739" y="900" height="720" width="720" />
+                     </ns0:g>
+                     <ns0:g id="s1ghwio0" class="stem">
+                        <ns0:use href="#E93E-d145iykw" x="11841" y="820" height="720" width="720" />
+                     </ns0:g>
+                  </ns0:g>
+               </ns0:g>
+            </ns0:g>
+            <ns0:g id="su7s6nt" class="staff">
+               <ns0:path d="M9833 2574 L12644 2574" stroke-width="13" stroke="black" />
+               <ns0:path d="M9833 2754 L12644 2754" stroke-width="13" stroke="black" />
+               <ns0:path d="M9833 2934 L12644 2934" stroke-width="13" stroke="black" />
+               <ns0:path d="M9833 3114 L12644 3114" stroke-width="13" stroke="black" />
+               <ns0:path d="M9833 3294 L12644 3294" stroke-width="13" stroke="black" />
+               <ns0:g id="l8obd7p" class="layer">
+                  <ns0:g id="n1f4wfzq" class="note" color="red" fill="red">
+                     <ns0:g class="notehead">
+                        <ns0:use href="#E93C-d145iykw" x="9928" y="2934" height="720" width="720" />
+                     </ns0:g>
+                     <ns0:g id="s1s10ll6" class="stem">
+                        <ns0:use href="#E93E-d145iykw" x="10030" y="2854" height="720" width="720" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="n15ukk62" class="note" color="blue" fill="blue">
+                     <ns0:g class="notehead">
+                        <ns0:use href="#E93C-d145iykw" x="10834" y="2844" height="720" width="720" />
+                     </ns0:g>
+                  </ns0:g>
+               </ns0:g>
+            </ns0:g>
+            <ns0:g id="s1q9nj8l" class="staff">
+               <ns0:path d="M9833 4608 L12644 4608" stroke-width="13" stroke="black" />
+               <ns0:path d="M9833 4788 L12644 4788" stroke-width="13" stroke="black" />
+               <ns0:path d="M9833 4968 L12644 4968" stroke-width="13" stroke="black" />
+               <ns0:path d="M9833 5148 L12644 5148" stroke-width="13" stroke="black" />
+               <ns0:path d="M9833 5328 L12644 5328" stroke-width="13" stroke="black" />
+               <ns0:g id="l1s0796m" class="layer">
+                  <ns0:g id="n1gf9j9h" class="note" color="red" fill="red">
+                     <ns0:g class="notehead">
+                        <ns0:use href="#E93C-d145iykw" x="9928" y="5148" height="720" width="720" />
+                     </ns0:g>
+                     <ns0:g id="s1tuniw1" class="stem">
+                        <ns0:use href="#E93E-d145iykw" x="10030" y="5068" height="720" width="720" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="n1dgurd7" class="note">
+                     <ns0:g class="notehead">
+                        <ns0:use href="#E93C-d145iykw" x="10834" y="4968" height="720" width="720" />
+                     </ns0:g>
+                     <ns0:g id="sq0tpiy" class="stem">
+                        <ns0:use href="#E93E-d145iykw" x="10936" y="4888" height="720" width="720" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="n5gthlq" class="note" color="blue" fill="blue">
+                     <ns0:g class="notehead">
+                        <ns0:use href="#E93C-d145iykw" x="11739" y="5058" height="720" width="720" />
+                     </ns0:g>
+                     <ns0:g id="s1lm5sci" class="stem">
+                        <ns0:use href="#E93E-d145iykw" x="11841" y="4978" height="720" width="720" />
+                     </ns0:g>
+                  </ns0:g>
+               </ns0:g>
+            </ns0:g>
+            <ns0:g id="s1asgrus" class="staff">
+               <ns0:path d="M12644 540 L22310 540" stroke-width="13" stroke="black" />
+               <ns0:path d="M12644 720 L22310 720" stroke-width="13" stroke="black" />
+               <ns0:path d="M12644 900 L22310 900" stroke-width="13" stroke="black" />
+               <ns0:path d="M12644 1080 L22310 1080" stroke-width="13" stroke="black" />
+               <ns0:path d="M12644 1260 L22310 1260" stroke-width="13" stroke="black" />
+               <ns0:g id="l189t91q" class="layer">
+                  <ns0:g id="nla7ymo" class="note">
+                     <ns0:g class="notehead">
+                        <ns0:use href="#E93C-d145iykw" x="12739" y="810" height="720" width="720" />
+                     </ns0:g>
+                     <ns0:g id="s8zkygu" class="stem">
+                        <ns0:use href="#E93F-d145iykw" x="12841" y="890" height="720" width="720" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="n1eforuc" class="note" color="blue" fill="blue">
+                     <ns0:g class="notehead">
+                        <ns0:use href="#E93C-d145iykw" x="13645" y="990" height="720" width="720" />
+                     </ns0:g>
+                     <ns0:g id="s139242j" class="stem">
+                        <ns0:use href="#E93E-d145iykw" x="13747" y="910" height="720" width="720" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="ngd28sj" class="note" color="blue" fill="blue">
+                     <ns0:g class="notehead">
+                        <ns0:use href="#E93C-d145iykw" x="14837" y="720" height="720" width="720" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="nscs36k" class="note">
+                     <ns0:g class="notehead">
+                        <ns0:use href="#E93C-d145iykw" x="16934" y="810" height="720" width="720" />
+                     </ns0:g>
+                     <ns0:g id="sgdkwl9" class="stem">
+                        <ns0:use href="#E93F-d145iykw" x="17036" y="890" height="720" width="720" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="nr8mltm" class="note" color="red" fill="red">
+                     <ns0:g class="notehead">
+                        <ns0:use href="#E93C-d145iykw" x="17839" y="540" height="720" width="720" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="nfrwjoa" class="note" color="blue" fill="blue">
+                     <ns0:g class="notehead">
+                        <ns0:use href="#E93C-d145iykw" x="19650" y="630" height="720" width="720" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="dthipdi" class="dot">
+                     <ns0:polygon stroke-opacity="1" fill-opacity="1" points="21047,630 21092,585 21137,630 21092,675" />
+                  </ns0:g>
+               </ns0:g>
+            </ns0:g>
+            <ns0:g id="sp56rcw" class="staff">
+               <ns0:path d="M12644 2574 L22310 2574" stroke-width="13" stroke="black" />
+               <ns0:path d="M12644 2754 L22310 2754" stroke-width="13" stroke="black" />
+               <ns0:path d="M12644 2934 L22310 2934" stroke-width="13" stroke="black" />
+               <ns0:path d="M12644 3114 L22310 3114" stroke-width="13" stroke="black" />
+               <ns0:path d="M12644 3294 L22310 3294" stroke-width="13" stroke="black" />
+               <ns0:g id="lk4lmc7" class="layer">
+                  <ns0:g id="n1f47gjo" class="note" color="red" fill="red">
+                     <ns0:g class="notehead">
+                        <ns0:use href="#E93C-d145iykw" x="12739" y="2754" height="720" width="720" />
+                     </ns0:g>
+                     <ns0:g id="sp5dh5y" class="stem">
+                        <ns0:use href="#E93F-d145iykw" x="12841" y="2834" height="720" width="720" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="n16eue4d" class="note" color="blue" fill="blue">
+                     <ns0:g class="notehead">
+                        <ns0:use href="#E93C-d145iykw" x="13645" y="2664" height="720" width="720" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="n1kl9bdc" class="note">
+                     <ns0:g class="notehead">
+                        <ns0:use href="#E93C-d145iykw" x="16029" y="2844" height="720" width="720" />
+                     </ns0:g>
+                     <ns0:g id="s11on1mz" class="stem">
+                        <ns0:use href="#E93F-d145iykw" x="16131" y="2924" height="720" width="720" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="nysjflv" class="note" color="blue" fill="blue">
+                     <ns0:g class="notehead">
+                        <ns0:use href="#E93C-d145iykw" x="16934" y="2934" height="720" width="720" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="nfzqng3" class="note" color="blue" fill="blue">
+                     <ns0:g class="notehead">
+                        <ns0:use href="#E93C-d145iykw" x="18744" y="3024" height="720" width="720" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="n1ao2hxm" class="note" color="blue" fill="blue">
+                     <ns0:g class="notehead">
+                        <ns0:use href="#E93C-d145iykw" x="20555" y="3114" height="720" width="720" />
+                     </ns0:g>
+                  </ns0:g>
+               </ns0:g>
+            </ns0:g>
+            <ns0:g id="s1783q7j" class="staff">
+               <ns0:path d="M12644 4608 L22310 4608" stroke-width="13" stroke="black" />
+               <ns0:path d="M12644 4788 L22310 4788" stroke-width="13" stroke="black" />
+               <ns0:path d="M12644 4968 L22310 4968" stroke-width="13" stroke="black" />
+               <ns0:path d="M12644 5148 L22310 5148" stroke-width="13" stroke="black" />
+               <ns0:path d="M12644 5328 L22310 5328" stroke-width="13" stroke="black" />
+               <ns0:g id="l1pbhqk1" class="layer">
+                  <ns0:g id="n12bf38k" class="note" color="red" fill="red">
+                     <ns0:g class="notehead">
+                        <ns0:use href="#E93C-d145iykw" x="12739" y="5148" height="720" width="720" />
+                     </ns0:g>
+                     <ns0:g id="s1w9oks9" class="stem">
+                        <ns0:use href="#E93E-d145iykw" x="12841" y="5068" height="720" width="720" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="dwod60e" class="dot">
+                     <ns0:polygon stroke-opacity="1" fill-opacity="1" points="13557,5058 13602,5013 13647,5058 13602,5103" />
+                  </ns0:g>
+                  <ns0:g id="n1s92rjw" class="note" color="blue" fill="blue">
+                     <ns0:g class="notehead">
+                        <ns0:use href="#E93D-d145iykw" x="14241" y="5238" height="720" width="720" />
+                     </ns0:g>
+                     <ns0:g id="sm13syr" class="stem">
+                        <ns0:use href="#E93E-d145iykw" x="14343" y="5158" height="720" width="720" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="n2f24mg" class="note">
+                     <ns0:g class="notehead">
+                        <ns0:use href="#E93D-d145iykw" x="14837" y="5148" height="720" width="720" />
+                     </ns0:g>
+                     <ns0:g id="s15x6spn" class="stem">
+                        <ns0:use href="#E93E-d145iykw" x="14939" y="5068" height="720" width="720" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="namgbcy" class="note" color="blue" fill="blue">
+                     <ns0:g class="notehead">
+                        <ns0:use href="#E93D-d145iykw" x="15433" y="5058" height="720" width="720" />
+                     </ns0:g>
+                     <ns0:g id="ss13vf4" class="stem">
+                        <ns0:use href="#E93E-d145iykw" x="15535" y="4978" height="720" width="720" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="l1hjr50q" class="ligature">
+                     <ns0:g id="netxa7c" class="note" color="blue" fill="blue">
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="16029,4868 16324,5013 16324,5063 16029,4918" />
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="16029,5048 16324,5193 16324,5143 16029,4998" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="16029" y="4338" height="750" width="18" rx="6" />
+                     </ns0:g>
+                     <ns0:g id="n11g24w0" class="note" color="red" fill="red">
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="16323,5013 16617,5158 16617,5208 16323,5063" />
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="16323,5193 16617,5338 16617,5288 16323,5143" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="16599" y="5118" height="240" width="18" rx="6" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="n12xs49g" class="note" color="blue" fill="blue">
+                     <ns0:g class="notehead">
+                        <ns0:use href="#E93C-d145iykw" x="19650" y="4968" height="720" width="720" />
+                     </ns0:g>
+                     <ns0:g id="s1gtcrzp" class="stem">
+                        <ns0:use href="#E93E-d145iykw" x="19752" y="4888" height="720" width="720" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="n1ge13e1" class="note">
+                     <ns0:g class="notehead">
+                        <ns0:use href="#E93C-d145iykw" x="20555" y="4788" height="720" width="720" />
+                     </ns0:g>
+                     <ns0:g id="stkhata" class="stem">
+                        <ns0:use href="#E93F-d145iykw" x="20657" y="4868" height="720" width="720" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="d3jmn88" class="dot">
+                     <ns0:polygon stroke-opacity="1" fill-opacity="1" points="21201,4698 21246,4653 21291,4698 21246,4743" />
+                  </ns0:g>
+                  <ns0:g id="n1o3ix7y" class="note" color="blue" fill="blue">
+                     <ns0:g class="notehead">
+                        <ns0:use href="#E93D-d145iykw" x="21714" y="4878" height="720" width="720" />
+                     </ns0:g>
+                     <ns0:g id="sae532v" class="stem">
+                        <ns0:use href="#E93F-d145iykw" x="21816" y="4958" height="720" width="720" />
+                     </ns0:g>
+                  </ns0:g>
+               </ns0:g>
+            </ns0:g>
+            <ns0:g id="sq8zftv" class="staff">
+               <ns0:path d="M22310 540 L23598 540" stroke-width="13" stroke="black" />
+               <ns0:path d="M22310 720 L23598 720" stroke-width="13" stroke="black" />
+               <ns0:path d="M22310 900 L23598 900" stroke-width="13" stroke="black" />
+               <ns0:path d="M22310 1080 L23598 1080" stroke-width="13" stroke="black" />
+               <ns0:path d="M22310 1260 L23598 1260" stroke-width="13" stroke="black" />
+               <ns0:g id="l1ekujds" class="layer">
+                  <ns0:g id="n1g425me" class="note" color="red" fill="red">
+                     <ns0:g class="notehead">
+                        <ns0:use href="#E93D-d145iykw" x="22405" y="720" height="720" width="720" />
+                     </ns0:g>
+                     <ns0:g id="s1u7uj76" class="stem">
+                        <ns0:use href="#E93F-d145iykw" x="22507" y="800" height="720" width="720" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="nqsewuc" class="note">
+                     <ns0:g class="notehead">
+                        <ns0:use href="#E93D-d145iykw" x="23002" y="810" height="720" width="720" />
+                     </ns0:g>
+                     <ns0:g id="s1cnir84" class="stem">
+                        <ns0:use href="#E93F-d145iykw" x="23104" y="890" height="720" width="720" />
+                     </ns0:g>
+                  </ns0:g>
+               </ns0:g>
+            </ns0:g>
+            <ns0:g id="s7dz7y2" class="staff">
+               <ns0:path d="M22310 2574 L23598 2574" stroke-width="13" stroke="black" />
+               <ns0:path d="M22310 2754 L23598 2754" stroke-width="13" stroke="black" />
+               <ns0:path d="M22310 2934 L23598 2934" stroke-width="13" stroke="black" />
+               <ns0:path d="M22310 3114 L23598 3114" stroke-width="13" stroke="black" />
+               <ns0:path d="M22310 3294 L23598 3294" stroke-width="13" stroke="black" />
+               <ns0:g id="l46oupg" class="layer">
+                  <ns0:g id="n1kckbmi" class="note" color="red" fill="red">
+                     <ns0:g class="notehead">
+                        <ns0:use href="#E93C-d145iykw" x="22405" y="2934" height="720" width="720" />
+                     </ns0:g>
+                     <ns0:g id="s1y4yrqg" class="stem">
+                        <ns0:use href="#E93E-d145iykw" x="22507" y="2854" height="720" width="720" />
+                     </ns0:g>
+                  </ns0:g>
+               </ns0:g>
+            </ns0:g>
+            <ns0:g id="s1pc373j" class="staff">
+               <ns0:path d="M22310 4608 L23598 4608" stroke-width="13" stroke="black" />
+               <ns0:path d="M22310 4788 L23598 4788" stroke-width="13" stroke="black" />
+               <ns0:path d="M22310 4968 L23598 4968" stroke-width="13" stroke="black" />
+               <ns0:path d="M22310 5148 L23598 5148" stroke-width="13" stroke="black" />
+               <ns0:path d="M22310 5328 L23598 5328" stroke-width="13" stroke="black" />
+               <ns0:g id="l1krxsj9" class="layer">
+                  <ns0:g id="n1q1hdzp" class="note" color="red" fill="red">
+                     <ns0:g class="notehead">
+                        <ns0:use href="#E93C-d145iykw" x="22405" y="4968" height="720" width="720" />
+                     </ns0:g>
+                     <ns0:g id="s1f6mqi0" class="stem">
+                        <ns0:use href="#E93E-d145iykw" x="22507" y="4888" height="720" width="720" />
+                     </ns0:g>
+                  </ns0:g>
+               </ns0:g>
+            </ns0:g>
+            <ns0:g id="s1iv0qw4" class="staff">
+               <ns0:path d="M23598 540 L24599 540" stroke-width="13" stroke="black" />
+               <ns0:path d="M23598 720 L24599 720" stroke-width="13" stroke="black" />
+               <ns0:path d="M23598 900 L24599 900" stroke-width="13" stroke="black" />
+               <ns0:path d="M23598 1080 L24599 1080" stroke-width="13" stroke="black" />
+               <ns0:path d="M23598 1260 L24599 1260" stroke-width="13" stroke="black" />
+               <ns0:g id="l1dxaqnl" class="layer">
+                  <ns0:g id="n2p88ms" class="note">
+                     <ns0:g class="notehead">
+                        <ns0:use href="#E93C-d145iykw" x="23693" y="900" height="720" width="720" />
+                     </ns0:g>
+                     <ns0:g id="s1x6vrpg" class="stem">
+                        <ns0:use href="#E93E-d145iykw" x="23795" y="820" height="720" width="720" />
+                     </ns0:g>
+                  </ns0:g>
+               </ns0:g>
+            </ns0:g>
+            <ns0:g id="sal9jrf" class="staff">
+               <ns0:path d="M23598 2574 L24599 2574" stroke-width="13" stroke="black" />
+               <ns0:path d="M23598 2754 L24599 2754" stroke-width="13" stroke="black" />
+               <ns0:path d="M23598 2934 L24599 2934" stroke-width="13" stroke="black" />
+               <ns0:path d="M23598 3114 L24599 3114" stroke-width="13" stroke="black" />
+               <ns0:path d="M23598 3294 L24599 3294" stroke-width="13" stroke="black" />
+               <ns0:g id="l11gn7c6" class="layer">
+                  <ns0:g id="nkn7gzz" class="note" color="red" fill="red">
+                     <ns0:g class="notehead">
+                        <ns0:use href="#E93C-d145iykw" x="23693" y="2844" height="720" width="720" />
+                     </ns0:g>
+                     <ns0:g id="s1rhgtd5" class="stem">
+                        <ns0:use href="#E93F-d145iykw" x="23795" y="2924" height="720" width="720" />
+                     </ns0:g>
+                  </ns0:g>
+               </ns0:g>
+            </ns0:g>
+            <ns0:g id="s11vh0rh" class="staff">
+               <ns0:path d="M23598 4608 L24599 4608" stroke-width="13" stroke="black" />
+               <ns0:path d="M23598 4788 L24599 4788" stroke-width="13" stroke="black" />
+               <ns0:path d="M23598 4968 L24599 4968" stroke-width="13" stroke="black" />
+               <ns0:path d="M23598 5148 L24599 5148" stroke-width="13" stroke="black" />
+               <ns0:path d="M23598 5328 L24599 5328" stroke-width="13" stroke="black" />
+               <ns0:g id="l8kym41" class="layer">
+                  <ns0:g id="n1mp4qva" class="note" color="red" fill="red">
+                     <ns0:g class="notehead">
+                        <ns0:use href="#E93C-d145iykw" x="23693" y="5058" height="720" width="720" />
+                     </ns0:g>
+                     <ns0:g id="sdh269p" class="stem">
+                        <ns0:use href="#E93E-d145iykw" x="23795" y="4978" height="720" width="720" />
+                     </ns0:g>
+                  </ns0:g>
+               </ns0:g>
+            </ns0:g>
+            <ns0:g id="s1odd5ck" class="staff">
+               <ns0:path d="M24599 540 L26505 540" stroke-width="13" stroke="black" />
+               <ns0:path d="M24599 720 L26505 720" stroke-width="13" stroke="black" />
+               <ns0:path d="M24599 900 L26505 900" stroke-width="13" stroke="black" />
+               <ns0:path d="M24599 1080 L26505 1080" stroke-width="13" stroke="black" />
+               <ns0:path d="M24599 1260 L26505 1260" stroke-width="13" stroke="black" />
+               <ns0:g id="l1w2xksx" class="layer">
+                  <ns0:g id="n1p2nglo" class="note" color="red" fill="red">
+                     <ns0:g class="notehead">
+                        <ns0:use href="#E93C-d145iykw" x="24694" y="990" height="720" width="720" />
+                     </ns0:g>
+                  </ns0:g>
+               </ns0:g>
+            </ns0:g>
+            <ns0:g id="s5tb5kw" class="staff">
+               <ns0:path d="M24599 2574 L26505 2574" stroke-width="13" stroke="black" />
+               <ns0:path d="M24599 2754 L26505 2754" stroke-width="13" stroke="black" />
+               <ns0:path d="M24599 2934 L26505 2934" stroke-width="13" stroke="black" />
+               <ns0:path d="M24599 3114 L26505 3114" stroke-width="13" stroke="black" />
+               <ns0:path d="M24599 3294 L26505 3294" stroke-width="13" stroke="black" />
+               <ns0:g id="l1poehzq" class="layer">
+                  <ns0:g id="n1ndw7uo" class="note" color="red" fill="red">
+                     <ns0:g class="notehead">
+                        <ns0:use href="#E93C-d145iykw" x="24694" y="2754" height="720" width="720" />
+                     </ns0:g>
+                     <ns0:g id="s1cz7cno" class="stem">
+                        <ns0:use href="#E93F-d145iykw" x="24796" y="2834" height="720" width="720" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="nceq0vs" class="note">
+                     <ns0:g class="notehead">
+                        <ns0:use href="#E93C-d145iykw" x="25600" y="2844" height="720" width="720" />
+                     </ns0:g>
+                     <ns0:g id="sd26hml" class="stem">
+                        <ns0:use href="#E93F-d145iykw" x="25702" y="2924" height="720" width="720" />
+                     </ns0:g>
+                  </ns0:g>
+               </ns0:g>
+            </ns0:g>
+            <ns0:g id="sjj4gcs" class="staff">
+               <ns0:path d="M24599 4608 L26505 4608" stroke-width="13" stroke="black" />
+               <ns0:path d="M24599 4788 L26505 4788" stroke-width="13" stroke="black" />
+               <ns0:path d="M24599 4968 L26505 4968" stroke-width="13" stroke="black" />
+               <ns0:path d="M24599 5148 L26505 5148" stroke-width="13" stroke="black" />
+               <ns0:path d="M24599 5328 L26505 5328" stroke-width="13" stroke="black" />
+               <ns0:g id="l1xsqam9" class="layer">
+                  <ns0:g id="nipg9cv" class="note" color="red" fill="red">
+                     <ns0:g class="notehead">
+                        <ns0:use href="#E93C-d145iykw" x="24694" y="5328" height="720" width="720" />
+                     </ns0:g>
+                  </ns0:g>
+               </ns0:g>
+            </ns0:g>
+         </ns0:g>
+         <ns0:g id="szowe3k" class="system">
+            <ns0:path d="M13 7002 L13 11790" stroke-width="27" stroke="black" />
+            <ns0:g id="g1byrtxz" class="grpSym">
+               <ns0:use href="#E003-d145iykw" x="-180" y="6951" height="720" width="720" />
+               <ns0:use href="#E004-d145iykw" x="-180" y="11841" height="720" width="720" />
+               <ns0:rect stroke-opacity="1" fill-opacity="1" x="-180" y="6945" height="4902" width="90" />
+            </ns0:g>
+            <ns0:g id="suoeops" class="staff">
+               <ns0:path d="M0 7002 L26500 7002" stroke-width="13" stroke="black" />
+               <ns0:path d="M0 7182 L26500 7182" stroke-width="13" stroke="black" />
+               <ns0:path d="M0 7362 L26500 7362" stroke-width="13" stroke="black" />
+               <ns0:path d="M0 7542 L26500 7542" stroke-width="13" stroke="black" />
+               <ns0:path d="M0 7722 L26500 7722" stroke-width="13" stroke="black" />
+               <ns0:g id="c1kp61hm" class="clef">
+                  <ns0:use href="#E901-d145iykw" x="117" y="7542" height="720" width="720" />
+               </ns0:g>
+               <ns0:g id="k2i11qe" class="keySig" />
+               <ns0:g id="l1yhqa0n" class="layer">
+                  <ns0:g id="nljpu1y" class="note" color="blue" fill="blue">
+                     <ns0:g class="notehead">
+                        <ns0:use href="#E93C-d145iykw" x="497" y="7182" height="720" width="720" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="n112h46s" class="note">
+                     <ns0:g class="notehead">
+                        <ns0:use href="#E93C-d145iykw" x="5077" y="7272" height="720" width="720" />
+                     </ns0:g>
+                     <ns0:g id="s1fimh7v" class="stem">
+                        <ns0:use href="#E93F-d145iykw" x="5179" y="7352" height="720" width="720" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="n14y7wqb" class="note" color="blue" fill="blue">
+                     <ns0:g class="notehead">
+                        <ns0:use href="#E93C-d145iykw" x="7367" y="7182" height="720" width="720" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="rb4ilmy" class="rest">
+                     <ns0:use href="#E9F4-d145iykw" x="11947" y="7362" height="720" width="720" />
+                     <ns0:g class="ledgerLines" />
+                  </ns0:g>
+                  <ns0:g id="nk5wk64" class="note">
+                     <ns0:g class="notehead">
+                        <ns0:use href="#E93C-d145iykw" x="15438" y="7452" height="720" width="720" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="n1kzjnv5" class="note" color="blue" fill="blue">
+                     <ns0:g class="notehead">
+                        <ns0:use href="#E93C-d145iykw" x="18929" y="7272" height="720" width="720" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="c1h4lbgd" class="custos">
+                     <ns0:use href="#EA02-d145iykw" x="23509" y="7452" height="720" width="720" />
+                  </ns0:g>
+                  <ns0:g id="nod2rgi" class="note" color="red" fill="red">
+                     <ns0:g class="notehead">
+                        <ns0:use href="#E93C-d145iykw" x="24210" y="7362" height="720" width="720" />
+                     </ns0:g>
+                     <ns0:g id="swlv02e" class="stem">
+                        <ns0:use href="#E93E-d145iykw" x="24312" y="7282" height="720" width="720" />
+                     </ns0:g>
+                  </ns0:g>
+               </ns0:g>
+            </ns0:g>
+            <ns0:g id="s14uxepd" class="staff">
+               <ns0:path d="M0 9036 L26500 9036" stroke-width="13" stroke="black" />
+               <ns0:path d="M0 9216 L26500 9216" stroke-width="13" stroke="black" />
+               <ns0:path d="M0 9396 L26500 9396" stroke-width="13" stroke="black" />
+               <ns0:path d="M0 9576 L26500 9576" stroke-width="13" stroke="black" />
+               <ns0:path d="M0 9756 L26500 9756" stroke-width="13" stroke="black" />
+               <ns0:g id="cxzw2k1" class="clef">
+                  <ns0:use href="#E908-d145iykw" x="117" y="9576" height="720" width="720" />
+               </ns0:g>
+               <ns0:g id="ksixhn" class="keySig" />
+               <ns0:g id="ln8b42d" class="layer">
+                  <ns0:g id="nnl7399" class="note" color="blue" fill="blue">
+                     <ns0:g class="notehead">
+                        <ns0:use href="#E93C-d145iykw" x="497" y="9486" height="720" width="720" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="nh11a7u" class="note" color="blue" fill="blue">
+                     <ns0:g class="notehead">
+                        <ns0:use href="#E93C-d145iykw" x="5077" y="9396" height="720" width="720" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="n15fqi22" class="note" color="blue" fill="blue">
+                     <ns0:g class="notehead">
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="9675,9396 9871,9396 9871,9446 9675,9446" />
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="9675,9576 9871,9576 9871,9526 9675,9526" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="9657" y="9366" height="240" width="18" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="9871" y="9366" height="240" width="18" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="nck4zy4" class="note">
+                     <ns0:g class="notehead">
+                        <ns0:use href="#E93C-d145iykw" x="21219" y="9306" height="720" width="720" />
+                     </ns0:g>
+                  </ns0:g>
+               </ns0:g>
+            </ns0:g>
+            <ns0:g id="s1of73pc" class="staff">
+               <ns0:path d="M0 11070 L26500 11070" stroke-width="13" stroke="black" />
+               <ns0:path d="M0 11250 L26500 11250" stroke-width="13" stroke="black" />
+               <ns0:path d="M0 11430 L26500 11430" stroke-width="13" stroke="black" />
+               <ns0:path d="M0 11610 L26500 11610" stroke-width="13" stroke="black" />
+               <ns0:path d="M0 11790 L26500 11790" stroke-width="13" stroke="black" />
+               <ns0:g id="c1lolot2" class="clef">
+                  <ns0:use href="#E90A-d145iykw" x="117" y="11250" height="720" width="720" />
+               </ns0:g>
+               <ns0:g id="k19bcmqd" class="keySig" />
+               <ns0:g id="l1f4yvtn" class="layer">
+                  <ns0:g id="n4c81hb" class="note">
+                     <ns0:g class="notehead">
+                        <ns0:use href="#E93C-d145iykw" x="497" y="11790" height="720" width="720" />
+                     </ns0:g>
+                     <ns0:g id="s1csjbn0" class="stem">
+                        <ns0:use href="#E93E-d145iykw" x="599" y="11710" height="720" width="720" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="n1j3d010" class="note" color="blue" fill="blue">
+                     <ns0:g class="notehead">
+                        <ns0:use href="#E93C-d145iykw" x="2787" y="11430" height="720" width="720" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="l2f9xyc" class="ligature">
+                     <ns0:g id="n1nvepnb" class="note" color="blue" fill="blue">
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="7367,11700 7599,11700 7599,11750 7367,11750" />
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="7367,11880 7599,11880 7599,11830 7367,11830" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="7367" y="11160" height="750" width="18" rx="6" />
+                     </ns0:g>
+                     <ns0:g id="nfp3fvn" class="note">
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="7581,11430 7813,11430 7813,11480 7581,11480" />
+                        <ns0:polygon stroke-opacity="1" fill-opacity="1" points="7581,11610 7813,11610 7813,11560 7581,11560" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="7581" y="11400" height="510" width="18" rx="6" />
+                        <ns0:rect stroke-opacity="1" fill-opacity="1" x="7795" y="11400" height="240" width="18" rx="6" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="n2exvzh" class="note">
+                     <ns0:g class="notehead">
+                        <ns0:use href="#E93C-d145iykw" x="15438" y="11610" height="720" width="720" />
+                     </ns0:g>
+                  </ns0:g>
+                  <ns0:g id="rv9bhzu" class="rest">
+                     <ns0:use href="#E9F4-d145iykw" x="18929" y="11430" height="720" width="720" />
+                     <ns0:g class="ledgerLines" />
+                  </ns0:g>
+                  <ns0:g id="n1derfxi" class="note" color="red" fill="red">
+                     <ns0:g class="notehead">
+                        <ns0:use href="#E93C-d145iykw" x="24210" y="11610" height="720" width="720" />
+                     </ns0:g>
+                     <ns0:g id="s77dzsg" class="stem">
+                        <ns0:use href="#E93E-d145iykw" x="24312" y="11530" height="720" width="720" />
+                     </ns0:g>
+                  </ns0:g>
+               </ns0:g>
+            </ns0:g>
+         </ns0:g>
+      </ns0:g>
+   </ns0:svg>

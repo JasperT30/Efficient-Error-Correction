@@ -1,0 +1,369 @@
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.1+basic">
+	<meiHead>
+		<fileDesc>
+			<titleStmt>
+				<title type="main">Tant est mignonne ma pensee</title>
+				<respStmt>
+					<persName role="composer">anon</persName>
+				</respStmt>
+			</titleStmt>
+			<sourceDesc>Leuven Chansonnier N°03</sourceDesc>
+			<pubStmt>
+				<date isodate="2025-07-11T19:13:04.111171" />
+			</pubStmt>
+		</fileDesc>
+	</meiHead>
+	<music>
+		<body>
+			<mdiv>
+				<score>
+					<scoreDef>
+						<pgHead func="first">
+							<rend halign="center" valign="top">
+								<rend type="title" fontsize="x-large">Tant est mignonne ma pensee</rend>
+							</rend>
+							<rend halign="right" valign="bottom">
+								<rend type="composer">anon</rend>
+							</rend>
+							<rend halign="left" valign="bottom">
+								<rend type="file_desc">Leuven Chansonnier N°03</rend>
+							</rend>
+						</pgHead>
+						<staffGrp symbol="bracket">
+							<staffDef n="1" lines="5" label="Discantus" keysig="0" clef.shape="C" clef.line="1" notationtype="mensural.white">
+								<mensur sign="O" slash="0" dot="false" modusmaior="2" modusminor="2" tempus="3" prolatio="2" />
+								<instrDef midi.instrnum="0" />
+							</staffDef>
+							<staffDef n="2" lines="5" label="Tenor" keysig="0" clef.shape="C" clef.line="4" notationtype="mensural.white">
+								<mensur sign="O" slash="0" dot="false" modusmaior="2" modusminor="2" tempus="3" prolatio="2" />
+								<instrDef midi.instrnum="0" />
+							</staffDef>
+							<staffDef n="3" lines="5" label="Contratenor" keysig="0" clef.shape="C" clef.line="4" notationtype="mensural.white">
+								<mensur sign="O" slash="0" dot="false" modusmaior="2" modusminor="2" tempus="3" prolatio="2" />
+								<instrDef midi.instrnum="0" />
+							</staffDef>
+						</staffGrp>
+					</scoreDef>
+					<section xml:id="s1">
+						<staff n="1">
+							<layer n="1">
+								<mensur tempus="3" prolatio="2" modusmaior="2" modusminor="2" />
+								<note dur="semibrevis" pname="g" oct="4" num="2" numbase="3" />
+								<dot />
+								<note dur="semiminima" pname="a" oct="4" />
+								<note dur="semiminima" pname="b" oct="4" />
+								<note dur="minima" pname="c" oct="5" num="2" numbase="3" />
+								<dot />
+								<note dur="semiminima" pname="d" oct="5" />
+								<note dur="brevis" pname="b" oct="4" num="3" numbase="2" />
+								<note dur="semibrevis" pname="a" oct="4" />
+								<note dur="semibrevis" pname="g" oct="4" num="2" numbase="3" />
+								<dot />
+								<note dur="minima" pname="f" oct="4" />
+								<note dur="minima" pname="e" oct="4" num="2" numbase="3" />
+								<dot />
+								<note dur="semiminima" pname="d" oct="4" />
+								<note dur="minima" pname="f" oct="4" num="2" numbase="3" />
+								<dot />
+								<note dur="semiminima" pname="g" oct="4" />
+								<note dur="minima" pname="a" oct="4" />
+								<note dur="minima" pname="b" oct="4" />
+								<note dur="semibrevis" pname="c" oct="5" />
+								<note dur="minima" pname="b" oct="4" />
+								<note dur="minima" pname="a" oct="4" num="2" numbase="3" />
+								<dot />
+								<note dur="semiminima" pname="g" oct="4" />
+								<note dur="semibrevis" pname="g" oct="4" />
+								<note dur="minima" pname="f" oct="4" />
+								<note dur="brevis" pname="g" oct="4" num="3" numbase="2" />
+								<rest dur="semibrevis" />
+								<note dur="semibrevis" pname="a" oct="4" />
+								<note dur="minima" pname="a" oct="4" />
+								<note dur="minima" pname="a" oct="4" num="2" numbase="3" />
+								<dot />
+								<note dur="semiminima" pname="g" oct="4" />
+								<note dur="minima" pname="f" oct="4" />
+								<note dur="semibrevis" pname="e" oct="4" />
+								<note dur="semibrevis" pname="d" oct="4" />
+								<note dur="brevis" pname="g" oct="4" num="3" numbase="2" />
+								<note dur="semibrevis" pname="f" oct="4" />
+								<note dur="semibrevis" pname="e" oct="4" />
+								<note dur="semibrevis" pname="g" oct="4" num="2" numbase="3" />
+								<dot />
+								<note dur="semiminima" pname="f" oct="4" />
+								<note dur="semiminima" pname="e" oct="4" />
+								<note dur="semibrevis" pname="d" oct="4" />
+								<note dur="semibrevis" pname="c" oct="4" fermata="above" />
+								<rest dur="semibrevis" />
+								<rest dur="semibrevis" />
+								<note dur="brevis" pname="c" oct="5" num="3" numbase="2" />
+								<note dur="semibrevis" pname="b" oct="4" />
+								<note dur="brevis" pname="b" oct="4" num="3" numbase="2" />
+								<note dur="semibrevis" pname="a" oct="4" />
+								<note dur="brevis" pname="g" oct="4" num="3" numbase="2" />
+								<note dur="minima" pname="f" oct="4" num="2" numbase="3" />
+								<dot />
+								<note dur="semiminima" pname="e" oct="4" />
+								<note dur="minima" pname="g" oct="4" />
+								<note dur="minima" pname="a" oct="4" />
+								<note dur="minima" pname="b" oct="4" />
+								<note dur="minima" pname="c" oct="5" />
+								<note dur="semibrevis" pname="a" oct="4" />
+								<note dur="minima" pname="g" oct="4" />
+								<note dur="minima" pname="f" oct="4" />
+								<note dur="minima" pname="g" oct="4" />
+								<note dur="minima" pname="a" oct="4" />
+								<note dur="minima" pname="f" oct="4" num="2" numbase="3" />
+								<dot />
+								<note dur="semiminima" pname="e" oct="4" />
+								<note dur="minima" pname="g" oct="4" />
+								<note dur="minima" pname="a" oct="4" />
+								<note dur="minima" pname="g" oct="4" />
+								<note dur="semibrevis" pname="c" oct="5" />
+								<note dur="minima" pname="b" oct="4" />
+								<note dur="semibrevis" pname="c" oct="5" />
+								<rest dur="semibrevis" />
+								<note dur="minima" pname="a" oct="4" num="2" numbase="3" />
+								<dot />
+								<note dur="semiminima" pname="b" oct="4" />
+								<note dur="minima" pname="c" oct="5" />
+								<note dur="minima" pname="d" oct="5" />
+								<note dur="minima" pname="e" oct="5" />
+								<note dur="semibrevis" pname="d" oct="5" />
+								<note dur="minima" pname="c" oct="5" />
+								<note colored="true" dur="semibrevis" pname="d" oct="5" num="4" numbase="3" />
+								<note dur="fusa" pname="c" oct="5" />
+								<note dur="fusa" pname="b" oct="4" />
+								<note dur="semibrevis" pname="a" oct="4" />
+								<note dur="minima" pname="g" oct="4" />
+								<note dur="minima" pname="a" oct="4" />
+								<note dur="minima" pname="b" oct="4" />
+								<note dur="minima" pname="a" oct="4" />
+								<note dur="semibrevis" pname="d" oct="5" />
+								<note dur="semibrevis" pname="c" oct="5" />
+								<note dur="minima" pname="b" oct="4" />
+								<note dur="minima" pname="a" oct="4" num="2" numbase="3" />
+								<dot />
+								<note dur="semiminima" pname="g" oct="4" />
+								<note dur="semibrevis" pname="g" oct="4" />
+								<note dur="minima" pname="f" oct="4" />
+								<note dur="longa" pname="g" oct="4" />
+								<barLine />
+							</layer>
+						</staff>
+						<staff n="2">
+							<layer n="1">
+								<rest dur="brevis" />
+								<note dur="semibrevis" pname="g" oct="3" num="2" numbase="3" />
+								<dot />
+								<note dur="semiminima" pname="a" oct="3" />
+								<note dur="semiminima" pname="b" oct="3" />
+								<note dur="minima" pname="c" oct="4" num="2" numbase="3" />
+								<dot />
+								<note dur="semiminima" pname="d" oct="4" />
+								<note dur="semibrevis" pname="b" oct="3" num="2" numbase="3" />
+								<dot />
+								<note dur="minima" pname="a" oct="3" />
+								<note colored="true" dur="semibrevis" pname="c" oct="4" num="4" numbase="3" />
+								<note dur="semiminima" pname="b" oct="3" />
+								<note dur="brevis" pname="d" oct="4" num="3" numbase="2" />
+								<note dur="semibrevis" pname="e" oct="4" />
+								<note dur="semibrevis" pname="d" oct="4" />
+								<note dur="minima" pname="b" oct="3" />
+								<note dur="minima" pname="c" oct="4" />
+								<note dur="semibrevis" pname="a" oct="3" />
+								<note dur="semibrevis" pname="g" oct="3" num="2" numbase="3" />
+								<dot />
+								<note dur="minima" pname="f" oct="3" />
+								<note dur="semibrevis" pname="e" oct="3" />
+								<note dur="semibrevis" pname="d" oct="3" />
+								<note dur="semibrevis" pname="d" oct="3" />
+								<note dur="semibrevis" pname="d" oct="3" />
+								<note dur="semibrevis" pname="g" oct="3" num="2" numbase="3" />
+								<dot />
+								<note dur="minima" pname="f" oct="3" />
+								<note dur="semibrevis" pname="e" oct="3" num="2" numbase="3" />
+								<dot />
+								<note dur="minima" pname="c" oct="3" />
+								<note dur="semibrevis" pname="d" oct="3" />
+								<note dur="semibrevis" pname="c" oct="3" />
+								<note dur="brevis" pname="c" oct="4" num="3" numbase="2" />
+								<note dur="semibrevis" pname="b" oct="3" />
+								<note dur="semibrevis" pname="c" oct="4" num="2" numbase="3" />
+								<dot />
+								<note dur="minima" pname="d" oct="4" />
+								<note dur="semibrevis" pname="e" oct="4" />
+								<note dur="semibrevis" pname="a" oct="3" num="2" numbase="3" />
+								<dot />
+								<note dur="semiminima" pname="b" oct="3" />
+								<note dur="semiminima" pname="c" oct="4" />
+								<note dur="semibrevis" pname="d" oct="4" />
+								<note dur="semibrevis" pname="g" oct="3" num="2" numbase="3" />
+								<dot />
+								<note dur="semiminima" pname="a" oct="3" />
+								<note dur="semiminima" pname="b" oct="3" />
+								<note dur="semibrevis" pname="c" oct="4" />
+								<note colored="true" dur="semibrevis" pname="c" oct="3" num="4" numbase="3" />
+								<note dur="semiminima" pname="d" oct="3" />
+								<note dur="minima" pname="e" oct="3" />
+								<note dur="minima" pname="f" oct="3" />
+								<note colored="true" dur="semibrevis" pname="d" oct="3" num="4" numbase="3" />
+								<note dur="semiminima" pname="c" oct="3" />
+								<note colored="true" dur="semibrevis" pname="e" oct="3" num="4" numbase="3" />
+								<note dur="semiminima" pname="f" oct="3" />
+								<note dur="minima" pname="g" oct="3" />
+								<note dur="minima" pname="a" oct="3" />
+								<note dur="minima" pname="f" oct="3" num="2" numbase="3" />
+								<dot />
+								<note dur="semiminima" pname="e" oct="3" />
+								<note dur="minima" pname="g" oct="3" />
+								<note dur="minima" pname="a" oct="3" />
+								<note dur="minima" pname="b" oct="3" />
+								<note dur="minima" pname="c" oct="4" />
+								<note dur="semibrevis" pname="a" oct="3" />
+								<note dur="minima" pname="g" oct="3" />
+								<note dur="minima" pname="c" oct="4" />
+								<note dur="minima" pname="b" oct="3" />
+								<note dur="minima" pname="c" oct="4" />
+								<note dur="semibrevis" pname="d" oct="4" />
+								<note dur="brevis" pname="c" oct="4" num="3" numbase="2" />
+								<note dur="semibrevis" pname="f" oct="4" />
+								<note dur="semibrevis" pname="e" oct="4" />
+								<note dur="minima" pname="c" oct="4" />
+								<note dur="minima" pname="d" oct="4" />
+								<note dur="semibrevis" pname="e" oct="4" />
+								<note dur="semibrevis" pname="d" oct="4" num="2" numbase="3" />
+								<dot />
+								<note dur="minima" pname="c" oct="4" />
+								<note dur="minima" pname="b" oct="3" />
+								<note dur="minima" pname="a" oct="3" />
+								<note dur="semibrevis" pname="d" oct="4" />
+								<note dur="minima" pname="b" oct="3" />
+								<note dur="minima" pname="g" oct="3" />
+								<note dur="semibrevis" pname="a" oct="3" />
+								<note dur="minima" pname="g" oct="3" />
+								<note dur="minima" pname="d" oct="4" />
+								<note dur="minima" pname="b" oct="3" />
+								<note dur="minima" pname="g" oct="3" />
+								<note dur="semibrevis" pname="a" oct="3" />
+								<note dur="longa" pname="g" oct="3" />
+								<barLine />
+							</layer>
+						</staff>
+						<staff n="3">
+							<layer n="1">
+								<ligature form="recta">
+									<note dur="semibrevis" pname="g" oct="3" lig="recta" />
+									<note dur="semibrevis" pname="c" oct="4" lig="recta" colored="true" num="4" numbase="3" />
+								</ligature>
+								<note dur="semiminima" pname="d" oct="4" />
+								<note dur="semibrevis" pname="e" oct="4" />
+								<ligature form="recta">
+									<note dur="semibrevis" pname="d" oct="4" lig="recta" />
+									<note dur="semibrevis" pname="g" oct="4" lig="recta" colored="true" num="4" numbase="3" />
+								</ligature>
+								<note dur="semiminima" pname="f" oct="4" />
+								<note dur="semibrevis" pname="e" oct="4" />
+								<ligature form="obliqua">
+									<note dur="semibrevis" pname="d" oct="4" lig="obliqua" />
+									<note dur="semibrevis" pname="g" oct="3" lig="obliqua" />
+								</ligature>
+								<note dur="semibrevis" pname="a" oct="3" />
+								<note dur="brevis" pname="d" oct="3" num="3" numbase="2" />
+								<note dur="semibrevis" pname="c" oct="3" />
+								<note dur="minima" pname="g" oct="3" />
+								<note dur="minima" pname="f" oct="3" />
+								<note dur="minima" pname="g" oct="3" />
+								<note dur="minima" pname="c" oct="3" />
+								<note dur="semibrevis" pname="d" oct="3" />
+								<note dur="minima" pname="d" oct="4" />
+								<note dur="semibrevis" pname="e" oct="4" />
+								<note dur="semibrevis" pname="d" oct="4" />
+								<note dur="minima" pname="c" oct="4" />
+								<note dur="brevis" pname="d" oct="4" />
+								<note dur="brevis" pname="b" oct="3" num="3" numbase="2" />
+								<note dur="minima" pname="c" oct="4" />
+								<note dur="semibrevis" pname="c" oct="4" />
+								<note dur="minima" pname="a" oct="3" />
+								<note dur="semibrevis" pname="b" oct="3" />
+								<note dur="semibrevis" pname="c" oct="4" />
+								<note dur="minima" pname="c" oct="3" />
+								<note dur="minima" pname="d" oct="3" />
+								<note dur="minima" pname="e" oct="3" />
+								<note dur="minima" pname="f" oct="3" />
+								<note dur="semibrevis" pname="g" oct="3" />
+								<ligature form="recta">
+									<note dur="semibrevis" pname="c" oct="3" lig="recta" />
+									<note dur="semibrevis" pname="f" oct="3" lig="recta" />
+								</ligature>
+								<note dur="semibrevis" pname="e" oct="3" />
+								<note dur="semibrevis" pname="f" oct="3" num="2" numbase="3" />
+								<dot />
+								<note dur="minima" pname="e" oct="3" />
+								<note dur="semibrevis" pname="g" oct="3" />
+								<note dur="brevis" pname="d" oct="4" num="3" numbase="2" />
+								<note dur="semibrevis" pname="e" oct="4" />
+								<note colored="true" dur="semibrevis" pname="e" oct="4" num="4" numbase="3" />
+								<note dur="semiminima" pname="d" oct="4" />
+								<note dur="semibrevis" pname="c" oct="4" />
+								<note dur="minima" pname="b" oct="3" num="2" numbase="3" />
+								<dot />
+								<note dur="semiminima" pname="a" oct="3" />
+								<note dur="minima" pname="g" oct="3" />
+								<note dur="minima" pname="d" oct="3" />
+								<note dur="minima" pname="d" oct="4" />
+								<note dur="semibrevis" pname="c" oct="4" num="2" numbase="3" />
+								<dot />
+								<note dur="minima" pname="d" oct="4" />
+								<note dur="minima" pname="c" oct="4" />
+								<note dur="minima" pname="d" oct="4" />
+								<note dur="minima" pname="e" oct="4" />
+								<note dur="minima" pname="c" oct="4" num="2" numbase="3" />
+								<dot />
+								<note dur="semiminima" pname="b" oct="3" />
+								<note dur="minima" pname="d" oct="4" />
+								<note dur="minima" pname="e" oct="4" />
+								<note dur="minima" pname="d" oct="4" />
+								<note dur="minima" pname="a" oct="3" />
+								<note dur="semibrevis" pname="g" oct="3" />
+								<note dur="semibrevis" pname="c" oct="3" />
+								<note dur="minima" pname="f" oct="3" num="2" numbase="3" />
+								<dot />
+								<note dur="semiminima" pname="e" oct="3" />
+								<note dur="semiminima" pname="d" oct="3" />
+								<note dur="semiminima" pname="e" oct="3" />
+								<note dur="semiminima" pname="f" oct="3" />
+								<note dur="semiminima" pname="g" oct="3" />
+								<note dur="minima" pname="a" oct="3" />
+								<note dur="minima" pname="g" oct="3" />
+								<note dur="minima" pname="e" oct="3" />
+								<note dur="minima" pname="f" oct="3" />
+								<note dur="minima" pname="g" oct="3" />
+								<note dur="minima" pname="a" oct="3" />
+								<note dur="brevis" pname="d" oct="3" num="3" numbase="2" />
+								<note dur="minima" pname="e" oct="3" />
+								<note dur="minima" pname="f" oct="3" />
+								<note dur="minima" pname="g" oct="3" />
+								<note dur="minima" pname="f" oct="3" />
+								<note dur="semiminima" pname="g" oct="3" />
+								<note dur="semiminima" pname="a" oct="3" />
+								<note dur="minima" pname="b" oct="3" />
+								<note dur="semibrevis" pname="c" oct="4" />
+								<note dur="semiminima" pname="d" oct="4" />
+								<note dur="semiminima" pname="c" oct="4" />
+								<note dur="semiminima" pname="b" oct="3" />
+								<note dur="semiminima" pname="a" oct="3" />
+								<note dur="semiminima" pname="g" oct="3" />
+								<note dur="semiminima" pname="f" oct="3" />
+								<note dur="minima" pname="e" oct="3" />
+								<note dur="semibrevis" pname="d" oct="3" />
+								<note dur="longa" pname="d" oct="4" />
+								<barLine />
+							</layer>
+						</staff>
+					</section>
+				</score>
+			</mdiv>
+		</body>
+	</music>
+</mei>

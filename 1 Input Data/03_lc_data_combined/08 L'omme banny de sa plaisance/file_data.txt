@@ -1,0 +1,9 @@
+Barbingant / Johannes Fede
+data/res_dict_leuven_chansonnier/b-af-ms-1_034_11v.pickle
+data/res_dict_leuven_chansonnier/b-af-ms-1_035_12r.pickle
+data/res_dict_leuven_chansonnier/b-af-ms-1_036_12v.pickle
+data/res_dict_leuven_chansonnier/b-af-ms-1_037_13r.pickle
+data/source_images/lc_034_11v.jpeg
+data/source_images/lc_035_12r.jpeg
+data/source_images/lc_036_12v.jpeg
+data/source_images/lc_037_13r.jpeg

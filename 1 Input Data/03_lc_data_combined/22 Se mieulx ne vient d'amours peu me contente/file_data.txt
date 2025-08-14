@@ -1,0 +1,9 @@
+P. Convert
+data/res_dict_leuven_chansonnier/b-af-ms-1_070_29v.pickle
+data/res_dict_leuven_chansonnier/b-af-ms-1_071_30r.pickle
+data/res_dict_leuven_chansonnier/b-af-ms-1_072_30v.pickle
+data/res_dict_leuven_chansonnier/b-af-ms-1_073_31r.pickle
+data/source_images/lc_070_29v.jpeg
+data/source_images/lc_071_30r.jpeg
+data/source_images/lc_072_30v.jpeg
+data/source_images/lc_073_31r.jpeg
