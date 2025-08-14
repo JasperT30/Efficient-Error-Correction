@@ -5,9 +5,11 @@ Public repository for data and scripts related to my master's thesis "Efficient 
 ## Input data
 
 The input data is located in the "Input Data" folder. This folder contains three subfolders:
+
 1. res_dict_lc
 2. source_images
 3. lc_data_combined
+
 The first subfolder holds the OMR output data. This means that it contains an individual pickle file for every folio of the *Leuven Chansonnier*. These pickle files are serialised detection dictionaries that represent the symbols detected by the OMR algorithm on that folio
 
 The second subfolder holds the source images. These are individual images of every folio of the *Leuven Chansonnier*. The images were taken from IDEM (Integrated Database for Early Music), a database made available by the Alamire Foundation in Leuven.
